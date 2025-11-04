@@ -1,0 +1,131 @@
+.conteiner1 {
+  background: linear-gradient(to top, rgb(41, 198, 94), rgb(15, 82, 37));
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  min-height: 100vh;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  font-family: Arial, sans-serif;
+}
+
+.imgFondo {
+  position: absolute;
+  left: 0;
+}
+
+.imgFondo img {
+  height: 90vh;
+}
+
+.login-form {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(7px);
+  background-color: rgba(243, 238, 238, 0.587);
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+  flex-direction: column;
+  text-align: center;
+}
+
+.login-form div img {
+  height: 180px;
+  border-radius: 90px;
+}
+
+.login-form div {
+  margin-bottom: 15px;
+}
+
+.login-form h1 {
+  margin: 2px;
+  color: #043d19;
+  margin: 10px 0 5px;
+  font-size: 20px;
+  text-shadow: -2px 2px 3px #000000b3;
+}
+
+.login-form h3 {
+  margin: 2px 0 3px;
+  color: #043d19;
+  font-size: 16px;
+  text-shadow: -2px 2px 3px #000000b3;
+}
+
+.login-form h4 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #043d19;
+  font-size: 15px;
+}
+
+.login-form input {
+  width: 80%;
+  padding: 15px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin-top: 5px;
+}
+
+.login-form button {
+  width: 40%;
+  padding: 10px;
+  border: none;
+  background-color: #086b2dc5;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 0px;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.login-form button:hover {
+  background-color: #0af450fb;
+}
+
+.password-input-container {
+  position: relative;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.password-input-container input {
+  width: 100%;
+  padding-right: 40px; /* Espacio para el ícono */
+}
+
+.conteiner1 .password-toggle {
+  position: absolute;
+  right: 10px;
+  top: 55%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #b9b6b6;
+  padding: 0px;
+  margin: 0;
+  width: auto;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.conteiner1 .password-toggle:hover {
+  background: none;
+  color: #28f239;
+}
+
+@media (max-width: 850px) {
+  .imgFondo {
+    transform: translate(-50%);
+  }
+}

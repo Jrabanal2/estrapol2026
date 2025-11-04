@@ -1,0 +1,340 @@
+.registro-usuario {
+  background: linear-gradient(to top, rgb(41, 198, 94), rgb(15, 82, 37));
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  min-height: 100vh;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  font-family: Arial, sans-serif;
+} 
+
+.registro-usuario .imgFondo {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 0;
+}
+
+.registro-usuario .imgFondo img {
+  height: 90vh;
+  opacity: 0.8;
+}
+
+.register-form {
+  width: 90%;
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 30px;
+  backdrop-filter: blur(7px);
+  background-color: rgba(243, 238, 238, 0.587);
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+
+.register-header img {
+  height: 150px;
+  border-radius: 75px;
+  margin-bottom: 15px;
+}
+
+.register-header h4 {
+  color: #043d19;
+  margin: 10px 0 20px;
+  font-size: 22px;
+  text-shadow: -2px 2px 3px #000000b3;
+  font-weight: bold;
+}
+
+/* Layout para Desktop */
+.form-row {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 15px;
+  align-items: stretch;
+}
+
+.form-group {
+  margin-bottom: 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Grupos específicos para desktop */
+.grade-group {
+  flex: 0 0 120px;
+}
+
+.name-group {
+  flex: 2;
+}
+
+.phone-group {
+  flex: 1;
+}
+
+.email-group {
+  width: 100%;
+}
+
+.password-row {
+  gap: 15px;
+}
+
+.password-group,
+.confirm-password-group {
+  flex: 1;
+}
+
+/* Estilos de inputs y selects */
+.registro-usuario select,
+.registro-usuario input {
+  width: 100%;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-size: 14px;
+  box-sizing: border-box;
+  flex: 1;
+}
+
+.registro-usuario select {
+  background-color: white;
+  cursor: pointer;
+  height: 51px; /* Para igualar altura con inputs */
+}
+
+.registro-usuario input::placeholder {
+  color: #666;
+  font-size: 13px;
+}
+
+.registro-usuario select option {
+  padding: 10px;
+}
+
+/* Contenedores de contraseña */
+.password-input-container {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.password-input-container input {
+  width: 100%;
+  padding-right: 45px;
+}
+
+.registro-usuario .password-toggle {
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #b9b6b6;
+  padding: 0;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.registro-usuario .password-toggle:hover {
+  background: none;
+  color: #28f239;
+}
+
+.registro-usuario .password-toggle:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Botón de registro */
+.register-button {
+  width: 40%;
+  padding: 15px;
+  background-color: #08672bc5;
+  color: #fff;
+  border: none;
+  margin-top: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.register-button:hover:not(:disabled) {
+  background-color: #0af450fb;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.register-button:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+/* Enlace de login */
+.login-link {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.login-link a {
+  color: #4285f4;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.login-link a:hover {
+  text-decoration: underline;
+}
+
+/* Mensajes de error y éxito */
+.error-message {
+  color: #ff4444;
+  margin: 10px 0;
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.success-message {
+  color: #00C851;
+  margin: 10px 0;
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+/* ========== RESPONSIVE ========== */
+@media (max-width: 768px) {
+  .register-form {
+    width: 95%;
+    margin: 20px auto;
+    padding: 20px;
+  }
+
+  .register-header img {
+    height: 120px;
+    border-radius: 60px;
+  }
+
+  .register-header h4 {
+    font-size: 18px;
+    margin: 5px 0 15px;
+  }
+
+  /* Layout para Mobile - Una columna */
+  .form-row {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .form-group {
+    margin-bottom: 10px;
+  }
+
+  .grade-group,
+  .name-group,
+  .phone-group,
+  .password-group,
+  .confirm-password-group {
+    flex: 1 1 100%;
+  }
+
+  /* Reducir tamaño de letra en mobile */
+  .registro-usuario select,
+  .registro-usuario input {
+    padding: 12px;
+    font-size: 13px;
+  }
+
+  .registro-usuario select {
+    height: 46px;
+  }
+
+  .registro-usuario input::placeholder {
+    font-size: 12px;
+  }
+
+  .register-button {
+    width: 60%;
+    padding: 12px;
+    font-size: 14px;
+    margin-top: 15px;
+  }
+
+  .login-link {
+    font-size: 13px;
+    margin-top: 15px;
+  }
+
+  .password-input-container input {
+    padding-right: 40px;
+  }
+
+  .registro-usuario .password-toggle {
+    right: 12px;
+    width: 18px;
+    height: 18px;
+  }
+}
+
+@media (max-width: 480px) {
+  .register-form {
+    padding: 15px;
+  }
+
+  .register-header img {
+    height: 100px;
+    border-radius: 50px;
+  }
+
+  .register-header h4 {
+    font-size: 16px;
+  }
+
+  .registro-usuario select,
+  .registro-usuario input {
+    padding: 10px;
+    font-size: 12px;
+  }
+
+  .registro-usuario select {
+    height: 42px;
+  }
+
+  .register-button {
+    width: 70%;
+    padding: 10px;
+    font-size: 13px;
+  }
+
+  .login-link {
+    font-size: 12px;
+  }
+}
+
+/* Estilos para cuando los inputs están deshabilitados */
+.registro-usuario select:disabled,
+.registro-usuario input:disabled {
+  background-color: #f5f5f5;
+  cursor: not-allowed;
+  opacity: 0.7;
+}
