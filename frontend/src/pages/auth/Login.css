@@ -124,6 +124,11 @@
   color: #28f239;
 }
 
+.register-link {
+  margin-top: 15px;
+  color: #090909;
+}
+
 @media (max-width: 850px) {
   .imgFondo {
     transform: translate(-50%);

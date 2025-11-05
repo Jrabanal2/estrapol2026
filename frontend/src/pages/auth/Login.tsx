@@ -50,7 +50,7 @@ const Login: React.FC = () => {
           <h4>Suboficiales de Armas</h4>
         </div>
 
-        <div className="form-group">
+        <div className="form-group password-input-container">
           <input
             type="email"
             name="mail"
@@ -82,7 +82,7 @@ const Login: React.FC = () => {
           </button>
         </div>
 
-        <div className="form-options">
+        <div className="form-options login-link">
           <a href="/forgot-password" className="forgot-password">
             ¿Olvidaste tu contraseña?
           </a>
@@ -96,7 +96,7 @@ const Login: React.FC = () => {
           {isLoading ? 'INGRESANDO...' : 'INGRESAR'}
         </button>
 
-        <div className="register-link">
+        <div className="register-link login-link">
           ¿No tienes cuenta? <a href="/register">Regístrate aquí</a>
         </div>
       </form>

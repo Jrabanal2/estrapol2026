@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { FaEye, FaEyeSlash } from 'react-icons/fa';
 import { useAuth } from '../../contexts/AuthContext';
+import WhatsAppChat from '../../components/WhatsAppChat';
 import type { RegisterForm } from '../../types';
 import { GRADE_OPTIONS } from '../../types';
 import './Register.css';
@@ -86,7 +87,8 @@ const Register: React.FC = () => {
       <form onSubmit={handleSubmit} className="register-form">
         <div className="register-header">
           <img src='/images/logo.jpg' alt='Logo PNP' />
-          <h4>REGISTRO "ESTRAPOL"</h4>
+          <h3>ESTUDIO ESTRATÉGICO POLICIAL</h3>
+          <h4>Suboficiales de Armas</h4>
         </div>
 
         {error && (
@@ -206,6 +208,8 @@ const Register: React.FC = () => {
           ¿Ya tienes cuenta? <a href="/login">Inicia sesión aquí</a>
         </div>
       </form>
+
+      <WhatsAppChat />
     </div>
   );
 };

@@ -52,6 +52,13 @@
   font-weight: bold;
 }
 
+.register-header h3 {
+  margin: 2px 0 3px;
+  color: #043d19;
+  font-size: 16px;
+  text-shadow: -2px 2px 3px #000000b3;
+}
+
 /* Layout para Desktop */
 .form-row {
   display: flex;
@@ -72,6 +79,7 @@
   flex: 0 0 120px;
 }
 
+
 .name-group {
   flex: 2;
 }
@@ -81,6 +89,7 @@
 }
 
 .email-group {
+  margin: 0 0 15px 0 ;
   width: 100%;
 }
 
@@ -141,7 +150,7 @@
   background: none;
   border: none;
   cursor: pointer;
-  color: #b9b6b6;
+  color: #121111;
   padding: 0;
   width: 20px;
   height: 20px;
@@ -167,7 +176,7 @@
   background-color: #08672bc5;
   color: #fff;
   border: none;
-  margin-top: 20px;
+  margin-top: 5px;
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s;
@@ -196,9 +205,9 @@
 }
 
 .login-link a {
-  color: #4285f4;
+  color: #02b538;
   text-decoration: none;
-  font-weight: bold;
+  font-weight: 400;
 }
 
 .login-link a:hover {
@@ -222,7 +231,7 @@
   font-weight: bold;
 }
 
-/* ========== RESPONSIVE ========== */
+
 @media (max-width: 768px) {
   .register-form {
     width: 95%;
@@ -240,14 +249,14 @@
     margin: 5px 0 15px;
   }
 
-  /* Layout para Mobile - Una columna */
   .form-row {
     flex-direction: column;
-    gap: 10px;
+    gap: 0;
+    margin-bottom: 0;
   }
 
   .form-group {
-    margin-bottom: 10px;
+    margin-bottom: 8px;
   }
 
   .grade-group,
@@ -277,7 +286,7 @@
     width: 60%;
     padding: 12px;
     font-size: 14px;
-    margin-top: 15px;
+    margin-top: 5px;
   }
 
   .login-link {
