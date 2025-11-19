@@ -1,5 +1,6 @@
 import axios from 'axios';
 import type { User, ApiResponse, AuthResponse } from '../types';
+import dataService from './dataService';
 
 const API_BASE_URL = 'http://localhost:5000/api';
 
@@ -48,10 +49,13 @@ api.interceptors.response.use(
     });
     
     if (error.response?.status === 401) {
+      console.log('❌ Error 401 - Token inválido, limpiando sesión');
       localStorage.removeItem('token');
       localStorage.removeItem('user');
+      localStorage.removeItem('loginTime');
       window.location.href = '/login';
     }
+    
     return Promise.reject(error);
   }
 );
@@ -77,8 +81,40 @@ interface ApiError {
   message: string;
 }
 
+// Función para manejar endpoints locales (JSON)
+const handleLocalEndpoint = async (url: string) => {
+  if (url === '/api/topics') {
+    const topics = await dataService.getTopics();
+    return { data: topics };
+  }
+
+  if (url.startsWith('/api/questions/count')) {
+    const urlParams = new URLSearchParams(url.split('?')[1]);
+    const topicId = urlParams.get('topicId');
+    if (topicId) {
+      const count = await dataService.getQuestionsCountByTopic(topicId);
+      return { data: { count } };
+    }
+  }
+
+  if (url.startsWith('/api/questions/random/')) {
+    const parts = url.split('/');
+    const topicId = parts[4];
+    const count = parseInt(parts[5]);
+    const questions = await dataService.getRandomQuestionsByTopic(topicId, count);
+    return { data: questions };
+  }
+
+  if (url === '/api/questions') {
+    const questions = await dataService.getQuestions();
+    return { data: questions };
+  }
+
+  throw new Error(`Endpoint no implementado: ${url}`);
+};
+
 export const authService = {
-  // Login - ahora retorna AuthResponse
+  // Login - retorna AuthResponse
   login: async (credentials: LoginCredentials): Promise<ApiResponse<AuthResponse>> => {
     try {
       const response = await api.post('/auth/login', credentials);
@@ -94,7 +130,7 @@ export const authService = {
     }
   },
 
-  // Registro - ahora retorna AuthResponse
+  // Registro - retorna AuthResponse
   register: async (userData: RegisterData): Promise<ApiResponse<AuthResponse>> => {
     try {
       const response = await api.post('/auth/register', userData);
@@ -143,4 +179,35 @@ export const authService = {
   },
 };
 
-export default api;
+// API modificada para usar JSON local cuando no hay backend
+const enhancedApi = {
+  get: async (url: string) => {
+    try {
+      // Intentar con el backend primero
+      const response = await api.get(url);
+      return response;
+    } catch (error) {
+      console.log('🔄 Fallback a datos locales para:', url);
+      // Si falla, usar datos locales
+      return handleLocalEndpoint(url);
+    }
+  },
+
+  post: async (url: string, data?: unknown) => {
+    // Para auth siempre usar backend
+    if (url.includes('/auth/')) {
+      return api.post(url, data);
+    }
+    
+    try {
+      const response = await api.post(url, data);
+      return response;
+    } catch (error) {
+      console.log('🔄 Fallback a datos locales para POST:', url);
+      // Para otros endpoints, simular respuesta
+      return { data: { success: true, message: 'Operación simulada' } };
+    }
+  }
+};
+
+export default enhancedApi;

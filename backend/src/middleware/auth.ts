@@ -53,7 +53,10 @@ export const auth = async (req: AuthRequest, res: Response, next: NextFunction):
 export const adminAuth = async (req: AuthRequest, res: Response, next: NextFunction): Promise<void> => {
   await auth(req, res, () => {
     if (req.user?.role !== 'admin') {
-      res.status(403).json({ success: false, message: 'Access denied. Admin role required.' });
+      res.status(403).json({ 
+        success: false, 
+        message: 'Access denied. Admin role required.' 
+      });
       return;
     }
     next();

@@ -57,10 +57,10 @@ export interface UserProfile {
 
 // Opciones de grados
 export const GRADE_OPTIONS = [
-  'SB', 'ST1', 'ST2', 'ST3', 'S1', 'S2', 'S3'
+    'SB', 'ST1', 'ST2', 'ST3', 'S1', 'S2', 'S3'
 ] as const;
 
-// Tipo para el contexto de autenticación
+// Actualizar AuthContextType para incluir checkSessionExpiry
 export interface AuthContextType {
   user: User | null;
   login: (credentials: LoginForm) => Promise<ApiResponse<AuthResponse>>;
@@ -68,4 +68,5 @@ export interface AuthContextType {
   register: (userData: RegisterForm) => Promise<ApiResponse<AuthResponse>>;
   isLoading: boolean;
   checkPermission: (page: string, functionName?: string) => boolean;
+  checkSessionExpiry?: () => boolean; // Nueva función opcional
 }

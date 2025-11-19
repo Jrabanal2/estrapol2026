@@ -1,114 +1,288 @@
-.dashboard-container {
-  background: linear-gradient(to top, rgb(41, 198, 94), rgb(15, 82, 37));
-  background-size: cover;
-  background-position: center;
-  width: 100%;
-  min-height: 100vh;
-  height: auto;
+.main-container {
   position: relative;
-  font-family: Arial, sans-serif;
-  padding: 20px;
+  top: 0;
+  min-height: 90.5vh;
 }
 
 .background-image {
   position: absolute;
-  left: 0;
-  top: 0;
-  z-index: 0;
+  width: 100%;
+  height: 100%;
 }
 
 .background-image img {
-  height: 90vh;
-  opacity: 0.3;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
-.dashboard-content {
-  position: relative;
-  z-index: 1;
+.main-content {
+  padding: 1rem;
   max-width: 1200px;
   margin: 0 auto;
 }
 
-.dashboard-header {
+.main-header {
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 0rem;
 }
 
-.dashboard-header h1 {
+.main-header h1 {
   color: white;
-  font-size: 2.5rem;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-  margin-bottom: 10px;
+  font-size: 2rem;
 }
 
-.dashboard-header span {
-  color: #ffeb3b;
-}
-
-/* Estilos temporales para Main - los mejoraremos cuando migremos el Dashboard completo */
-.temporizador {
-  background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(10px);
-  border-radius: 15px;
-  padding: 20px;
-  margin-bottom: 30px;
-  text-align: center;
+.main-header h1 span {
+  color: #f1c40f;
 }
 
 .modules-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 20px;
-  margin-top: 30px;
+  gap: 2rem;
+  margin-top: 1rem;
 }
 
 .module-card {
-  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid #ccc;
   border-radius: 10px;
-  padding: 20px;
+  backdrop-filter: blur(7px);
+  background-color: rgba(17, 87, 16, 0.7);
+  padding: 2rem;
   text-align: center;
   text-decoration: none;
-  color: #333;
+  color: #ffffff;
   transition: transform 0.3s, box-shadow 0.3s;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 50px;
 }
 
 .module-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.416);
 }
 
 .module-card img {
   width: 80px;
   height: 80px;
-  margin-bottom: 15px;
+  margin-bottom: 1rem;
+  object-fit: contain;
 }
 
 .module-card span {
+  font-size: 1.2rem;
   font-weight: bold;
-  font-size: 1.1rem;
-  color: #043d19;
-}
-
-.loading {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  font-size: 1.5rem;
-  color: white;
+  margin-top: 0;
 }
 
 @media (max-width: 768px) {
-  .dashboard-header h1 {
-    font-size: 2rem;
+  .main-content {
+    padding: 1rem;
   }
   
   .modules-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  .module-card img {
+    width: 60px; 
+    height: 60px;
+  }
+
+  .module-card span {
+    font-size: 0.8rem; 
   }
   
-  .dashboard-container {
-    padding: 10px;
+  .main-header h1 {
+    font-size: 14px;
   }
+}
+
+/* ================== ESTILOS TEMPORIZADOR ================== */
+.temporizador {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.temporizador .countdown {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   font-weight: bold;
+   gap: 0.5rem;
+   flex-wrap: wrap;
+   position: relative;
+}
+
+/* 🔹 Texto superior del temporizador */
+.temporizador .countdown__title {
+   width: 100%;
+   font-size: 1.5rem;
+   font-weight: bold;
+   margin-bottom: 0;
+   text-align: center;
+   color: #ffffff;
+   text-transform: uppercase;
+   letter-spacing: 2px;
+}
+
+/* 🔹 Contenedor de cada bloque */
+.temporizador .countdown__item {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+/* Etiqueta de cada bloque */
+.temporizador .countdown__label {
+   margin-bottom: 0.3rem;
+   font-size: 0.8rem;
+   text-align: center;
+   color: rgba(255, 254, 254, 0.897);
+   text-transform: uppercase;
+}
+
+/* Cada bloque de tiempo */
+.temporizador .countdown__block {
+   background-color: #fff;
+   border-radius: 0.5rem;
+   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.3);
+   font-size: 3em;
+   width: 5rem;
+   height: 5rem;
+   transition: background-color 0.3s, box-shadow 0.3s;
+   position: relative;
+   color: #2ecc71;
+   overflow: hidden;
+}
+
+/* 🆕 Nuevo contenedor para los dígitos que se animan */
+.temporizador .countdown__digit-group {
+   display: flex;
+   flex-direction: column-reverse;
+   width: 100%;
+   height: 200%;
+}
+
+/* Cuando falten 30 días o menos */
+.temporizador .countdown.urgent .countdown__block {
+   color: #e74c3c;
+   animation: pulse-red 1s infinite alternate;
+}
+
+/* 🆕 Digitos individuales */
+.temporizador .countdown__digits {
+   width: 100%;
+   height: 50%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-weight: bold;
+}
+
+/* Animaciones */
+.temporizador .countdown__block--bounce {
+   animation: bounce 0.75s;
+}
+
+/* 🆕 Aplica la animación 'roll' al grupo de dígitos */
+.temporizador .countdown__block--bounce .countdown__digit-group {
+   animation: roll 0.75s ease-in-out forwards;
+}
+
+/* Mensaje cuando se alcanza la fecha */
+.temporizador .date-reached {
+   font-size: 2em;
+   font-weight: bold;
+   text-align: center;
+   color: #ffff33;
+   animation: pulse 2s infinite;
+}
+
+/* ================== RESPONSIVE ================== */
+@media (max-width: 768px) {
+   .temporizador .countdown__block {
+      font-size: 1.3em;
+      width: 3.5rem;
+      height: 3.5rem;
+   }
+
+   .temporizador .countdown__label {
+      font-size: 0.55rem;
+      margin-bottom: 0.2rem;
+   }
+
+   .temporizador .countdown__title {
+      font-size: 1rem;
+   }
+
+   .temporizador .date-reached {
+      font-size: 1.2em;
+   }
+}
+
+@media (max-width: 480px) {
+   .temporizador .countdown__block {
+      font-size: 1em;
+      width: 3rem;
+      height: 3rem;
+   }
+
+   .temporizador .countdown__label {
+      font-size: 0.5rem;
+   }
+
+   .temporizador .countdown__title {
+      font-size: 0.9rem;
+   }
+}
+
+/* ================== ANIMACIONES ================== */
+@keyframes bounce {
+   from,
+   to {
+      animation-timing-function: ease-in;
+      transform: translateY(0);
+   }
+   50% {
+      animation-timing-function: ease-out;
+      transform: translateY(15%);
+   }
+}
+
+@keyframes roll {
+   from {
+      transform: translateY(-50%);
+   }
+   to {
+      transform: translateY(0);
+   }
+}
+
+@keyframes pulse {
+   0% {
+      transform: scale(1);
+   }
+   50% {
+      transform: scale(1.05);
+   }
+   100% {
+      transform: scale(1);
+   }
+}
+
+@keyframes pulse-red {
+   0% {
+      text-shadow: 0 0 5px rgba(231, 76, 60, 0.5);
+   }
+   100% {
+      text-shadow: 0 0 15px rgba(231, 76, 60, 0.8);
+   }
 }

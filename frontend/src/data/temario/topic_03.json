@@ -1,0 +1,1481 @@
+{
+  "nombre_tema": "LEY DE LA POLICÍA NACIONAL DEL PERÚ",
+  "texto": "",
+  "titulos": [
+    {
+      "id": "titulo",
+      "numero": "PRELIMINAR",
+      "nombre": "TÍTULO PRELIMINAR",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "0",
+          "nombre": "Disposiciones Preliminares",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "II",
+              "texto": "Naturaleza. La Policía Nacional del Perú es una institución del Estado con calidad de órgano ejecutor, que depende del Ministerio del Interior; con competencia administrativa y autonomía operativa para el ejercicio de la función policial en todo el territorio nacional, en el marco de lo previsto en el artículo 166 de la Constitución Política del Perú. Es profesional, técnica, jerarquizada, no deliberante, disciplinada y subordinada al poder constitucional; sus integrantes se deben al cumplimiento de la Ley, el orden y la seguridad en toda la República. Participa en el sistema de defensa nacional, defensa civil, desarrollo económico y social del país.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "III",
+              "texto": "Función Policial. Se desarrolla en el marco de su finalidad fundamental descrita y definida en el artículo 166 de la Constitución Política del Perú, ejerciendo sus funciones en su condición de fuerza pública del Estado. La Policía Nacional del Perú para el cumplimiento de la función policial realiza lo siguiente: La función policial se materializa mediante la ejecución del servicio policial, requiriéndose del personal policial conocimientos especializados que permitan la excelencia del servicio a prestar. Los lineamientos rectores para la ejecución del servicio policial serán determinados mediante reglamento. El personal de la Policía Nacional del Perú ejerce la función policial a dedicación exclusiva y obligatoria en todo momento, lugar y circunstancia. Está sujeta a las prohibiciones e incompatibilidades señaladas en el presente Decreto Legislativo.",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Garantizar, mantener y restablecer el orden interno y el orden público,",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Presta protección, y ayuda a las personas y a la comunidad.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Garantizar el cumplimiento de las leyes y la seguridad del patrimonio público y privado.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Previene, investiga los delitos y faltas, combate la delincuencia común organizada y el crimen organizado.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Vigila y controla las fronteras.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "Vela por la protección, promoción, garantía y el respeto del libre ejercicio de los derechos fundamentales de las personas y el normal desarrollo de las actividades de la población.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "7",
+                  "texto": "Presta servicios de seguridad ciudadana en coordinación con los Gobiernos Locales y Regionales.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "8",
+                  "texto": "Presta apoyo a las demás instituciones públicas en el ámbito de su competencia.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "IV",
+              "texto": "Ejercicio de la Función Policial. La función policial se ejerce por delegación del Estado al personal policial, acreditado con la resolución de alta que marca el inicio de su carrera; requiere conocimientos que son adquiridos a través de la formación profesional y técnica. El profesional policial recibe una formación académica integral, permitiéndole su desempeño profesional, desarrollo cultural, social y económico, con énfasis en la disciplina, el mérito, el respeto a los derechos fundamentales, la ética, el liderazgo y el servicio público.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "VI",
+              "texto": "Apoyo a la Policía Nacional del Perú. Las autoridades, entidades públicas y privadas, así como las personas naturales y jurídicas están obligadas a prestar apoyo a la Policía Nacional del Perú, cuando las circunstancias así lo requieran, en el cumplimiento de sus funciones.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "VII",
+              "texto": "Principios Institucionales. Para el ejercicio de sus funciones y atribuciones, la Policía Nacional del Perú se orienta por los siguientes principios:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Primacía de la persona humana y sus derechos fundamentales: La defensa y protección de la persona humana, el respeto a su dignidad y a las garantías para el pleno ejercicio de sus derechos y libertades, considerando los enfoques de derechos humanos, género e interculturalidad; tienen primacía en el ejercicio de la función policial;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Unidad de la función policial: La función policial se brinda a través de la Policía Nacional del Perú, como fuerza pública unitaria y cohesionada;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Unidad de Comando: La Policía Nacional del Perú tiene Comando Único;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Acceso universal a los servicios: Los ciudadanos tienen derecho a acceder de manera gratuita, inmediata, oportuna y eficiente al servicio policial;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Orientación al Ciudadano: La Policía Nacional del Perú orienta su gestión a partir de las necesidades ciudadanas, buscando agregar valor público a través del uso racional de los recursos con los que cuenta y con un estándar de calidad adecuado;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "Transparencia y rendición de cuentas: La Policía Nacional del Perú es transparente en su actuación y promueve la rendición de cuentas de su gestión a la ciudadanía;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "7",
+                  "texto": "Legalidad: La función policial se brinda en el marco de la Constitución Política del Perú y las demás normas sobre la materia;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "8",
+                  "texto": "Eficiencia y eficacia: Toda actuación policial procura ser eficiente, eficaz, y se orienta a una permanente optimización de la calidad del servicio policial;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "9",
+                  "texto": "La articulación de las intervenciones en el territorio nacional: La Policía Nacional del Perú planifica y ejecuta sus acciones operativas y administrativas de manera coordinada y alineadas con las políticas nacionales, sectoriales y los intereses del Estado, Gobiernos Regionales y Locales.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "VIII",
+              "texto": "Valores Institucionales. Los valores que rigen al personal de la Policía Nacional del Perú son:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Honor: Es el valor que asegura su prestigio y reputación; se cultiva mediante el cabal cumplimiento de la función policial, de los deberes ciudadanos y el respeto al prójimo y a sí mismo;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Honestidad: Actuar en todos los actos de la vida pública y privada con transparencia y verdad;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Justicia: Actuar con equidad e imparcialidad, fundada en la no discriminación y la protección de la dignidad de las personas, procurando el bien común y el interés general;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Integridad: El servicio policial demanda la actuación ética, proba y correcta;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Cortesía: Conducta respetuosa, amable, oportuna, deferente y predispuesta al servicio del ciudadano;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "Disciplina: Acatar consciente y voluntariamente las órdenes impartidas con arreglo a ley, así como la normatividad institucional;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "7",
+                  "texto": "Patriotismo: Predisposición al sacrificio personal por la Patria;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "8",
+                  "texto": "Pertenencia institucional: Identificación con un colectivo humano unido por lazos institucionales y de compañerismo, basados en valores y buenas prácticas que dignifican la función policial;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "9",
+                  "texto": "Vocación: Poseer de manera permanente la aptitud y disposición para desempeñar la función policial en beneficio de la comunidad, denotando capacidad para establecer relaciones humanas armoniosas y madurez emocional, así como las condiciones físicas necesarias para el cumplimiento de la labor policial; y,",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "10",
+                  "texto": "Servicio: Servir a la institución policial, cuya doctrina, organización y práctica son propias de la Policía Nacional del Perú, destinada a proteger y garantizar el libre ejercicio de los derechos y las libertades de las personas, prevenir y controlar toda clase de delitos y faltas, así como a mantener la paz interna, la tranquilidad, el orden interno, el orden público y la seguridad ciudadana.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "IX",
+              "texto": "Símbolos y distintivos institucionales. Son símbolos de la Policía Nacional del Perú el estandarte, emblema e himno institucional. Son distintivos de autoridad y mando del personal de armas, el uniforme reglamentario, la placa insignia y el carné de identidad. Los uniformes, distintivos y las divisas de la Policía Nacional del Perú se especifican en el reglamento respectivo y son de uso exclusivo de sus integrantes, bajo responsabilidad penal y civil. La denominación de Policía es un término distintivo y exclusivo de la Policía Nacional del Perú para efectos del ejercicio de sus funciones y de identificación ante la sociedad y autoridades.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "X",
+              "texto": "Lema y efemérides institucionales. El lema de la Policía Nacional del Perú es: Dios, Patria y Ley. La Policía Nacional del Perú, con la finalidad de fortalecer la vocación profesional, identidad, doctrina y mística institucional, así como la integración del personal policial celebra su aniversario institucional el 6 de diciembre de cada año como el 'Día de la Policía Nacional del Perú', así como el 30 de agosto el 'Día de Santa Rosa de Lima - Patrona de la Policía Nacional del Perú.",
+              "enumeraciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "numero": "I",
+      "nombre": "COMPETENCIAS, FUNCIONES Y ATRIBUCIONES",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "1",
+          "nombre": "Competencias, Funciones y Atribuciones",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "1",
+              "texto": "Ámbito de Competencia. La Policía Nacional del Perú ejerce competencia funcional y exclusiva a nivel nacional en materia de orden interno y orden público; y competencia compartida en materia de seguridad ciudadana. En el marco de las mismas presta protección y ayuda a las personas y a la comunidad; garantiza el cumplimiento de las leyes, la seguridad del patrimonio público y privado; prevenir, investigar y combatir la delincuencia común y organizada y el crimen organizado; vigila y controla las fronteras.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "2",
+              "texto": "Funciones. Son funciones de la Policía Nacional del Perú las siguientes:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Garantizar, mantener y restablecer el orden interno y el orden público.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Mantener la paz y la convivencia social pacífica, garantizando la seguridad, tranquilidad y orden público;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Promover e implementar mecanismos de coordinación y articulación en favor de la seguridad ciudadana;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Prestar servicios de seguridad ciudadana en coordinación con los Gobiernos Locales y Regionales;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Garantizar el cumplimiento de las leyes y la seguridad del patrimonio público y privado.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "Garantizar los derechos de las personas y la protección de sus bienes, privilegiando de manera especial a la población en riesgo, vulnerabilidad y abandono, incorporando los enfoques de derechos humanos, género e interculturalidad en sus intervenciones;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "7",
+                  "texto": "Brindar seguridad y protección al Presidente de la República en ejercicio o electo, a los Jefes de Estado en visita oficial, a los Presidentes de los Poderes Públicos y de los organismos constitucionalmente autónomos, a los Congresistas de la República, Ministros de Estado, así como a diplomáticos, dignatarios y otras personalidades que determinen el reglamento correspondiente;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "8",
+                  "texto": "Prevenir, combatir, investigar y denunciar la comisión de delitos y faltas previstas en el Código Penal y leyes especiales;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "9",
+                  "texto": "Prevenir y combatir la delincuencia común, organizada y el crimen organizado, acciones mediante de sensibilización social, operaciones policiales e investigaciones de delitos comunes y de alta complejidad; inclusive en el entorno digital o ciberespacio;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "10",
+                  "texto": "Intervenir en la ejecución de los procedimientos de extinción de dominio, de conformidad con las normas legales vigentes;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "11",
+                  "texto": "Prevenir e investigar la comisión de delitos relacionados con el empleo de sustancias químicas, incluidos los insumos químicos, productos y subproductos o derivados, maquinarias y equipos utilizados para la elaboración ilegal de drogas y minería ilegal.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "12",
+                  "texto": "Obtener, custodiar, asegurar, trasladar y procesar indicios, evidencias y elementos probatorios relacionados con la prevención e investigacióndel delito, poniéndolos oportunamente a disposición de la autoridad competente;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "13",
+                  "texto": "Practicar y emitir peritajes oficiales de criminalística para efecto de procesos judiciales y otros derivados de la función policial;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "14",
+                  "texto": "Asumir y realizar la investigación del delito desde el conocimiento de la noticia criminal, comunicando al Ministerio Público en concordancia con el Código Procesal Penal y las leyes de la materia;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "15",
+                  "texto": "Investigar la desaparición y trata de personas;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "16",
+                  "texto": "Administrar el Sistema Criminalístico Policial, en armonía con las normas que la regulan;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "17",
+                  "texto": "Administrar el sistema de inteligencia policial, en armonía con las normas que regulan el Sistema Nacional de Inteligencia;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "18",
+                  "texto": "Vigilar y controlar las fronteras, así como prestar apoyo a la Superintendencia Nacional de Migraciones para el cumplimiento de las disposiciones legales sobre el control migratorio;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "19",
+                  "texto": "Prevenir, investigar y denunciar ante las autoridades que corresponda, los accidentes de tránsito, y las infracciones previstas en la normatividad vigente;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "20",
+                  "texto": "Fiscalizar el cumplimiento de las normas de tránsito por parte de los usuarios de la infraestructura vial; y de manera subsidiaria las normas de transporte en la red vial nacional; así como garantizar, mantener y restablecer el libre tránsito y seguridad vial;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "21",
+                  "texto": "Garantizar el cumplimiento de los mandatos escritos del Poder Judicial, Tribunal Constitucional, Jurado Nacional de Elecciones, Ministerio Público y la Oficina Nacional de Procesos Electorales, en el ejercicio de sus funciones;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "22",
+                  "texto": "Garantizar el cumplimiento del Código Administrativo de Contravenciones de la Policía;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "23",
+                  "texto": "Participar subsidiariamente, a solicitud del Instituto Nacional Penitenciario (INPE), en la seguridad de los establecimientos penitenciarios y en seguridad externa del traslado de los procesados y sentenciados de conformidad con la normatividad vigente;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "24",
+                  "texto": "Participar en la política de eco eficiencia del Estado y en el cumplimiento de las disposiciones relativas a la protección y conservación de los recursos naturales y del ambiente;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "25",
+                  "texto": "Velar por la seguridad de los bienes y servicios públicos, en coordinación con las entidades estatales correspondientes;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "26",
+                  "texto": "Garantizar la seguridad y protección de los bienes integrantes del Patrimonio Cultural de la Nación y de aquellos que se presuman como tales; así como la de los turistas y sus bienes;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "27",
+                  "texto": "Participar en la Defensa Nacional, Defensa Civil y en el desarrollo económico y social del país;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "28",
+                  "texto": "Identificar a las personas con fines policiales;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "29",
+                  "texto": "Participar en Operaciones de Paz convocadas por la Organización de las Naciones Unidas (ONU) y otros organismos internacionales; y,",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "30",
+                  "texto": "Ejercer las demás funciones que le señalan la Constitución, las leyes y sus reglamentos.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "3",
+              "texto": "Atribuciones. Son atribuciones del Personal Policial las siguientes:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Intervenir cuando el ejercicio de la función policial así lo requiera, por considerar que sus efectivos se encuentran de servicio en todo momento y circunstancia;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Requerir la identificación de cualquier persona, a fin de realizar la comprobación correspondiente, con miras de prevención de la delincuencia, para la tutela del orden interno desplegada en orden público y seguridad ciudadana, o la prevención del delito, para la obtención de información útil en la averiguación de un hecho punible conforme con el Código Procesal Penal;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Intervenir y registrar a las personas y realizar inspecciones de domicilios, instalaciones, naves, motonaves, aeronaves y otros vehículos y objetos, de acuerdo a la Constitución y la ley. De ser necesario, las personas y vehículos automotores podrán ser conducidos a la unidad policial para su plena identificación;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Intervenir, citar, conducir compulsivamente, retener y detener a las personas de conformidad con la Constitución y la ley;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Requerir el manifiesto de pasajeros de empresas de transporte, registro de huéspedes de los establecimientos de hospedaje y registro de ingreso de vehículos a talleres de mecánica, de reparación automotriz, factorías, ensambladoras, playas o centros de estacionamiento, custodia y guardianía;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "Realizar la inspección física o química de los vehículos siniestrados y emitir protocolos periciales para las acciones administrativas o judiciales;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "7",
+                  "texto": "Hacer uso de la fuerza, de acuerdo a la normatividad vigente, Código de Conducta para Funcionarios Encargados de Hacer Cumplir la Ley, y Principios Básicos sobre el Empleo de la Fuerza y de Armas de Fuego, en el marco de los acuerdos adoptados por las Naciones Unidas;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "8",
+                  "texto": "Poseer, portar y usar armas de fuego, de conformidad con la Constitución y la ley;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "9",
+                  "texto": "Realizar constataciones policiales de acuerdo a ley;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "10",
+                  "texto": "Tener pase libre en vehículos de transporte de servicio público;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "11",
+                  "texto": "Tener ingreso gratuito a los espectáculos públicos para el cumplimiento de sus funciones;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "12",
+                  "texto": "Coordinar, cooperar e intercambiar información con los Organismos Internacionales e Instituciones Policiales extranjeras con miras de prevención y represión de la delincuencia y el crimen organizado, de conformidad con los Convenios y/o acuerdos de cooperación interinstitucional suscritos; y,",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "13",
+                  "texto": "Ejercer las demás atribuciones que señala la Constitución, las leyes y sus reglamentos.",
+                  "subenumeraciones": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "numero": "II",
+      "nombre": "OBLIGACIONES Y DERECHOS",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "1",
+          "nombre": "Obligaciones y Derechos del Personal Policial",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "4",
+              "texto": "Obligaciones del personal policial. El personal policial tiene las siguientes obligaciones:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Respetar y cumplir los mandatos establecidos en la Constitución, las leyes, los reglamentos y las órdenes que en el marco legal vigente impartan sus superiores;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Ejercer la función policial en todo momento, lugar, situación y circunstancia, por considerarse siempre de servicio;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Cumplir sus funciones con imparcialidad, responsabilidad, diligencia y prontitud, así como ejercerlas con profesionalismo, lealtad y ética;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Comportarse con honorabilidad y dignidad;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Presentar las declaraciones juradas de bienes, ingresos y rentas, según corresponda;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "Incorporarse al servicio en un plazo no mayor a cuarenta y ocho (48) horas, cuando se decrete los regímenes de excepción.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "7",
+                  "texto": "Las demás establecidas por la ley y sus reglamentos.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "5",
+              "texto": "Derechos del personal policial. El personal policial tiene los siguientes derechos:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Respeto y consideraciones que su autoridad le otorga;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "No acatar disposiciones que constituyen una manifiesta violación a la Constitución y las leyes;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Formación, capacitación, especialización, subespecialización, reentrenamiento y perfeccionamiento, conforme a la normatividad vigente;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Ascenso, de acuerdo a la Ley de Carrera y de Situación del Personal de la Policía Nacional del Perú y normativa de la materia;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Afectación de armamento, vestuario y equipo que garanticen el eficiente cumplimiento de sus funciones;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "Remuneraciones, bonificaciones, beneficios y pensiones que le corresponden de acuerdo a Ley;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "7",
+                  "texto": "Tratamiento y asistencia médica por cuenta del Estado. Este derecho se hace extensivo a los familiares derechohabientes, según lo establecido en las normas de la materia;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "8",
+                  "texto": "Desempeñar trabajos de acuerdo a su aptitud, cuando por cualquier circunstancia o enfermedad sufra disminución de su capacidad física o sensorial;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "9",
+                  "texto": "Asesoramiento y defensa legal por cuenta del Estado, cuando sea demandado en la vía civil, constitucional o denunciado penal y en caso se extienda, también administrativamente por actos, omisiones o decisiones adoptadas en el ejercicio regular de sus funciones, extendiéndose a la jurisdicción policía militar;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "10",
+                  "texto": "Permisos, licencias y goce de vacaciones anuales, conforme a ley;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "11",
+                  "texto": "Maternidad o paternidad responsable, conforme a lo señalado en las normas de la materia. El personal femenino está exceptuado de acciones o situaciones que ponen en riesgo su embarazo o lactancia;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "12",
+                  "texto": "Reconocimiento, solo para efectos previsionales, como tiempo de servicios, del período de formación como cadete o alumno para el cómputo de los años de servicios a los Oficiales y Suboficiales de armas respectivamente. Este reconocimiento será hasta de cuatro (04) años por la formación profesional para los Oficiales de servicios y el tiempo del curso de adaptación institucional para los Suboficiales de servicios. Se aplica cuando el personal masculino haya cumplido veinte (20) años de tiempo de servicios y diecisiete (17) años y seis (06) meses para el personal femenino;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "13",
+                  "texto": "Reconocimiento de beneficios económicos por cambio de residencia cuando pase a la situación de retiro, con excepción de que este sea por medida disciplinaria, insuficiencia profesional, sentencia judicial con pena privativa de la libertad efectiva, u otra causal que se establezca en el reglamento de la ley.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "14",
+                  "texto": "Reconocimiento de los beneficios sociales que corresponden por pasar a la situación de retiro conforme a ley;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "15",
+                  "texto": "Respeto a sus derechos fundamentales, que comprenden la igualdad y no discriminación, educación, libre desarrollo de la personalidad y unidad familiar; y,",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "16",
+                  "texto": "Los demás derechos, beneficios y prerrogativas reconocidos por la Constitución, las leyes y reglamentos aplicables a la Policía Nacional del Perú.",
+                  "subenumeraciones": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "numero": "III",
+      "nombre": "ORGANIZACIÓN",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "I",
+          "nombre": "ESTRUCTURA ORGÁNICA",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "7",
+              "texto": "Estructura Orgánica. La Policía Nacional del Perú tiene la siguiente estructura orgánica:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Alto Mando",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "1.1",
+                      "texto": "Comandancia General"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "1.2",
+                      "texto": "Estado Mayor General"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "1.3",
+                      "texto": "Inspectoría General"
+                    }
+                  ]
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Comando de Operaciones Policiales",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Secretaría Ejecutiva",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Órgano de Control Institucional",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Órganos Consultivos",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "Órganos de Administración Interna",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "6.1",
+                      "texto": "Órganos de Asesoramiento"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "6.2",
+                      "texto": "Órganos de Apoyo Administrativo"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "6.3",
+                      "texto": "Órganos de Apoyo Policial"
+                    }
+                  ]
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "7",
+                  "texto": "Órganos de Línea",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "7.1",
+                      "texto": "Dirección Nacional de Investigación Criminal"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "7.2",
+                      "texto": "Dirección Nacional de Orden y Seguridad"
+                    }
+                  ]
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "8",
+                  "texto": "Órganos Desconcentrados",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "8.1",
+                      "texto": "Regiones Policiales"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "8.2",
+                      "texto": "Frentes Policiales"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "8.3",
+                      "texto": "Comisarías"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "II",
+          "nombre": "ESTRUCTURA ORGÁNICA",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "8",
+              "texto": "Conformación del Alto Mando. El Alto Mando de la Policía Nacional del Perú está conformada por el Comandante General; el Jefe de Estado Mayor y el Inspector General. El Comandante General de la Policía Nacional del Perú es designado por el Presidente de la República, entre los tres Oficiales Generales de Armas de la Policía Nacional del Perú en situación de actividad, en el grado de Teniente General, en estricto orden de antigüedad en el escalafón de oficiales, al momento del cese del Comandante General; por un periodo de dos (02) años en el cargo. Excepcionalmente, el Presidente de la República podrá prorrogar, por un (01) año adicional el nombramiento del Comandante General. Puede ser cesado antes de la conclusión de su periodo únicamente por las causales siguientes:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Por muerte.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Por solicitud de pase a retiro del Comandante General.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Por incapacidad física permanente, debidamente declarada por una junta médica, que precise su inhabilitación para el ejercicio de la función.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Por incurrir en falta muy grave, de acuerdo al régimen disciplinario de la Policía Nacional.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Por incurrir en la comisión de delito doloso, declarada por sentencia firme del Poder Judicial.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "Por incurrir en la comisión de delito flagrante.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "9",
+              "texto": "Comandancia General. La Comandancia General es el órgano de Comando de más alto nivel de la Policía Nacional del Perú, encargado de planificar, organizar, dirigir y supervisar el desarrollo de la gestión administrativa y operativa de la Policía Nacional del Perú para el ejercicio de la función policial en todo el territorio nacional, en un contexto de mejor atención a la ciudadanía y eficiente uso de los recursos, en el marco de las políticas sectoriales aprobadas por el Ministerio del Interior. La Comandancia General está a cargo de un Oficial General de Armas de la Policía Nacional del Perú en situación de actividad, en el grado de Teniente General. El Comandante General recibe la denominación de General de Policía, y ostentará los distintivos correspondientes para efectos de su representatividad y jerarquía policial; tiene las siguientes funciones:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Ejercer el comando y la representación de la Policía Nacional del Perú;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Administrar la Institución Policial a través de sus órganos competentes y los recursos que se le asignan a la Policía Nacional del Perú;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Evaluar los niveles de eficiencia y eficacia de la Policía Nacional del Perú, disponiendo las acciones de comando pertinentes para mejorar el nivel operativo institucional;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Dirigir y controlar la ejecución efectiva de las políticas, planes y programas en materia de orden interno, orden público y seguridad ciudadana, en el marco de sus competencias, en concordancia con las políticas nacionales de cumplimiento obligatorio del Gobierno Nacional;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Aprobar, dirigir y supervisar el desarrollo de las estrategias institucionales en el ámbito de su competencia;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "Participar en la formulación de políticas en materia de orden interno y seguridad pública y las demás que el Sector Interior le asigne;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "7",
+                  "texto": "Gerenciar el desarrollo institucional, de conformidad con la Constitución Política del Perú y la normatividad legal y administrativa vigente;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "8",
+                  "texto": "Promover, orientar y supervisar la formación profesional policial que se brinda en las Escuelas y la actualización, especialización y perfeccionamiento continuo del personal policial, para fortalecer el desarrollo institucional al servicio del ciudadano;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "9",
+                  "texto": "Promover, orientar y supervisar la gestión y prestación de los servicios de salud a favor del personal de la Policía Nacional del Perú y familiares derechohabientes; así como realizar el seguimiento, monitoreo y acompañamiento en la función de supervisión y evaluación del Fondo de Aseguramiento en Salud de la Policía Nacional del Perú (SALUDPOL);",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "10",
+                  "texto": "Preservar y controlar la disciplina y la moral del personal, así como la imagen y el prestigio institucional;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "11",
+                  "texto": "Promover las relaciones interinstitucionales e intersectoriales, nacionales y extranjeras, que coadyuven al desarrollo de la función policial;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "12",
+                  "texto": "Asesorar a la Alta Dirección del Ministerio del Interior y demás entidades de la Administración Pública, en asuntos relacionados con su competencia;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "13",
+                  "texto": "Proporcionar información oportuna al Ministro del Interior sobre asuntos de conflictividad social y graves alteraciones al orden interno o seguridad pública;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "14",
+                  "texto": "Proponer a través del Ministerio del Interior iniciativas legislativas y normas en materia de su competencia;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "15",
+                  "texto": "Aprobar el Plan Operativo Anual de la Policía Nacional del Perú, en concordancia con los lineamientos del Sector Interior;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "16",
+                  "texto": "Aprobar, en el marco de su competencia, las resoluciones, manuales, reglamentos, directivas y demás documentos de carácter interno que regulan el funcionamiento operativo de la Policía Nacional del Perú para el ejercicio de la función policial; y,",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "17",
+                  "texto": "Otras establecidas en el Reglamento de la Ley.",
+                  "subenumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "III",
+          "nombre": "SECRETARÍA EJECUTIVA",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "12",
+              "texto": "Secretaría Ejecutiva. La Secretaría Ejecutiva es el órgano encargado de la gestión administrativa y documentalaria de la Policía Nacional del Perú, así como de asistir y asesorar al Comandante General en dichas materias; y tiene a su cargo los órganos de asesoramiento y de apoyo administrativo. La Secretaría Ejecutiva está a cargo de un Oficial General de Armas de la Policía Nacional del Perú en situación de actividad en el grado de Teniente General, tiene competencia a nivel nacional y depende del Comandante General de la Policía Nacional del Perú. Los órganos de la Secretaría Ejecutiva están a cargo de personal policial altamente calificado y/o especializado en los sistemas administrativos. Las funciones de cada uno de ellos se detallan en el Reglamento del presente Decreto Legislativo.",
+              "enumeraciones": []
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "IV",
+          "nombre": "COMANDO DE OPERACIONES POLICIALES",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "13",
+              "texto": "Comando de Operaciones Policiales. El Comando de Operaciones Policiales es el órgano encargado de planificar, coordinar, formular, comandar, supervisar, ejecutar y evaluar las operaciones policiales de orden y seguridad e investigación criminal con competencia a nivel nacional. Está a cargo de un Oficial General de Armas en el grado de Teniente General, depende del Comandante General. Sus funciones son:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Planificar, organizar, coordinar, dirigir, aprobar y supervisar las operaciones policiales de seguridad, prevención, inteligencia e investigación criminal a nivel nacional;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Coordinar, orientar y supervisar las actividades operativas de las Direcciones Nacionales, Direcciones Especializadas, Regiones y Frentes Policiales;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Disponer, coordinar y hacer seguimiento a la implementación, operatividad y ejecución de las estrategias y planes para el buen desempeño operativo de la Policía Nacional del Perú que aprueba el Estado Mayor General de la Policía Nacional del Perú;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Promover, coordinar y supervisar el funcionamiento articulado de los órganos y unidades orgánicas de la Policía Nacional del Perú bajo su mando, para coadyuvar a una efectiva coherencia e interacción en el quehacer de la función policial a través de una gestión por procesos, en beneficio de los ciudadanos; en coordinación con el Estado Mayor General de la Policía Nacional del Perú;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Proponer al Estado Mayor General de la Policía Nacional del Perú resoluciones, manuales, reglamentos, directivas y demás documentos de carácter interno que sean necesarios para el mejor funcionamiento operativo de la Policía Nacional del Perú en el ejercicio de la función policial, en el marco de su competencia;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "Supervisar el rendimiento operativo de la Policía Nacional del Perú y ejecutar las disposiciones de comando que emite la Comandancia General de la Policía Nacional y el Estado Mayor General de la Policía Nacional para mejorar los niveles de eficiencia y eficacia operativa institucional;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "7",
+                  "texto": "Priorizar y determinar los recursos institucionales para garantizar el cumplimiento oportuno de la función policial;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "8",
+                  "texto": "Coordinar y supervisar las actividades y operaciones de inteligencia y contrainteligencia en la Policía Nacional del Perú;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "9",
+                  "texto": "Orientar, coordinar y supervisar las operaciones aéreas de apoyo a los diferentes órganos y unidades orgánicas de la Policía Nacional del Perú;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "10",
+                  "texto": "Promover, orientar y supervisar las de cooperación policial recíproca a nivel internacional para la lucha acciones contra la delincuencia común y el crimen organizado;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "11",
+                  "texto": "Asesorar al Comandante General de la Policía Nacional del Perú por intermedio del Jefe del Estado Mayor General de la Policía Nacional en asuntos de su competencia;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "12",
+                  "texto": "Informar y emitir opinión sobre asuntos de sus competencias; y,",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "13",
+                  "texto": "Las demás funciones que le sean asignadas.",
+                  "subenumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "V",
+          "nombre": "ÓRGANOS DE CONTROL INSTITUCIONAL",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "14",
+              "texto": "Órgano de Control Institucional. El Órgano de Control Institucional es el órgano encargado de efectuar el control gubernamental en la Policía Nacional del Perú, promoviendo la correcta y transparente gestión de los recursos y bienes del Estado asignados, cautelando la legalidad y eficiencia de sus actos y operaciones, así como, el logro de sus resultados, mediante la ejecución de los servicios de control (simultáneo y posterior) y servicios relacionados, con sujeción a las normas del Sistema Nacional de Control. Mantiene una dependencia funcional con la Contraloría General de la República y dependencia administrativa con la Policía Nacional del Perú.",
+              "enumeraciones": []
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "VI",
+          "nombre": "ÓRGANOS CONSULTIVOS",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "15",
+              "texto": "Órganos Consultivos. Los Órganos Consultivos tienen por finalidad brindar asesoría en los asuntos que por su naturaleza son puestos a su consideración, emitiendo opinión y recomendación. Los integrantes de los órganos consultivos son designados y convocados por el Comandante General de la Policía Nacional del Perú, quien los preside. Son Órganos Consultivos de la Policía Nacional del Perú, los siguientes:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Consejo de Alto Mando;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Consejo de Calificación;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Consejos de Investigación; y,",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Comisiones Consultivas.",
+                  "subenumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "VII",
+          "nombre": "ÓRGANOS DE ADMINISTRACIÓN INTERNA",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "16",
+              "texto": "Órganos de Administración Interna. Los órganos de administración interna se clasifican de la manera siguiente:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Órganos de Asesoramiento: Son responsables de orientar la labor de la Policía Nacional del Perú mediante el cumplimiento de actividades de asesoría jurídica y planeamiento;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Órganos de Apoyo Administrativo: Son aquellos que desarrollan actividades en materia de administración, recursos humanos y apoyo al policía, comunicación e imagen institucional y tecnología de la información, en apoyo al cumplimiento de sus funciones sustantivas que permitan el desempeño eficaz de la Policía Nacional del Perú; y,",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Órganos de Apoyo Policial: Son aquellos que cumplen actividades de apoyo en materia de asuntos internacionales, cooperación policial internacional, aviación policial, criminalística, inteligencia, formación profesional, educación y doctrina, y salud policial, para el ejercicio eficiente y oportuno de la función policial.",
+                  "subenumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "VIII",
+          "nombre": "ÓRGANOS DE LÍNEA",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "17",
+              "texto": "Órganos de Línea. Los órganos de línea realizan funciones técnicas, normativas y operativas necesarias a nivel nacional para el cumplimiento de los objetivos encomendados a la Policía Nacional del Perú en aplicación de las normas sustantivas que así lo establecen. Están conformados por la Dirección Nacional de Investigación Criminal y la Dirección Nacional de Orden y Seguridad, que dependen orgánica y funcionalmente del Comando de Operaciones Policiales.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "18",
+              "texto": "Dirección Nacional de Investigación Criminal. La Dirección Nacional de Investigación Criminal es el órgano de carácter sistémico, técnico, especializado, normativo y operativo, encargado de formular, ejecutar, comandar y evaluar las operaciones policiales, que comprende materias como: Lucha contra el terrorismo, tráfico ilícito de drogas, ambiente, lavado de activos y extinción de dominio, trata de personas y tráfico ilícito de migrantes, corrupción, delitos aduaneros, derechos intelectuales, el orden económico, financiero y monetario, el patrimonio cultural, delitos de alta complejidad, delitos comunes, la criminalidad organizada y los delitos contemplados en el Código Penal, Código de Responsabilidad del Adolescente y leyes especiales, a nivel nacional. Está a cargo de un Oficial General de Armas de la Policía Nacional del Perú en situación de actividad en el grado de Teniente General. Depende del Comando de Operaciones Policiales de la Policía Nacional del Perú y articula de modo sistémico la investigación criminal con las Direcciones Especializadas, Divisiones y unidades orgánicas de los órganos desconcentrados que realizan funciones de investigación, a nivel nacional. Su organización y funciones se establecen en el Reglamento del presente Decreto Legislativo. La investigación criminal es una especialidad funcional a dedicación exclusiva en el ámbito nacional. El personal de la Policía Nacional responsable de las funciones de investigación criminal no puede ser empleado en trabajos que no sean propios de la especialidad, salvo en circunstancias declaradas por la autoridad competente, por estados de emergencia nacional o sanitaria, o declarativas de interés nacional. La investigación criminal está orientada a prevenir, combatir, investigar y denunciar, y puede iniciarse en cualquier Región Policial. Las Direcciones Especializadas son unidades orgánicas especializadas, de carácter técnico y sistémico, normativo y operativo; están a cargo de Oficiales Generales de Armas en situación de actividad en el grado de General, con responsabilidad a nivel nacional en la investigación de delitos en las materias indicadas en el presente artículo.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "19",
+              "texto": "Dirección Nacional de Orden y Seguridad. La Dirección Nacional de Orden y Seguridad es el órgano de carácter técnico, normativo y operativo, encargado de planificar, comandar y supervisar las operaciones policiales de seguridad pública a través de las Regiones Policiales y Frentes Policiales, así como en materia de seguridad del estado; seguridad integral; seguridad ciudadana; operaciones especiales; tránsito, transporte y seguridad vial; y, turismo, a cargo de las unidades orgánicas que dependen de esta. Tiene competencia a nivel nacional. Está a cargo de un Oficial General de Armas de la Policía Nacional del Perú en situación de actividad en el grado de Teniente General. Depende del Comando de Operaciones Policiales de la Policía Nacional del Perú y está conformada por Direcciones, Regiones y Frentes Policiales. Su organización y funciones se establecen en el Reglamento del presente Decreto Legislativo. Las Direcciones, son unidades orgánicas de carácter técnico y sistémico, normativo y operativo; están a cargo de Oficiales Generales de Armas en situación de actividad en el grado de General, quienes tienen responsabilidad administrativa y operativa a nivel nacional en el ámbito de Seguridad Integral, Seguridad Ciudadana, Seguridad del Estado, Turismo, Operaciones Especiales, Tránsito y Seguridad vial.",
+              "enumeraciones": []
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "IX",
+          "nombre": "ÓRGANOS DESCONCENTRADOS",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "22",
+              "texto": "Regiones Policiales. Las Regiones Policiales son unidades orgánicas cuya jurisdicción se encuentra constituida por el ámbito geográfico de un departamento, con excepción de las Regiones Policiales de Lima y Callao. Están a cargo de Oficiales Generales de Armas en situación de actividad en el grado de General, quienes tienen responsabilidad administrativa y operativa en su jurisdicción policial. Dependen de la Dirección Nacional de Orden y Seguridad. Las Regiones Policiales son responsables de ejecutar y materializar de manera oportuna las estrategias policiales diseñadas en materia de prevención, orden y seguridad e investigación, en el ámbito de su competencia y en atención de la demanda ciudadana. Su estructura funcional se establecerá en el Reglamento del presente Decreto Legislativo y se sujetarán a los lineamientos establecidos en las normas que regulan la organización y funciones de las Entidades del Estado.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "23",
+              "texto": "Frentes Policiales. Los Frentes Policiales se crean de manera excepcional y temporal, en el mismo nivel y organización funcional de una Región Policial. Están a cargo de un Oficial General u Oficial Superior de Armas en situación de actividad en el grado de General o Coronel, respectivamente, quienes tienen responsabilidad administrativa y operativa en su jurisdicción policial. Depende de la Dirección Nacional de Orden y Seguridad.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "24",
+              "texto": "Comisarías. La Comisaría es la célula básica de la organización de la Policía Nacional del Perú; depende de las Regiones o Frentes Policiales. Desarrolla la labor de prevención, orden, seguridad e investigación; mantiene una estrecha relación con la comunidad, Gobiernos Locales y Regionales, con quienes promueve la participación de su personal en actividades a favor de la seguridad ciudadana, coadyuvando al desarrollo económico y social de la jurisdicción. Están a cargo de personal policial de armas en las jerarquías de Oficiales Superiores de Armas, Oficiales Subalternos y Suboficiales Superiores en situación de actividad, según corresponda. Dependen de las Regiones Policiales y de manera excepcional y temporal a los Frentes Policiales, cuando así corresponda al ámbito geográfico asignado. Las Comisarías son de naturaleza urbana o rural, según su ubicación geográfica.",
+              "enumeraciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "numero": "IV",
+      "nombre": "REGÍMENES ESPECIALES",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "I",
+          "nombre": "RÉGIMEN DEL PERSONAL POLICIAL DE LA POLICÍA NACIONAL DEL PERÚ",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "25",
+              "texto": "Personal Policial de la Policía Nacional del Perú. El personal de la Policía Nacional del Perú está integrado por Oficiales de Armas, Oficiales de Servicios, Suboficiales de Armas y Suboficiales de Servicios, Cadetes y Alumnos de las Escuelas de Formación Profesional Policial. El personal de la Policía Nacional del Perú está sometido a la Constitución Política del Perú, los tratados internacionales ratificados por el Estado Peruano, las leyes, el Código Penal Militar Policial y las normas reglamentarias. El personal policial de Armas y Servicios no puede pertenecer, ni estar afiliado o tener vínculo alguno con agrupaciones políticas, organizaciones sindicales ni con instituciones u organismos cuyos principios u objetivos sean incompatibles con lo dispuesto en el presente Decreto Legislativo.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "26",
+              "texto": "Carrera Policial. La carrera policial se basa en un conjunto de principios, normas, procesos y condiciones que permiten la convocatoria, selección, ingreso, formación, evaluación, así como acceder de manera sucesiva a cada grado, ocupar cargos, obtener los grados académicos y títulos correspondientes, además de reconocimientos al personal de la Policía Nacional del Perú. El ingreso, carrera, evaluación, desempeño y término de la función policial, así como las categorías, jerarquías y grados, se regulan por la Ley de Carrera y Situación del Personal de la Policía Nacional del Perú.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "27",
+              "texto": "Situación del personal. Es la condición en la que se encuentra el personal de la Policía Nacional del Perú, dentro o fuera del servicio. Las situaciones del personal de carrera son actividad, disponibilidad y retiro, que se regulan por la Ley de Carrera y Situación del Personal de la Policía Nacional del Perú. Los grados, honores, tratamiento, preeminencias, prerrogativas, remuneraciones y las pensiones inherentes a los Oficiales y Suboficiales de las Fuerzas Armadas y de la Policía Nacional son equivalentes.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "28",
+              "texto": "Especialidades funcionales del personal de armas. Las especialidades funcionales del personal de armas son:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Orden y Seguridad",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Investigación Criminal",
+                  "subenumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "II",
+          "nombre": "RÉGIMEN DEL PERSONAL CIVIL",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "29",
+              "texto": "Del Personal Civil. El personal civil que por razones de su profesión, especialidad u oficio, prestan servicios en la Policía Nacional del Perú, no forma parte de la carrera del personal policial de la Policía Nacional del Perú. Se encuentran bajo el régimen laboral del Decreto Legislativo Nº 276, Ley de Bases de la Carrera Administrativa y de Remuneraciones del Sector Público y su Reglamento, en tanto se implementen las disposiciones de la Ley Nº 30057, Ley del Servicio Civil y sus normas reglamentarias, en lo que corresponda; las normas que regulan el sector público y los lineamientos que en materia del sistema de recursos humanos establezca la Oficina General de Recursos Humanos del Ministerio del Interior.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "30",
+              "texto": "De los Auxiliares de Policía. El personal civil que realiza labores específicas de apoyo a la función policial se denominará 'Auxiliares de Policía'. En tanto personal civil, en la función de Auxiliar de Policía no podrá portar un arma de fuego o alguna de las denominadas armas no letales, ni podrá asumir las competencias ni funciones propias de un efectivo policial. Dicho personal podrá asumir funciones administrativas vinculadas a las funciones policiales.",
+              "enumeraciones": []
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "III",
+          "nombre": "SISTEMA DISCIPLINARIO POLICIAL",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "31",
+              "texto": "Sistema Disciplinario Policial. El Sistema Disciplinario Policial establece las normas y procedimientos disciplinarios destinados a regular, prevenir, investigar y sancionar las infracciones en las que incurre el personal de la Policía Nacional del Perú, sin perjuicio de la responsabilidad civil o penal a que hubiere lugar. Se regula por la ley de la materia.",
+              "enumeraciones": []
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "IV",
+          "nombre": "FORMACIÓN PROFESIONAL POLICIAL",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "32",
+              "texto": "Formación Profesional Policial. La Formación Profesional Policial, como parte de la etapa de educación superior del sistema educativo, es el proceso que tiene como finalidad la preparación, actualización, especialización y perfeccionamiento del Cuerpo Policial. La Formación Profesional Policial se ofrece a través de las Escuelas de la Policía Nacional del Perú. Mediante normatividad específica se define la organización y estructura de la Formación Profesional Policial, con sujeción a la legislación vigente en la materia, en lo que le resulte aplicable.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "33",
+              "texto": "Obtención y Registro de Grados y Títulos. Las Escuelas de Formación Profesional Policial están facultadas a otorgar a Nombre de la Nación, los grados académicos y los títulos profesionales equivalentes a los otorgados por las universidades y las escuelas e institutos de educación superior del sistema educativo, para los Oficiales y Sub Oficiales de la Policía Nacional del Perú; según corresponda. La obtención de los grados académicos y los títulos correspondientes que se encuentran facultadas a otorgar las Escuelas de Formación Profesional de la Policía Nacional del Perú, se realiza de acuerdo a las exigencias académicas y administrativas que establecen las Escuelas y conforme a los créditos de estudios exigibles por la normativa vigente en el sistema educativo nacional. Los grados y títulos profesionales obtenidos por los egresados de las Escuelas de Formación Profesional de la Policía Nacional del Perú, se inscriben en los Registros Nacionales correspondientes de acuerdo la normativa vigente del sistema educativo nacional.",
+              "enumeraciones": []
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "V",
+          "nombre": "RÉGIMEN DE BIENESTAR POLICIAL",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "34",
+              "texto": "Bienestar y apoyo al Policía. El régimen de bienestar tiene como finalidad organizar, desarrollar, dirigir y ejecutar programas, proyectos y actividades de bienestar del personal de la Policía Nacional del Perú y su familia, a fin de contribuir a su desarrollo integral. Comprende entre otros aspectos: sistemas de pensiones, servicios educativos, servicios de vivienda, asistencia legal, asistencia social y servicios de salud. Los policías afectados en circunstancias de servicio, sus familiares y herederos, tienen derecho preferente a la prestación de los servicios ofrecidos por el régimen de bienestar de la Policía Nacional del Perú, los cuales deben ser promovidos de oficio. Los reglamentos respectivos norman los procedimientos, modalidades, condiciones, beneficios y otros, a los que tiene derecho el personal de la Policía Nacional del Perú y sus familiares con derecho.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "35",
+              "texto": "De la asistencia social. La Policía Nacional del Perú contribuye a la mejora de la calidad de vida de su personal en situación de actividad, disponibilidad y retiro, así como de sus familiares con derecho, a través de programas de asistencia sociocultural, psicológicos, recreativos y espirituales.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "36",
+              "texto": "Servicios de Salud. La Policía Nacional del Perú cuenta con un Régimen de Salud para el personal policial y familiares beneficiarios, con la finalidad de garantizar una adecuada asistencia y tratamiento médico. Para este efecto el personal accede a un conjunto de prestaciones de salud de carácter preventivo, promocional, recuperativo y de rehabilitación, en óptimas y adecuadas condiciones de eficiencia, equidad, oportunidad, calidad y dignidad, a través de la Sanidad Policial o recurriendo cuando sea necesario y proceda de conformidad con la normatividad vigente sobre la materia, a instituciones prestadoras de servicios de salud públicas, privadas o mixtas.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "37",
+              "texto": "De los servicios educativos. La Policía Nacional del Perú promueve servicios educativos para los hijos de su personal, garantizando la buena marcha administrativa y pedagógica de las instituciones educativas a su cargo; asimismo, mediante convenios con otras entidades educativas en todos los niveles, promueve beneficios para su personal y familiares con derecho.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "38",
+              "texto": "De los programas y servicios de vivienda. La Policía Nacional del Perú, a través del Fondo de Vivienda Policial, administra los fondos provenientes del Estado y de las aportaciones de su personal, con la finalidad de contribuir al acceso a una vivienda digna al personal aportante y sus familiares con derecho. El personal de la Policía Nacional del Perú cambiado de colocación fuera de su lugar de origen, puede acceder, de acuerdo a la disponibilidad, a una vivienda en forma temporal, a través del programa de viviendas que administra la Dirección de Bienestar.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "39",
+              "texto": "Servicio de Defensa Legal al Policía. La Policía Nacional del Perú brinda el servicio de asesoría y defensa legal gratuita al personal de la Policía Nacional del Perú, que afronta un proceso penal o civil derivado del cumplimiento de la función policial.",
+              "enumeraciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "numero": "V",
+      "nombre": "RÉGIMEN ECONÓMICO",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "1",
+          "nombre": "Régimen Económico",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "41",
+              "texto": "Presupuesto. El Presupuesto de la Policía Nacional del Perú es fijado para cada ejercicio fiscal dentro de la estructura presupuestal del pliego del Ministerio del Interior.",
+              "enumeraciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "numero": "VI",
+      "nombre": "DEFENSA NACIONAL",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "1",
+          "nombre": "Defensa Nacional",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "42",
+              "texto": "De la participación en la Defensa Nacional, Movilización y Defensa Civil. La Policía Nacional del Perú participa en la Defensa Nacional, Movilización y Defensa Civil.",
+              "enumeraciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "numero": "VII",
+      "nombre": "SISTEMAS TECNOLÓGICOS Y REGISTROS POLICIALES",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "1",
+          "nombre": "Sistemas Tecnológicos y Registros",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "43",
+              "texto": "Empleo de sistemas tecnológicos y registros con fines policiales. La Policía Nacional del Perú está facultada a emplear tecnologías digitales, sistemas tecnológicos y registros para el mejor cumplimiento de sus fines institucionales, entre ellos los sistemas de video-vigilancia en vías y espacios públicos, los sistemas de patrullaje virtual para la detección de delitos cometidos por medio de las tecnologías de la información y comunicación, los sistemas de información y comunicación policial, la Central Única de Atención de Emergencias, Urgencias e Información 911 - Central 911, entre otros conforme se define en las normas reglamentarias, entre otros. La Policía Nacional del Perú implementa el Registro Nacional de Seguridad Pública, que contendrá los registros y bases de datos, en todo tipo de soporte físico, digital o magnético, que contengan información o datos que permitan hacer un seguimiento del accionar delictivo a nivel nacional. Forman parte de este registro: antecedentes policiales, referencias policiales, vehículos robados, personas desaparecidas, el sistema de registro y estadística del delito de trata de personas y afines, bienes culturales sustraídos, pasaportes sustraídos o perdidos, documentos oficiales sustraídos o perdidos, vehículos, naves o aeronaves empleadas para la comisión de ilícitos penales, personas jurídicas utilizadas para la comisión de delitos, identidad balística, identificación dactilar de delincuentes, infractores a la Ley General de Transporte y Tránsito Terrestre y otros registros propios de la función policial. La Policía Nacional del Perú efectúa las coordinaciones con la Secretaría de Gobierno y Transformación Digital de la Presidencia del Consejo de Ministros en la elaboración de protocolos referidos al empleo de sistemas tecnológicos y registros en el marco de la promoción del uso seguro y responsable de las tecnologías digitales por niños, niñas y adolescentes.",
+              "enumeraciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "numero": "VIII",
+      "nombre": "COMITÉS CÍVICOS DE APOYO",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "1",
+          "nombre": "Comités Cívicos de Apoyo",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "44",
+              "texto": "Comités Cívicos de Apoyo. Los Comités Cívicos de Apoyo a la Policía Nacional del Perú son personas jurídicas de derecho privado sin fines de lucro que se constituyen de conformidad con el Código Civil y se rigen por éste y las normas reglamentarias correspondientes. Pueden participar en tareas de apoyo de seguridad ciudadana.",
+              "enumeraciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "numero": "IX",
+      "nombre": "ARTICULACIÓN INTERINSTITUCIONAL",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "1",
+          "nombre": "Articulación Interinstitucional",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "45",
+              "texto": "Articulación Interinstitucional. La Policía Nacional del Perú articula el desarrollo de sus funciones a nivel sectorial y con las entidades de los tres niveles de gobierno, asociando sus recursos, capacidades y cooperando entre sí, para poder responder a las demandas ciudadanas con eficiencia y de manera oportuna, proponiendo al Ministerio del Interior la celebración de convenios y/o acuerdos de cooperación institucional.",
+              "enumeraciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "numero": "X",
+      "nombre": "DISPOSICIONES COMPLEMENTARIAS FINALES",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "1",
+          "nombre": "Disposiciones Complementarias Finales",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "SEGUNDA",
+              "texto": "Recursos Directamente Recaudados. Los recursos directamente recaudados que se generen por concepto de la prestación de procedimientos administrativos y servicios prestados en exclusividad a cargo de la Policía Nacional del Perú, contenidos en el Texto Único de Procedimientos Administrativos del Ministerio del Interior, están destinados prioritariamente al financiamiento de los costos de implementación y sostenibilidad de los mismos; así como para su simplificación administrativa y mejora de la atención a la ciudadanía en el marco del Sistema Administrativo de Modernización de la Gestión Pública. Los procedimientos administrativos y servicios prestados en exclusividad que se brinden a través de la Policía Nacional del Perú son aprobados por el Ministerio del Interior, con opinión previa de la Secretaría de Gestión Pública de la Presidencia del Consejo de Ministros. Cualquier modificación a los mismos, debe contar con la opinión previa de la Oficina General de Planificación y Presupuesto del Ministerio del Interior. A partir de la vigencia de la presente norma, no se podrá financiar el pago de las remuneraciones, bonificaciones, así como cualquier otra entrega económica de similar naturaleza, a favor del personal policial, con cargo a los recursos de la fuente de financiamiento de recursos directamente recaudados.",
+              "enumeraciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+.audio-container {
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+  }
+  
+  .audio-container .background-image {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+  
+  .audio-container .background-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .audio-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    color: white;
+    text-align: center;
+  }
+  
+  .audio-content h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    text-shadow: 2px 2px 4px rgba(219, 15, 15, 0.5);
+    color: #f1c40f;
+  }
+  
+  .audio-content p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .topics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+  }
+  
+  .topics-card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    backdrop-filter: blur(7px);
+    background-color: rgba(17, 87, 16, 0.753);
+    padding: 1.5rem;
+    text-decoration: none;
+    color: #fefffd;
+    transition: transform 0.3s, box-shadow 0.3s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .topics-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.416);
+  }
+  
+  .topics-card img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 1rem;
+    object-fit: contain;
+  }
+  
+  .topics-card span {
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  @media (max-width: 768px) {
+    .topics-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .audio-content h1 {
+      font-size: 14px;
+    }
+
+    .audio-content p {
+      font-size: 14px;
+    }
+
+    .topics-card {
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      padding: 0.5rem;
+      max-width: 100%;
+      height: auto;
+    }
+
+    .topics-card img {
+      width: 40px;
+      height: auto;
+      margin-bottom: 0;
+      margin-right: 1rem;
+    }
+
+    .topics-card span {
+      font-size: 0.75rem;
+      text-align: left;
+      flex: 1;
+    }
+  }

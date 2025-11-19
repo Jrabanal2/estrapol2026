@@ -1,0 +1,122 @@
+.temario-container {
+  position: relative;
+  top: 0;
+  min-height: 90.5vh;
+}
+
+.background-image {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.background-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.temario-content {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+
+.temario-content h1 {
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.temario-content p {
+  color: white;
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.topics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.topics-card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  backdrop-filter: blur(7px);
+  background-color: rgba(17, 87, 16, 0.7);
+  padding: 2rem;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  transition: transform 0.3s, box-shadow 0.3s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 180px;
+  justify-content: center;
+}
+
+.topics-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.416);
+  background-color: rgba(17, 87, 16, 0.9);
+}
+
+.topics-card img {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 1rem;
+  object-fit: contain;
+}
+
+.topics-card span {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+@media (max-width: 768px) {
+  .temario-content {
+    padding: 1rem;
+  }
+  
+  .temario-content h1 {
+    font-size: 1.8rem;
+  }
+  
+  .temario-content p {
+    font-size: 1rem;
+  }
+  
+  .topics-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  .topics-card img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .topics-card span {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .topics-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .topics-card {
+    padding: 1.5rem;
+    min-height: 150px;
+  }
+}

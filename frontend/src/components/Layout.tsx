@@ -1,6 +1,6 @@
 import React from 'react';
 import { Outlet } from 'react-router-dom';
-import WhatsAppChat from './WhatsAppChat';
+import Navbar from './Navbar';
 import LoadingBar from './LoadingBar';
 
 const Layout: React.FC = () => {
@@ -8,11 +8,12 @@ const Layout: React.FC = () => {
     <div className="layout">
       {/* Loading Bar para transiciones entre páginas */}
       <LoadingBar />
+      <Navbar />
       
       <main className="main-content">
         <Outlet />
       </main>
-      <WhatsAppChat />
+      
     </div>
   );
 };

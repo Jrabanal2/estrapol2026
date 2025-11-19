@@ -1,0 +1,131 @@
+/* frontend/src/components/ExamRecovery.css */
+.exam-recovery-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 10000;
+  backdrop-filter: blur(5px);
+}
+
+.exam-recovery-modal {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  max-width: 500px;
+  width: 90%;
+  animation: slideIn 0.3s ease-out;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.recovery-header h3 {
+  margin: 0 0 1rem 0;
+  color: #2c5530;
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+.recovery-content {
+  margin-bottom: 1.5rem;
+}
+
+.recovery-content p {
+  margin-bottom: 1rem;
+  line-height: 1.5;
+  color: #333;
+}
+
+.recovery-stats {
+  background: #f8f9fa;
+  padding: 1rem;
+  border-radius: 8px;
+  border-left: 4px solid #28a745;
+}
+
+.stat-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+  padding: 0.25rem 0;
+}
+
+.stat-item:last-child {
+  margin-bottom: 0;
+}
+
+.stat-label {
+  font-weight: 600;
+  color: #555;
+}
+
+.stat-value {
+  color: #28a745;
+  font-weight: 600;
+}
+
+.recovery-actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.btn-recover, .btn-discard {
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+}
+
+.btn-recover {
+  background: #28a745;
+  color: white;
+}
+
+.btn-recover:hover {
+  background: #218838;
+  transform: translateY(-2px);
+}
+
+.btn-discard {
+  background: #dc3545;
+  color: white;
+}
+
+.btn-discard:hover {
+  background: #c82333;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+  .exam-recovery-modal {
+    padding: 1.5rem;
+    margin: 1rem;
+  }
+  
+  .recovery-actions {
+    flex-direction: column;
+  }
+  
+  .btn-recover, .btn-discard {
+    width: 100%;
+  }
+}

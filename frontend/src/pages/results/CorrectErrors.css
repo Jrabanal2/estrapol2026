@@ -1,0 +1,20 @@
+/* Puedes usar los mismos estilos que ExamPage.css o crear específicos */
+.no-errors {
+  text-align: center;
+  padding: 50px;
+  font-size: 18px;
+}
+
+.no-errors button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.no-errors button:hover {
+  background-color: #2980b9;
+}

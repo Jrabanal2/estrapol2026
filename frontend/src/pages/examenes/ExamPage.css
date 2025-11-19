@@ -1,0 +1,53 @@
+/* Estilos específicos para ExamPage */
+.numero_letra_respuestas {
+    color: #399bfc;
+    padding: 10px;
+    background: #f8f9fa;
+    border-radius: 5px;
+    margin: 10px 0;
+    font-weight: bold;
+    text-align: center;
+}
+
+.botones_ayuda {
+    padding-left: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+}
+
+.borrar, .activar {
+    background-color: rgba(234, 229, 229, 0.909);
+    color: black;
+    border: 1px rgb(220, 214, 214) solid;
+    padding: 0.3rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    margin: 5px auto;
+    font-size: 14px;
+    width: 48%;
+    transition: all 0.3s ease;
+  }
+  
+  .borrar:hover, .activar:hover {
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.715);
+    transform: translateY(-1px);
+  }
+
+  @media (max-width: 768px) {
+    .borrar, .activar {
+      box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.715);
+      width: 100%;
+      margin: 5px 0;
+    }
+
+    .botones_ayuda {
+        flex-direction: column;
+        padding-left: 0;
+    }
+
+    .numero_letra_respuestas {
+        font-size: 12px;
+    }
+  }

@@ -1,0 +1,1806 @@
+{
+  "nombre_tema": "LEY DE LA CARRERA Y SITUACIÓN DEL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ",
+  "texto": "",
+  "titulos": [
+    {
+      "id": "titulo",
+      "numero": "PRELIMINAR",
+      "nombre": "DISPOSICIONES GENERALES",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "1",
+          "nombre": "Disposiciones Generales",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "1",
+              "texto": "Objeto. El presente Decreto Legislativo norma la carrera y situación del personal de la Policía Nacional del Perú, con el propósito de garantizar el desarrollo personal, profesional y técnico de sus integrantes, para el cumplimiento de los objetivos institucionales al servicio de la sociedad.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "2",
+              "texto": "Ámbito de aplicación. Las disposiciones del presente Decreto Legislativo alcanzan a todos los Oficiales y Suboficiales de Armas y de Servicios de la Policía Nacional del Perú en situación de actividad, disponibilidad y retiro. Los cadetes y alumnos de las escuelas de formación, se rigen por la Ley del Régimen Educativo de la Policía Nacional del Perú y las demás que le sean aplicables.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "3",
+              "texto": "Definiciones. Para efectos de la presente norma, se establecen las siguientes definiciones:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Antigüedad: Prelación existente entre el personal, en atención a su categoría, jerarquía, grado y tiempo de servicios.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Ascenso: Promoción del personal en situación de actividad, al grado inmediato superior, que tiene por finalidad garantizar la línea de carrera policial, como resultado objetivo del proceso de evaluación de los méritos y deméritos registrados durante la carrera.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Asignación: Ubicación del personal en situación de actividad en un cargo específico, acorde a las especialidades funcionales, al Cuadro de Organización y al Cuadro de Personal y que se ejecuta anualmente conforme a los cambios generales de colocación.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Categoría: Nivel que corresponde al personal, teniendo en cuenta su formación y procedencia.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Cese temporal del empleo: Condición derivada de medida preventiva prevista en la Ley del Régimen Disciplinario de la Policía Nacional del Perú.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "Cuadro de méritos de ascensos: Documento en el cual se inscribe a los candidatos en orden decreciente en función al puntaje alcanzado en su respectivo grado, siempre que hayan aprobado los exámenes y no hayan sido excluidos por razones disciplinarias.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "7",
+                  "texto": "Cuadro de Organización: Documento que contiene el listado de los cargos que existen en la Policía Nacional del Perú.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "8",
+                  "texto": "Despacho: Documento que acredita el grado del personal.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "9",
+                  "texto": "Destaque: Asignación a un cargo con carácter temporal por necesidad del servicio o a solicitud del interesado, por un período no mayor a noventa (90) días calendarios.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "10",
+                  "texto": "Especialidad funcional: Función policial que comprende un conjunto de actividades interrelacionadas para el cumplimiento de su finalidad fundamental.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "11",
+                  "texto": "Evaluación del desempeño: Proceso de evaluación anual de los factores personal, rendimiento profesional o técnico; así como de los estudios a tiempo completo del personal, cuando corresponda.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "12",
+                  "texto": "Grado: Nivel jerárquico que se concede al personal de acuerdo a la presente norma.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "13",
+                  "texto": "Hoja Anual de Rendimiento Profesional o Técnico: Documento de calificación individual del personal, que detalla su nota anual de rendimiento profesional o técnico.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "14",
+                  "texto": "Insuficiencia disciplinaria: Falta de capacidad del personal para adecuarse a los niveles mínimos de disciplina y responsabilidad que se requieren para ejercer la función policial.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "15",
+                  "texto": "Insuficiencia Profesional: Falta de capacidad profesional o técnica del personal para ejercer la función policial.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "16",
+                  "texto": "Jerarquías: Son los niveles alcanzados por el personal en su respectiva categoría, abarca uno (1) o más grados.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "17",
+                  "texto": "Lista Anual de Rendimiento Profesional o Técnico: Relación del personal clasificado según la nota de rendimiento profesional o técnico.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "18",
+                  "texto": "Medida preventiva: Disposición administrativa de carácter transitorio, que se impone por la presunta comisión de infracciones muy graves en los casos previstos en la Ley de Régimen Disciplinario de la Policía Nacional del Perú, a efectos de evitar que se siga cometiendo infracciones similares o se afecte al procedimiento administrativo disciplinario. No constituye sanción.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "19",
+                  "texto": "Misión de Estudios: Condición del personal policial, autorizado por el Director General de la Policía Nacional del Perú, que participa en un evento académico fuera de la institución en el país o el extranjero.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "20",
+                  "texto": "Nota Anual de Rendimiento Profesional o Técnico: Puntaje de la evaluación del desempeño profesional o técnico.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "21",
+                  "texto": "Oficial de Armas: Profesional egresado de la Escuela de Oficiales de la Policía Nacional del Perú.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "22",
+                  "texto": "Oficial de Servicios: Profesional egresado de una Universidad, con título registrado en la Asamblea Nacional de Rectores e inscrito en el Colegio Profesional respectivo, cuando corresponda, que se incorpora a la Policía Nacional del Perú mediante concurso público, de acuerdo a las necesidades institucionales.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "23",
+                  "texto": "Personal: Para efectos de la presente norma, la palabra personal se refiere a Oficiales y Suboficiales de Armas y Servicios de la Policía Nacional del Perú.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "24",
+                  "texto": "Precedencia: Constituye la preeminencia entre el personal para el cumplimiento de actividades de mando, empleo, ceremonial y protocolo, en consideración a la categoría, jerarquía, grado y antigüedad.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "25",
+                  "texto": "Reasignación: Ubicación del personal en situación de actividad, en un cargo específico, acorde a las especialidades funcionales, al Cuadro de Organización y al Cuadro de Personal. Se ejecuta en cualquier momento, de acuerdo a las necesidades del servicio.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "25-A",
+                  "texto": "Suspensión temporal del servicio: Condición derivada de Medida Preventiva prevista en el Decreto Legislativo que regula el Régimen Disciplinario de la Policía Nacional del Perú.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "4",
+              "texto": "De los principios rectores. Son principios de la carrera y situación del personal de la Policía Nacional del Perú los siguientes:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Principio de igualdad: Ninguna disposición del presente Decreto Legislativo puede, en su aplicación, generar acto de discriminación.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Principio de imparcialidad: Las evaluaciones están exentas de todo interés ajeno al institucional y son imparciales en su aplicación.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Principio de meritocracia: El ingreso, la permanencia y los ascensos en la carrera, se fundamentan en los méritos y en las capacidades personales, profesionales y técnicas.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Principio de objetividad: Aplicación de las normas establecidas a través de indicadores claramente definidos, para la evaluaciónde las aptitudes profesionales, técnicas, disciplinarias y psicosomáticas.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Principio de transparencia: Se fundamenta en la publicidad de todos los procesos relacionados a la presente norma.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "5",
+              "texto": "Aplicación de otros principios. La observancia de los principios rectores no impide la aplicación de otros principios favorables para el desarrollo del personal y de la institución.",
+              "enumeraciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "numero": "I",
+      "nombre": "DEFINICIÓN Y ORGANIZACIÓN DE LA CARRERA",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "I",
+          "nombre": "DEFINICIÓN",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "6",
+              "texto": "Definición de la carrera. Es un conjunto de principios, normas, procesos y condiciones que regulan la incorporación, la permanencia, el desenvolvimiento y el término de la carrera del personal de la Policía Nacional del Perú.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "7",
+              "texto": "Componentes de la carrera. La carrera se basa en la aplicación de los siguientes componentes:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "La administración de la carrera;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "El enfoque de competencias a nivel institucional y personal; y,",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Los procesos técnicos.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "8",
+              "texto": "Sistema Integrado de Gestión de la carrera. Está constituido por la plataforma operativa electrónica a cargo de la Dirección Ejecutiva de Personal, destinada al registro, procesamiento y suministro de información del personal, con la finalidad de apoyar la administración de la carrera.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "9",
+              "texto": "Indicadores de los componentes de la carrera. Los componentes de la carrera se miden a través de indicadores que se establecen en el reglamento de la presente norma.",
+              "enumeraciones": []
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "II",
+          "nombre": "ORGANIZACIÓN",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "11",
+              "texto": "Finalidad. La organización de la carrera tiene como finalidad diseñar la estructura y organización de la carrera, con el fin de establecer las oportunidades del desarrollo personal, profesional y técnico, con énfasis en la disciplina y los méritos.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "12",
+              "texto": "Estructura. La carrera del personal policial, se desarrolla en forma ascendente, en niveles, en razón de sus categorías, jerarquías y grados.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "13",
+              "texto": "Niveles. Los niveles están determinados por categorías, jerarquías y grados siguientes:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Categoría: Oficiales de Armas",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "a",
+                      "texto": "Jerarquía: Oficiales Generales"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "1.a.1",
+                      "texto": "Teniente General"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "1.a.2",
+                      "texto": "General"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "b",
+                      "texto": "Jerarquía: Oficiales Superiores"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "1.b.1",
+                      "texto": "Coronel"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "1.b.2",
+                      "texto": "Comandante"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "1.b.3",
+                      "texto": "Mayor"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "c",
+                      "texto": "Jerarquía: Oficiales Subalternos"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "1.c.1",
+                      "texto": "Capitán"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "1.c.2",
+                      "texto": "Teniente"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "1.c.3",
+                      "texto": "Alférez"
+                    }
+                  ]
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Categoría: Oficiales de Servicios",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "a",
+                      "texto": "Jerarquía: Oficiales Generales"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "2.a.1",
+                      "texto": "General"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "b",
+                      "texto": "Jerarquía: Oficiales Superiores"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "2.b.1",
+                      "texto": "Coronel"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "2.b.2",
+                      "texto": "Comandante"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "2.b.3",
+                      "texto": "Mayor"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "c",
+                      "texto": "Jerarquía: Oficiales Subalternos"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "2.c.1",
+                      "texto": "Capitán"
+                    }
+                  ]
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Categoría: Suboficiales de Armas",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "a",
+                      "texto": "Jerarquía: Suboficiales Superiores"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "3.a.1",
+                      "texto": "Suboficial Superior"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "3.a.2",
+                      "texto": "Suboficial Brigadier"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "b",
+                      "texto": "Jerarquía: Suboficiales Técnicos"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "3.b.1",
+                      "texto": "Suboficial Técnico de Primera"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "3.b.2",
+                      "texto": "Suboficial Técnico de Segunda"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "3.b.3",
+                      "texto": "Suboficial Técnico de Tercera"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "c",
+                      "texto": "Jerarquía: Suboficiales"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "3.c.1",
+                      "texto": "Suboficial de Primera"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "3.c.2",
+                      "texto": "Suboficial de Segunda"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "3.c.3",
+                      "texto": "Suboficial de Tercera"
+                    }
+                  ]
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Categoría: Suboficiales de Servicios",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "a",
+                      "texto": "Jerarquía: Suboficiales Superiores"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "4.a.1",
+                      "texto": "Suboficial Superior"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "4.a.2",
+                      "texto": "Suboficial Brigadier"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "b",
+                      "texto": "Jerarquía: Suboficiales Técnicos"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "4.b.1",
+                      "texto": "Suboficial Técnico de Primera"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "4.b.2",
+                      "texto": "Suboficial Técnico de Segunda"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "4.b.3",
+                      "texto": "Suboficial Técnico de Tercera"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "c",
+                      "texto": "Jerarquía: Suboficiales"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "4.c.1",
+                      "texto": "Suboficial de Primera"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "4.c.2",
+                      "texto": "Suboficial de Segunda"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "4.c.3",
+                      "texto": "Suboficial de Tercera"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "numero": "II",
+      "nombre": "DE LA CARRERA DEL PERSONAL",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "I",
+          "nombre": "PROCESOS TÉCNICOS",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "14",
+              "texto": "Procesos técnicos. Son procesos técnicos de la carrera los siguientes:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Inicio de la Carrera;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Subespecialización, capacitación y perfeccionamiento;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Empleo y cargo;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Evaluación del desempeño;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Incentivos;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "Ascensos; y,",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "7",
+                  "texto": "Vacaciones, licencias y permisos; y,",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "8",
+                  "texto": "Término de la carrera.",
+                  "subenumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "II",
+          "nombre": "INICIO DE LA CARRERA",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "15",
+              "texto": "Inicio a la Carrera. La carrera se inicia con el alta como Alférez o Suboficial de Tercera de Armas; o por haber obtenido la efectividad en los grados de Mayor, Capitán o Suboficial de Tercera de Servicios, según corresponda; en ambos casos mediante la expedición de la resolución administrativa respectiva.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "16",
+              "texto": "Especialidades funcionales del personal de armas. Las especialidades funcionales del personal de armas son:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Orden Público y Seguridad Ciudadana;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Investigación Criminal;",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "18",
+              "texto": "Reclasificación a otra especialidad funcional. El personal de armas, podrá solicitar por una sola vez en toda su carrera el cambio de especialidad funcional después de ocho (8) años de servicios reales y efectivos, a la Dirección Ejecutiva de Personal, la que resolverá de acuerdo al procedimiento establecido en el reglamento respectivo.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "19",
+              "texto": "Asimilación. La asimilación es el período en el que permanece el personal profesional y técnico que se incorpora a la Policía Nacional del Perú, hasta la obtención de la efectividad en el grado.",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Son requisitos para la asimilación los siguientes:",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "a",
+                      "texto": "Para Oficial de Servicios: Título universitario registrado en la Asamblea Nacional de Rectores y colegiado, según corresponda, en cuyo caso es asimilado con el grado de Capitán. El profesional con segunda especialidad, registrada en la Asamblea Nacional de Rectores, es asimilado con el grado de Mayor."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "b",
+                      "texto": "Para Suboficial de Servicios: Título técnico de institutos superiores, en cuyo caso es asimilado en el grado de Suboficial de Tercera."
+                    }
+                  ]
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "El período en condición de asimilado para Oficiales y Suboficiales de servicios es de dos (2) años, al término de los cuales, a quienes aprueben satisfactoriamente los exámenes respectivos, se les otorgará la efectividad en el grado que corresponda, caso contrario se cancela la asimilación.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Obtenida la efectividad, el período de asimilación se acumula como tiempo de servicios para postular al grado inmediato superior. Se encuentran sujetos a la Ley del Régimen Disciplinario de la Policía Nacional del Perú y al Código Penal Militar Policial.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Del curso de adaptación institucional: Se desarrolla durante los tres (3) primeros meses del período de asimilación con carácter obligatorio. Su aprobación constituye requisito para continuar en la condición de asimilado.",
+                  "subenumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "III",
+          "nombre": "CAPACITACIÓN, ESPECIALIZACIÓN Y PERFECCIONAMIENTO",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "20",
+              "texto": "Subespecialización, capacitación, reentrenamiento, maestría institucional y perfeccionamiento profesional. La subespecialización, los cursos de capacitación y reentrenamiento, la maestría institucional y el perfeccionamiento profesional se ejecutan a través de la Escuela de Formación Continua y la Escuela de Posgrado de la Policía Nacional del Perú. Los Oficiales de servicios de la Policía Nacional del Perú, realizan la segunda especialidad, maestría o doctorado en universidades del país o el extranjero por concurso. Los cursos de capacitación y reentrenamiento son realizados por los Oficiales y Suboficiales de armas y de servicios en la Escuela de Formación Continua; el reglamento establece las especificaciones técnicas y modalidades de estudio.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "21",
+              "texto": "Programas de capacitación, especialización, perfeccionamiento profesional y maestría. La Escuela de Educación Continua y la Escuela de Posgrado, diseñarán e implementarán programas presenciales y virtuales a nivel nacional para el personal de acuerdo a la política y planes educativos que desarrolle la Dirección Ejecutiva de Educación y Doctrina. La convocatoria, determinación de vacantes, requisitos para el ingreso a los programas, se establecerán en el reglamento respectivo, asegurando su transparencia y difusión en todas sus etapas.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "22",
+              "texto": "Otorgamiento de becas. Para acceder a las becas se deben cumplir los requisitos establecidos en el reglamento correspondiente. La Dirección Ejecutiva de Personal difundirá a nivel nacional el programa de becas nacionales e internacionales, que serán asignadas mediante concurso. Para acceder a las becas en los cursos equivalentes a los programas de perfeccionamiento profesional de la Policía Nacional del Perú, se requiere previamente haber logrado vacante en los procesos de admisión a la Escuela de Posgrado y estar autorizado mediante resolución de la Dirección General. Para los Oficiales de Servicios el otorgamiento de becas se normará en el Reglamento respectivo.",
+              "enumeraciones": []
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "IV",
+          "nombre": "EMPLEO Y CARGO",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "23",
+              "texto": "Definición. El empleo es la condición laboral del personal de la Policía Nacional del Perú en situación de actividad en función a su categoría y grado. El cargo es el puesto laboral específico establecido en el Cuadro de Organización, que se asigna al personal con empleo, de acuerdo a las Listas de Rendimiento Profesional o Técnico, especialidades funcionales y antigüedad.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "24",
+              "texto": "Precedencia en el grado. La precedencia se determina en atención a los criterios siguientes:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "A mayor grado, mayor antigüedad;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "A igualdad de grado, prima el de mayor tiempo de servicios prestados en el grado;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "A igualdad de grado y tiempo de servicio en el grado, prevalece la antigüedad del grado anterior y así sucesivamente; de persistir la igualdad, la antigüedad se establece por el orden en el cuadro de mérito de egreso de la escuela de formación respectiva;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "A igualdad de grado, el personal de armas será considerado de mayor antigüedad que el personal de servicios;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "En los grados de alférez y suboficial de tercera, la antigüedad se determina en atención al orden de mérito obtenido al egreso de la respectiva escuela de formación; y,",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "Para el personal incorporado por asimilación, la antigüedad se determina en atención al orden de mérito de su incorporación.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "25",
+              "texto": "Atributos y responsabilidades correspondientes al grado del personal policial. Son atributos inherentes al grado del personal policial: Los honores, tratamiento, preeminencias, prerrogativas, remuneraciones, bonificaciones y demás goces y beneficios determinados por las leyes y reglamentos respectivos. El grado conferido al personal tiene carácter vitalicio y solo puede ser retirado por sentencia judicial consentida o ejecutoriada. Ninguna autoridad judicial o administrativa, distinta a la establecida en el presente Decreto Legislativo, está facultada a disponer el otorgamiento de atributos al personal policial. El grado en situación de actividad otorga mando y empleo; y obliga a su desempeño. El grado se ejerce con responsabilidad. A mayor grado, mayor responsabilidad. La responsabilidad es indelegable.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "26",
+              "texto": "Escalafón Policial. El escalafón policial es el registro en el que se inscribe al personal en situación de actividad, tomando en cuenta su categoría, jerarquía, grado y antigüedad. El procedimiento para la ubicación del personal en su respectivo escalafón se establece en el reglamento de la presente norma.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "27",
+              "texto": "Instrumentos de gestión administrativa para la asignación de cargos. Los instrumentos de gestión administrativa determinan la estructura de la institución y la asignación del personal, son aprobados anualmente mediante resolución de la Dirección General y son los siguientes: Cuadro de Organización, Cuadro de Personal y Clasificador de Cargos. La Lista de Revista es el documento oficial que registra la presencia física y el ejercicio del empleo y cargo del personal en situación de actividad. Es administrada y aprobada mensualmente por la Dirección Ejecutiva de Personal.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "28",
+              "texto": "Acciones de desplazamiento y formalización de cargos. Son acciones de desplazamiento de cargos: la asignación, la reasignación y el destaque.",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "La asignación y reasignación de los Oficiales Generales se aprueba por resolución suprema;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "La asignación y reasignación de los Oficiales Superiores se aprueba por resolución ministerial;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "La asignación y reasignación de los Oficiales Subalternos se aprueba por resolución de la Dirección General de la Policía Nacional del Perú;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "El destaque de Oficiales Generales, Superiores y Subalternos, se aprueba por Resolución de la Dirección General de la Policía Nacional del Perú;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "La asignación, reasignación y destaque de los Suboficiales, se aprueba mediante Resolución de la Dirección Ejecutiva de Personal.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "29",
+              "texto": "Formas del ejercicio del cargo. El cargo es desempeñado en condición de titular, encargado e interino según el caso.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "30",
+              "texto": "Causales de asignación y reasignación. La asignación y reasignación del cargo se produce, según corresponda, en los casos siguientes:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Egreso de las escuelas de formación, asimilación o reingreso a la institución;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Necesidad del servicio;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Ascenso;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Especialidad funcional;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Límite de permanencia en el cargo por las causales establecidas en el reglamento de la presente Ley;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "Solicitud del interesado, previa evaluación y aprobación;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "7",
+                  "texto": "Permuta, previa evaluación y aprobación;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "8",
+                  "texto": "Medidas preventivas establecidas en la Ley del Régimen Disciplinario de la Policía Nacional del Perú;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "9",
+                  "texto": "Cumplir los Oficiales de Armas el límite de permanencia de dos (2) años consecutivos, en los cargos siguientes:",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "a",
+                      "texto": "Jefe en zona de frontera."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "b",
+                      "texto": "Jefe de Unidad."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "c",
+                      "texto": "Comisario o sus equivalentes de las otras especialidades funcionales."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "d",
+                      "texto": "Edecán o encontrarse apto para el ascenso al grado inmediato superior, aun cuando tenga menos de dos (2) años en el cargo de edecán."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "e",
+                      "texto": "Ayudante, secretario o jefe de administración."
+                    }
+                  ]
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "10",
+                  "texto": "Cumplir los Oficiales de Armas y de Servicios, el límite de permanencia de un (1) año en zona de altura a partir de los 3,500 m.s.n.m.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "11",
+                  "texto": "Cumplir los Oficiales de Armas y de Servicios, el límite de permanencia de dos (2) años de servicios ininterrumpidos en zona de emergencia.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "31",
+              "texto": "Asignación en cargos. Los cargos de Directores, Jefe de División y equivalentes, Jefe de Unidades, así como de Comisarios, recaen en Oficiales de Armas, egresados de los cursos de perfeccionamiento profesional correspondientes a su grado y de acuerdo al perfil de puesto formulado por la Policía Nacional del Perú. En los lugares donde no se logre cubrir comisarías con Oficiales de Armas, se asignarán Suboficiales de Armas de la jerarquía de Suboficiales Superiores de Armas.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "32",
+              "texto": "Asignación en cargo extra institucional. El personal policial que sea asignado a cargos en entidades diferentes a la Policía Nacional del Perú y el Ministerio del Interior, será autorizado por la Dirección General de la Policía Nacional del Perú, y el tiempo de permanencia no excederá de dos (2) años en un mismo grado o cuatro (4) años en toda la carrera.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "33",
+              "texto": "Comisión del servicio o misión de estudios en el extranjero. Son servicios o estudios temporales desempeñados por Oficiales o Suboficiales en situación de actividad en cuadros, en delegaciones u organismos en el extranjero, con el objeto de fortalecer los intereses institucionales y representar al país, hasta un plazo máximo de dos (2) años, salvo convenio, acuerdos, pacto o análogos de carácter internacional. El personal al retornar de la misión de estudios, debe ser asignado a una unidad acorde con la capacitación recibida; asimismo, replicar sus conocimientos en los órganos de gestión académica del Régimen Educativo de la Policía Nacional del Perú.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "34",
+              "texto": "Requisitos para ser asignado en comisión del servicio o misión de estudios en el extranjero. Son los siguientes:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Pertenecer a la especialidad funcional con un mínimo de dos (2) años de experiencia, relacionado con el objeto de la comisión o misión de estudios;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Cumplir con el perfil ocupacional diseñado para el cargo o estudio a desempeñar;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "No estar sometido a procedimiento administrativo disciplinario como presunto infractor;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "No registrar infracciones graves o muy graves en el grado, conforme a lo señalado en la Ley del Régimen Disciplinario de la Policía Nacional del Perú, ni sentencia judicial condenatoria en los últimos cinco (5) años;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Tener la calificación en la Lista Anual de Rendimiento Profesional o Técnico de sobresaliente en los dos (2) últimos años;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "No estar comprendido en los cuatro (4) años próximos para pasar a la situación de retiro por las causales de:",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "a",
+                      "texto": "Límite de edad en el grado;"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "b",
+                      "texto": "Cumplir cuarenta (40) años de tiempo de servicios."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "35",
+              "texto": "Asignación de cargos en las agregadurías policiales. La asignación de cargos en las agregadurías policiales se produce de acuerdo con las siguientes etapas:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Evaluación y selección: Se somete al siguiente procedimiento:",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "a",
+                      "texto": "Una Comisión presidida por el Jefe de Estado Mayor General evalúa y propone al Director General la relación de candidatos, para ser comisionados en servicio a las agregadurías policiales."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "b",
+                      "texto": "El proceso de selección se ejecuta en función a los requisitos establecidos en la presente norma y al perfil ocupacional diseñado para el cargo, teniendo en cuenta los factores siguientes: Evaluación anual del desempeño; evaluación del desarrollo profesional o técnico; evaluación de la formación académica y evaluación anual de disciplina."
+                    }
+                  ]
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Asignación del Cargo:",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "a",
+                      "texto": "Agregado policial: Para Oficiales Generales o Coroneles de Armas egresados del Programa de Alto Mando en Orden Interno y Desarrollo Nacional del Instituto de Altos Estudios Policiales o equivalente del país o el extranjero, autorizado por la Dirección General de la Policía Nacional del Perú."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "b",
+                      "texto": "Agregado policial adjunto: Para Comandante o Mayores de Armas egresados del Curso de Oficial de Estado Mayor o de institutos similares del país o el extranjero, autorizado por la Dirección General de la Policía Nacional del Perú."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "c",
+                      "texto": "Personal auxiliar: Para Suboficiales Superiores, Brigadieres o Técnicos de Primera de Armas; con cursos de capacitación institucionales de inteligencia y computación."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "V",
+          "nombre": "EVALUACIÓN DEL DESEMPEÑO",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "36",
+              "texto": "Evaluación del desempeño del personal. La evaluación del desempeño del personal es el procedimiento anual mediante el cual se mide y valora el desenvolvimiento profesional y logros en el ejercicio de las funciones de acuerdo al grado que ostenta y cargo que ocupa, en un periodo determinado, cuyos objetivos son:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Ubicar al personal en el nivel que le corresponda en las Listas de Rendimiento Profesional y Técnico.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Aportar indicadores objetivos para los procesos de ascensos, asignación de cargo, otorgamiento de incentivos y evaluación para la permanencia en la Institución.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Garantizar el cumplimiento de las funciones asignadas, mediante indicadores de desempeño.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "37",
+              "texto": "Listas del rendimiento profesional o técnico. La Dirección Ejecutiva de Personal ubica al personal en las listas del rendimiento profesional o técnico, para facilitar los procesos de ascensos, asignación de cargo y evaluación de la permanencia en el instituto, calculando en cada caso el promedio aritmético de la nota de evaluación anual y la nota de disciplina anual. La nota máxima es de cien (100) puntos. Se publican anualmente en el mes de marzo.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "38",
+              "texto": "Órgano responsable de la evaluación del desempeño. La Dirección Ejecutiva de Personal es responsable del proceso de evaluación del desempeño que se realiza anualmente.",
+              "enumeraciones": []
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "VI",
+          "nombre": "INCENTIVOS",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "39",
+              "texto": "Definición. Los incentivos son reconocimientos que otorgan los diversos niveles del comando institucional, orientados a distinguir los actos meritorios del personal. Tienen carácter motivador.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "40",
+              "texto": "Consejo de Investigación. El Consejo de Investigación estudia, evalúa y emite opinión para el otorgamiento de incentivos. El reglamento establece el procedimiento para el otorgamiento de los incentivos.",
+              "enumeraciones": []
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "VII",
+          "nombre": "VACACIONES, LICENCIA Y PERMISOS",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "42",
+              "texto": "Vacaciones. Es el período de descanso remunerado de treinta (30) días naturales al año y comprende al personal policial en actividad únicamente por servicios prestados en forma real y efectiva durante el año inmediato anterior. El disfrute de las vacaciones es de carácter obligatorio e irrenunciable y no puede ser sustituido por compensación económica, ni acumularse a las que se devenguen en años sucesivos. Excepcionalmente, su ejercicio está sujeto a las necesidades del servicio de la Institución. Es otorgado por el Jefe de la Unidad correspondiente. El personal policial en uso del período vacacional puede transitar por el país o el extranjero, con conocimiento y autorización del Jefe de Unidad y conocimiento de la Dirección de Recursos Humanos de la Policía Nacional del Perú.",
+              "enumeraciones": []
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "VIII",
+          "nombre": "TÉRMINO DE LA CARRERA",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "60",
+              "texto": "Causales. La carrera del personal de la Policía Nacional del Perú, termina por las siguientes causales:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Fallecimiento.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Pase a la situación de retiro.",
+                  "subenumeraciones": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "numero": "III",
+      "nombre": "SITUACIÓN POLICIAL",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "I",
+          "nombre": "DEFINICIÓN Y CALIFICACIÓN",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "61",
+              "texto": "Definición Situación Policial. Es la condición en que se encuentra el personal de la Policía Nacional del Perú en situación de actividad, disponibilidad o retiro.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "62",
+              "texto": "Clasificación. El personal de la Policía Nacional del Perú se clasifica:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "En atención a su situación policial en el servicio:",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "a",
+                      "texto": "Actividad"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "b",
+                      "texto": "Disponibilidad"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "c",
+                      "texto": "Retiro"
+                    }
+                  ]
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "En atención a la naturaleza de sus funciones:",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "a",
+                      "texto": "Personal de Armas: Oficiales de Armas, Suboficiales de Armas"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "b",
+                      "texto": "Personal de Servicios: Oficiales de Servicios, Suboficiales de Servicios"
+                    }
+                  ]
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "En atención a su condición policial:",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "a",
+                      "texto": "Personal efectivo."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "b",
+                      "texto": "Personal asimilado."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "63",
+              "texto": "Calificación de las circunstancias del servicio. La calificación de las circunstancias del servicio en la que participa el personal de la Policía Nacional del Perú son:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Acción de armas: Participación del personal en enfrentamiento armado durante el cumplimiento de la finalidad y función policial;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Acto del servicio: Acción que desarrolla el personal en cumplimiento de sus funciones, deberes u orden superior, en todo momento o circunstancia, aun cuando se encuentre de franco, vacaciones o permiso;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Consecuencia del servicio: Todo hecho, efecto o consecuencia negativa en la vida o salud derivado de la ejecución del servicio policial que no puede ser referido a otra causa;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Ocasión del servicio: Circunstancias que produce lesión enfermedad o muerte como consecuencia del servicio policial prestado, en cumplimiento de la misión institucional o funciones propias inherentes al cargo;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Acto ajeno al servicio: Circunstancia que se produce como consecuencia de hechos que no guardan relación con el cumplimiento de la función policial.",
+                  "subenumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "II",
+          "nombre": "CAMBIO DE SITUACIÓN POLICIAL",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "64",
+              "texto": "Cambio de situación. El cambio de situación policial se formaliza mediante:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Resolución Suprema, para Oficiales Generales de Armas y de Servicios.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Resolución Ministerial, para Oficiales Superiores de Armas y de Servicios.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Resolución de la Dirección General de la Policía Nacional del Perú, para Oficiales Subalternos de Armas y de Servicios.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Resolución de la Dirección Ejecutiva de Personal de la Policía Nacional del Perú, para todos los grados en las categorías de Suboficiales de Armas y de Servicios.",
+                  "subenumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "III",
+          "nombre": "TIEMPO DE SERVICIOS",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "66",
+              "texto": "Reconocimiento de tiempo de servicios reales y efectivos. El empleo real y efectivo desempeñado por el personal de armas y de servicio, se considera desde la fecha en que este personal es dado de alta a la Institución.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "67",
+              "texto": "Tiempo mínimo de servicio compensatorio por comisión del servicio en el extranjero. El personal nombrado en comisión de servicio en el extranjero, por un período mayor de seis (6) meses, debe cumplir con el tiempo mínimo compensatorio de dos (2) veces la duración de la comisión.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "68",
+              "texto": "Tiempo mínimo de servicio compensatorio por misión de estudios. El personal nombrado en misión de estudios en el país o el extranjero con costo para el Estado, debe prestar servicio el tiempo mínimo compensatorio siguiente:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "En el extranjero: Tres (3) veces la duración de los estudios.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "A tiempo completo en el país: Tres (3) veces la duración de los estudios.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "A tiempo parcial: Dos (2) veces la duración de los estudios.",
+                  "subenumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "IV",
+          "nombre": "SITUACIÓN DE ACTIVIDAD",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "70",
+              "texto": "Situación de actividad. La situación de actividad es la condición del personal de la Policía Nacional del Perú en cuadros y fuera de cuadros.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "71",
+              "texto": "Situación de actividad en cuadros. La situación de actividad en cuadros es la condición en la que el personal de la Policía Nacional del Perú se encuentra dentro del servicio, con empleo y cargo, en cualquiera de los casos siguientes:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Desempeñando un cargo previsto en los cuadros de organización y asignación de personal.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Sometido a la medida preventiva de separación temporal del cargo.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "En comisión del servicio o misión de estudios.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "En vacaciones, licencia, permiso o franco.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Enfermo o lesionado por un período no mayor de seis (6) meses.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "Con mandato de detención emanado de autoridad judicial competente por un período no mayor de seis (6) meses, en cuyo plazo si el hecho es derivado del desempeño de la función policial, seguirá percibiendo los beneficios económicos que de acuerdo a Ley le corresponde.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "72",
+              "texto": "Situación de actividad fuera de cuadros. La situación de actividad fuera de cuadros es la condición en la que el personal de la Policía Nacional del Perú con empleo, se encuentra fuera del servicio, en cualquiera de los casos siguientes:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Enfermo o lesionado por el período comprendido entre seis (6) meses a dos (2) años.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Prisionero o rehén durante el desempeño del servicio policial, por el término máximo de tres (3) años, al cabo del cual, si se ignora su existencia o paradero, es considerado como fallecido en acto de servicio.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Desaparecido en acción de armas, en acto o como consecuencia del servicio, por el término máximo de tres (3) años, al cabo del cual si se ignora su existencia o paradero, es considerado como fallecido en acción de armas, acto del servicio o como consecuencia del servicio.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Con mandato de detención emanado de autoridad judicial competente por un período mayor de seis (6) meses.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "Sometido a la medida preventiva de cese temporal del empleo prevista en la Ley del Régimen Disciplinario de la Policía Nacional del Perú.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "Sometido a la medida de suspensión temporal del servicio prevista en la Ley del Régimen Disciplinario de la Policía Nacional del Perú.",
+                  "subenumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "V",
+          "nombre": "SITUACIÓN DE DISPONIBILIDAD",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "74",
+              "texto": "Causales de pase a la situación de disponibilidad. El personal pasa a la situación de disponibilidad por las causales siguientes:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "A su solicitud;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Medida disciplinaria;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Sentencia judicial condenatoria; y,",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Enfermedad o lesión grave.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "81",
+              "texto": "Requisitos para el retorno a la situación de actividad. Para retornar a la situación de actividad por cualquiera de las causales expuestas en el presente capítulo, se requiere:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Aprobar el examen de conocimientos y de esfuerzo físico;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Estar psicosomáticamente apto para el servicio policial, acreditado por la Dirección de Sanidad de la Policía Nacional del Perú;",
+                  "subenumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "VI",
+          "nombre": "SITUACIÓN DE RETIRO",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "84",
+              "texto": "Límite de edad en el grado. El personal de la Policía Nacional del Perú pasará a la situación de retiro por límite de edad en el grado, en atención a la edad máxima establecida en el presente artículo.",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Oficiales de Armas:",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Teniente General",
+                      "texto": "66 años"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "General",
+                      "texto": "64 años"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Coronel",
+                      "texto": "61 años"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Comandante",
+                      "texto": "59 años"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Mayor",
+                      "texto": "54 años"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Capitán",
+                      "texto": "49 años"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Teniente",
+                      "texto": "44 años"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Alférez",
+                      "texto": "40 años"
+                    }
+                  ]
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Oficiales de servicios:",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "General",
+                      "texto": "63 años"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Coronel",
+                      "texto": "62 años"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Comandante",
+                      "texto": "61 años"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Mayor",
+                      "texto": "58 años"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Capitán",
+                      "texto": "55 años"
+                    }
+                  ]
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Suboficiales de armas y de servicios:",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Suboficial Superior",
+                      "texto": "62 años"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Suboficial Brigadier",
+                      "texto": "61 años"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Suboficial Técnico de Primera",
+                      "texto": "60 años"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Suboficial Técnico de Segunda",
+                      "texto": "59 años"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Suboficial Técnico de Tercera",
+                      "texto": "58 años"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Suboficial de Primera",
+                      "texto": "57 años"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Suboficial de Segunda",
+                      "texto": "56 años"
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "Suboficial de Tercera",
+                      "texto": "55 años"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "86",
+              "texto": "Renovación de cuadros por proceso regular. El pase a la situación de retiro por renovación de cuadros por proceso regular se aplica en base a criterios técnicos y teniendo en cuenta el requerimiento de efectivos de la Policía Nacional del Perú, el número de vacantes asignadas para el proceso de ascenso, el número de efectivos fijados anualmente por el Poder Ejecutivo que aseguren la estructura piramidal de la organización, la evaluación de la carrera y la prospectiva de desarrollo institucional del personal policial y esta no constituye sanción administrativa.",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Selección: Son propuestos en el proceso regular de renovación de cuadros los Oficiales generales de armas y de servicios, los Oficiales superiores de armas y de servicios y los Suboficiales de armas y servicios que cuenten como mínimo con 20 años de servicios reales y efectivos; y, que al 31 de diciembre del año del proceso cumplan las condiciones siguientes:",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "a",
+                      "texto": "Para Tenientes Generales contar con mínimo de 1 (un) año de permanencia en el grado."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "b",
+                      "texto": "Para Generales de armas y de servicios contar con mínimo de 2 (dos) años de permanencia en el grado."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "c",
+                      "texto": "Para Oficiales superiores de armas contar con mínimo de 5 (cinco) años de permanencia en el grado."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "d",
+                      "texto": "Para Oficiales superiores de servicios contar con un mínimo de 6 (seis) años de permanencia en el grado."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "e",
+                      "texto": "Para Suboficiales de armas y de servicios en la jerarquía de Suboficiales Superiores contar con un mínimo de 6 (seis) años de permanencia en el grado."
+                    }
+                  ]
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Aplicación: El proceso regular de renovación de cuadros se desarrolla de acuerdo a los siguientes lineamientos:",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "numero": "a",
+                      "texto": "La renovación se ejecuta una sola vez al año después de producido el proceso de ascenso correspondiente."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "b",
+                      "texto": "Es función del Consejo de Calificación identificar objetivamente mediante acta individual, los criterios técnicos para cada uno de los Oficiales y Suboficiales propuestos para pasar al retiro por renovación de cuadros, las resoluciones deben estar justificadas y motivadas."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "c",
+                      "texto": "La propuesta de renovación de Oficiales generales es presentada por escrito por el Comandante General de la Policía Nacional del Perú al Ministro del Interior para acuerdo y trámite. La aprobación es potestad del Presidente de la República en su calidad de Jefe Supremo de la Policía Nacional del Perú."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "d",
+                      "texto": "La propuesta de renovación de Oficiales superiores es presentada por el Consejo de Calificación al Comandante General de la Policía Nacional del Perú para su aprobación."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "e",
+                      "texto": "La propuesta de renovación de los Suboficiales es presentada por el Consejo de Calificación al Director de Recursos Humanos para su aprobación."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "f",
+                      "texto": "El pase a la situación de retiro del personal policial por la causal de renovación, debe ser notificado conforme a Ley."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "numero": "g",
+                      "texto": "El pase a la situación de retiro por renovación de cuadros por proceso regular se hace efectivo a partir del 1 de enero del año siguiente al del proceso."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "92",
+              "texto": "Insuficiencia Profesional. El personal de la Policía Nacional del Perú pasa a la situación de retiro por la causal de Insuficiencia Profesional cuando:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "a",
+                  "texto": "Encontrándose apto para postular al grado inmediato superior no se presenta al proceso de ascenso respectivo por dos (2) años consecutivos o tres (3) discontinuos, salvo caso de enfermedad o lesión certificada por la Dirección Ejecutiva de Sanidad de la Policía Nacional del Perú.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "b",
+                  "texto": "Desaprueba el examen de ascenso al grado inmediato superior, dos (2) veces consecutivas o tres (3) discontinuas.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "c",
+                  "texto": "Desaprueba los cursos de capacitación, especialización o perfeccionamiento; para lo cual se aplicará el mismo procedimiento que el señalado en el acápite anterior.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "d",
+                  "texto": "No aprueba o no alcanza vacante al grado inmediato superior, durante cinco (5) años consecutivos o discontinuos, para los Oficiales y Suboficiales de Armas.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "e",
+                  "texto": "Desaprueba la evaluación de desempeño, conforme al reglamento de la materia.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "93",
+              "texto": "Sentencia judicial condenatoria. El personal de la Policía Nacional del Perú pasa a la situación de retiro por sentencia judicial condenatoria, cuando la resolución judicial consentida o ejecutoriada sancione con pena privativa de libertad efectiva o inhabilitación mayor de dos (2) años.",
+              "enumeraciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "numero": "IV",
+      "nombre": "DISPOSICIÓN COMPLEMENTARIA DEROGATORIA",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "1",
+          "nombre": "Disposición Derogatoria",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "ÚNICA",
+              "texto": "Derogación. Deróguense la Ley 28857, Ley del Régimen de Personal de la Policía Nacional del Perú y sus modificatorias.",
+              "enumeraciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

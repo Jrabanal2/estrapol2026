@@ -1,0 +1,715 @@
+{
+  "temas": [
+    {
+      "nombre_tema": "DECRETO LEGISLATIVO QUE REGULA LA FORMACIÓN DE LA PNP - DL Nº 1318",
+      "texto": "Texto del Decreto Legislativo que regula la formación de la Policía Nacional del Perú (extracto).",
+      "titulos": [
+        {
+          "id": "titulo",
+          "numero": "PRELIMINAR",
+          "nombre": "TÍTULO PRELIMINAR",
+          "capitulos": [
+            {
+              "id": "capitulo",
+              "numero": "",
+              "nombre": "DISPOSICIONES GENERALES",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "2",
+                  "texto": "El presente Decreto Legislativo se aplica a los estudiantes, docentes y personal de la Policía Nacional del Perú.",
+                  "enumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "titulo",
+          "numero": "I",
+          "nombre": "DE LA FORMACIÓN PROFESIONAL POLICIAL",
+          "capitulos": [
+            {
+              "id": "capitulo",
+              "numero": "I",
+              "nombre": "FINALIDAD, PRINCIPIOS Y OBJETIVOS",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "3",
+                  "texto": "El Estado reconoce los programas de formación profesional de pregrado y posgrado y de formación continua que se imparten en las Escuelas de la Policía Nacional del Perú como parte del nivel superior del sistema educativo nacional, de acuerdo al presente Decreto Legislativo y con arreglo a las demás normas que le resulten aplicables.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "4",
+                  "texto": "La Formación Profesional Policial es el proceso educativo con autonomía académica, normativa y administrativa que tiene como finalidad la formación, integración, capacitación, actualización, especialización, perfeccionamiento e investigación científica del personal de la Policía Nacional del Perú en el nivel superior del sistema educativo.\n\nLa Formación Profesional Policial se regula por sus normas específicas y por la normativa general aplicable cuando así se disponga en las primeras.\n\nLa Formación Profesional Policial tiene como finalidad pública, certificar la idoneidad y eficacia de la Policía Nacional del Perú para el cumplimiento de sus funciones, garantizando así la prestación de un servicio y derecho fundamental para la sociedad.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "5",
+                  "texto": "La Formación Profesional Policial tiene como principios:",
+                  "enumeraciones": [
+                    {
+                      "id": "enumeracion",
+                      "numero": "a",
+                      "texto": "Investigación e innovación"
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "b",
+                      "texto": "Calidad educativa"
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "c",
+                      "texto": "Meritocracia"
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "d",
+                      "texto": "Desarrollo de competencias pertinentes"
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "e",
+                      "texto": "Mejoramiento continuo"
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "f",
+                      "texto": "Pertenencia y mística institucional"
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "g",
+                      "texto": "Ética profesional"
+                    }
+                  ]
+                },
+                {
+                  "id": "articulo",
+                  "numero": "6",
+                  "texto": "La Formación Profesional Policial tiene como objetivos:",
+                  "enumeraciones": [
+                    {
+                      "id": "enumeracion",
+                      "numero": "a",
+                      "texto": "Formar integralmente, desde su ingreso, a los Oficiales y Suboficiales de la Policía Nacional del Perú, con las competencias y conocimiento necesarios para el adecuado desempeño de sus funciones, de acuerdo a las normas que regulan la carrera policial, y contribuir a su actualización, integración, especialización y perfeccionamiento continuo."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "b",
+                      "texto": "Contribuir al cumplimiento de la finalidad, objetivos y metas de la Policía Nacional del Perú, incorporando los criterios, principios y valores institucionales que la definen."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "c",
+                      "texto": "Desarrollar Ciencia Policial, difundir y consolidar la doctrina que la sustenta como elemento integrador para la pertenencia institucional a la Policía Nacional del Perú, en el marco de la Constitución y las leyes."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "d",
+                      "texto": "Promover la investigación e innovación de los contenidos que imparte, garantizando la actualización constante y la calidad de su oferta educativa."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "e",
+                      "texto": "Fomentar el establecimiento de relaciones interinstitucionales para el cumplimiento de sus fines y los de la Policía Nacional del Perú."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "titulo",
+          "numero": "II",
+          "nombre": "DE LA ORGANIZACIÓN ACADÉMICA",
+          "capitulos": [
+            {
+              "id": "capitulo",
+              "numero": "I",
+              "nombre": "DE LA DIRECCIÓN DE EDUCACIÓN Y DOCTRINA DE LA POLICÍA NACIONAL DEL PERÚ",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "7",
+                  "texto": "La Dirección de Educación y Doctrina de la Policía Nacional del Perú es el órgano de gestión académica y administrativa encargada de los procesos educativos de los estudiantes y personal de la Policía Nacional del Perú.\n\nLa Dirección de Educación y Doctrina de la Policía Nacional del Perú, a través de las escuelas, planifica, organiza, imparte, supervisa, evalúa y certifica la formación profesional de los estudiantes y personal de la Policía Nacional del Perú, facultadas a otorgar a nombre de la Nación los grados académicos y los títulos profesionales equivalentes a los otorgados por las universidades y las escuelas e institutos del nivel superior del sistema educativo, para los Oficiales y Suboficiales de la Policía Nacional del Perú, respectivamente, y conforme a su organización interna.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "8",
+                  "texto": "La organización y funcionamiento de la Dirección de Educación y Doctrina de la Policía Nacional del Perú, de acuerdo a su naturaleza y autonomía académica, disciplinaria y administrativa, así como la duración y organización de sus programas académicos, se establecen en el reglamento del presente Decreto Legislativo.\n\nA efectos de garantizar su adecuado funcionamiento a nivel nacional, la Dirección de Educación y Doctrina de la Policía Nacional del Perú cuenta con escuelas que inscriben los grados y títulos correspondientes en los registros nacionales competentes. Asimismo, dependen de la Dirección de Educación y Doctrina de la Policía Nacional del Perú la Escuela de Posgrado y la Escuela de Formación Continua.\n\nLa Dirección de Educación y Doctrina de la Policía Nacional del Perú tiene un Consejo Superior de Formación Profesional como órgano máximo de coordinación, gestión, dirección, supervisión y ejecución académica y administrativa. Su conformación, funciones y competencias se desarrollan en el reglamento del presente Decreto Legislativo.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "9",
+                  "texto": "El ingreso a las escuelas de la Dirección de Educación y Doctrina de la Policía Nacional del Perú se realiza mediante concurso público de méritos, bajo el procedimiento, plazos, requisitos y condiciones que para dichos efectos se establezcan en el reglamento respectivo, incluyendo los supuestos de excepción.",
+                  "enumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "capitulo",
+              "numero": "II",
+              "nombre": "DE LOS DOCENTES Y ESTUDIANTES",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "10",
+                  "texto": "Los docentes de Formación Profesional Policial son los profesionales que ejercen las funciones de enseñanza, asesoría, investigación, mejoramiento continuo del proceso formativo y proyección social en la Escuela.\n\nEl régimen de acceso, permanencia y cese de sus funciones, entre otros aspectos, se regula por el reglamento respectivo. En cuanto a los docentes civiles, es de aplicación la Ley 30220, Ley Universitaria.\n\nPueden ejercer la docencia, los directivos y miembros de los Consejos de la Escuela, conforme a las disposiciones del reglamento.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "11",
+                  "texto": "Son estudiantes de las escuelas de la Dirección de Educación y Doctrina de la Policía Nacional del Perú quienes, cumpliendo todos los requisitos señalados en las normas que regulan los procesos de admisión, superan satisfactoriamente sus etapas de selección y se encuentran matriculados en alguna de ellas. Los estudiantes extranjeros que se admiten por invitación se someten a lo dispuesto en la presente norma y su reglamento.\n\nEl régimen de los estudiantes de pregrado, sus derechos, obligaciones, infracciones y sanciones se regulan en el reglamento respectivo. Las infracciones para los estudiantes de la Escuela se clasifican en muy graves, graves o leves y las primeras pueden significar la exclusión de la Escuela.\n\nNo puede restringirse o retirarse la condición de estudiante por hechos vinculados a la gestación, paternidad o maternidad; ni pueden ser usados estos como sustento para determinar infracción o sanción.\n\nEl reglamento establece las causales de suspensión temporal de la condición de estudiante, en salvaguarda de su integridad física. Los procesos de suspensión y reincorporación son regulados en el reglamento del presente Decreto Legislativo.\n\nEl personal de la Policía Nacional del Perú que se encuentre estudiando en las Escuelas de Posgrado y Educación Continua se regula por las normas de la carrera policial y su normativa interna.",
+                  "enumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "capitulo",
+              "numero": "III",
+              "nombre": "GRADOS, TÍTULOS Y CERTIFICACIONES",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "12",
+                  "texto": "La obtención de los grados académicos y los títulos correspondientes que se encuentran facultadas a otorgar las escuelas de la Dirección de Educación y Doctrina de la Policía Nacional del Perú se realiza de acuerdo a las exigencias académicas y administrativas establecidas en su plan curricular de estudios, de acuerdo al reglamento y conforme a los créditos de estudios exigibles por la normativa vigente en el sistema educativo nacional.\n\nLos grados y títulos profesionales obtenidos por los egresados de las escuelas de la Dirección de Educación y Doctrina de la Policía Nacional del Perú se inscriben en los Registros Nacionales correspondientes, de acuerdo la normativa vigente del sistema educativo nacional que establezca el Sector Educación.\n\nLas certificaciones emitidas por la Escuela de Educación Continua se sujetan a lo establecido en su normativa interna.",
+                  "enumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "capitulo",
+              "numero": "IV",
+              "nombre": "BECAS Y CONVENIOS",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "13",
+                  "texto": "En la Dirección de Educación y Doctrina de la Policía Nacional del Perú las becas para los estudiantes se otorgan en atención al cuadro de mérito de ingreso o académico, según corresponda.\n\nPara acceder a becas de estudio, en el país o en el extranjero, y participar en los programas equivalentes de pregrado y posgrado se requiere previamente haber logrado vacante en los procesos de admisión. Los programas de capacitación, especialización y actualización se realizan por invitación y por necesidad de servicio policial, las mismas que deben estar autorizadas mediante la resolución autoritativa respectiva. En los casos requeridos, se procede a la convalidación y revalidación según corresponda.\n\nEl proceso para acceder a becas, sus requisitos y condiciones se establece en el Manual de Becas de la Policía Nacional del Perú.",
+                  "enumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "titulo",
+          "numero": "III",
+          "nombre": "DEL RÉGIMEN ACADÉMICO Y DISCIPLINARIO",
+          "capitulos": [
+            {
+              "id": "capitulo",
+              "numero": "I",
+              "nombre": "SISTEMA CURRICULAR, INVESTIGACIÓN Y EVALUACIÓN",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "15",
+                  "texto": "Los programas de estudio son ofertados por las escuelas del régimen educativo policial. Se implementan mediante los planes de estudio y son de nivel de formación profesional, formación técnico profesional y posgrado. Dichos programas conducen a la obtención de grado académico y/o título, debidamente refrendado y registrado según corresponda.\n\nSon aprobados por la Dirección de Educación y Doctrina de la Policía Nacional del Perú teniendo en consideración las competencias y capacidades requeridas para el adecuado desempeño de la función policial. La determinación e implementación de los contenidos de los planes de estudio se encuentran alineados a los principios, valores y objetivos de las políticas de Estado y políticas nacionales, al Plan Estratégico de la Policía Nacional del Perú y demás documentos de gestión vinculados con el régimen educativo policial.\n\nLa estructura de la Formación Profesional Policial, su duración, organización, denominación, especialidades y áreas de desempeño, entre otros aspectos, se regulan en el Reglamento del presente Decreto Legislativo.\n\n(Los planes de estudio incluyen la enseñanza de la lengua de señas peruana para la adecuada atención de las personas con discapacidad.)",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "16",
+                  "texto": "La Formación Profesional Policial, promueve la investigación e innovación en las áreas del conocimiento que forman parte de sus programas académicos. La Dirección de Educación y Doctrina de la Policía Nacional del Perú lidera el establecimiento de redes para esos fines, a través de sus diversas escuelas de pregrado, Escuela de Formación Continua y Escuela de Posgrado.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "17",
+                  "texto": "La evaluación es integral y continua, destinada a estimular y desarrollar las capacidades, aptitudes y actitudes críticas y creativas en los estudiantes de las escuelas de la Dirección de Educación y Doctrina de la Policía Nacional del Perú.\n\nEl sistema de evaluación se sujeta a las características de cada programa de estudio y programa académico, su regulación se establecerá en el reglamento respectivo, incluyendo la determinación del cuadro de mérito.",
+                  "enumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "capitulo",
+              "numero": "II",
+              "nombre": "GRADUADOS",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "18",
+                  "texto": "Son graduados de las escuelas de la Dirección de Educación y Doctrina de la Policía Nacional del Perú los estudiantes que hayan concluido satisfactoriamente su plan curricular y completado los créditos educativos, obteniendo el grado académico y título correspondiente, de conformidad a la normativa aplicable.\n\nEl grado de Bachiller Técnico requiere haber aprobado el programa de estudio con un mínimo de ciento veinte (120) créditos, ejecutados en seis (06) periodos académicos, así como el conocimiento de un idioma extranjero o de una lengua originaria. El grado de Bachiller Técnico se inscribe en el Ministerio de Educación (MINEDU).\n\nEl grado de Bachiller requiere haber aprobado el programa de estudio con un mínimo de doscientos (200) créditos, desarrollados en diez (10) semestres académicos, así como el conocimiento de un idioma extranjero o de una lengua originaria. El grado de Bachiller se inscribe en la Superintendencia Nacional de Educación Superior Universitaria (SUNEDU).",
+                  "enumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "capitulo",
+              "numero": "III",
+              "nombre": "EVALUACIÓN, ACREDITACIÓN Y CERTIFICACIÓN DE LA CALIDAD EDUCATIVA",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "20",
+                  "texto": "La Dirección de Educación y Doctrina de la Policía Nacional del Perú promueve la evaluación, acreditación y certificación de la calidad educativa de sus programas académicos y gestión institucional, cuya ejecución es realizada por las demás escuelas de acuerdo a la normatividad vigente.",
+                  "enumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "capitulo",
+              "numero": "IV",
+              "nombre": "CONVALIDACIÓN Y REVALIDACIÓN",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "21",
+                  "texto": "La convalidación es el procedimiento que realiza la Dirección de Educación y Doctrina de la Policía Nacional del Perú y sus respectivas Escuelas para establecer equivalencias sobre la base de los objetivos, contenidos y créditos de las asignaturas comprendidas en los planes de estudio vigentes de similar naturaleza de las instituciones educativas, nacionales o extranjeras, del nivel superior del sistema educativo.\n\nLa convalidación académica se autoriza mediante resolución del Director de la Escuela respectiva con opinión previa del Consejo Académico, de acuerdo al procedimiento establecido en el reglamento.\n\nLa Dirección de Educación y Doctrina de la Policía Nacional del Perú es el órgano competente para revalidar los grados académicos y títulos profesionales del extranjero, en las materias de su competencia, previo pronunciamiento del Consejo Académico, los procedimientos se establecen en el respectivo reglamento.",
+                  "enumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "capitulo",
+              "numero": "V",
+              "nombre": "DE LOS CONSEJOS ACADÉMICOS Y DISCIPLINARIOS",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "22",
+                  "texto": "En cada una de las Escuelas, como unidades académicas integrantes de la Dirección de Educación y Doctrina de la Policía Nacional del Perú, existe un Consejo Académico y un Consejo Disciplinario que constituyen primera instancia de los procesos sometidos a su conocimiento y competencia. El Consejo Académico y el Consejo Disciplinario Superior constituyen segunda instancia. La conformación y funciones de los Consejos Académicos y Disciplinarios, se regulan en el reglamento respectivo.\n\nA los estudiantes de pregrado se les aplica las normas que regulan el desempeño académico, las infracciones y sanciones previstas en el presente Decreto Legislativo; y, en forma supletoria la Ley del Procedimiento Administrativo General.\n\nLos estudiantes de las Escuelas de Posgrado y de Educación continua, miembros de la Policía Nacional del Perú, se someten a las normas académicas y disciplinarias propias de la carrera.",
+                  "enumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "capitulo",
+              "numero": "VI",
+              "nombre": "DE LAS INFRACCIONES Y SANCIONES",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "23",
+                  "texto": "Las infracciones según su gravedad se clasifican en leves, graves y muy graves. Las sanciones, de acuerdo a la gravedad de la infracción se clasifican en: leves, conllevan al descuento en el factor de disciplina de 0.1 a 0.9 puntos; graves, conllevan al descuento en el factor de disciplina de 3 a 6 puntos; y, muy graves, conllevan a la expulsión. Estas disposiciones son aplicables a los estudiantes de pregrado.\n\nLa tipificación de las infracciones leves, graves y muy graves, así como las sanciones aplicables se señalan en el anexo que forma parte del presente Decreto Legislativo, dentro de los límites previstos por el inciso 8 del artículo 118 de la Constitución Política del Perú. El procedimiento sancionador para infracciones leves, graves y muy graves se regula en el reglamento del presente Decreto Legislativo.\n\nLos estudiantes que sean sancionados con expulsión, deben sufragar los gastos irrogados al Estado durante su permanencia en las Escuelas de Formación Profesional Policial, de acuerdo al procedimiento que se establezca.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "24",
+                  "texto": "Son causales de separación para estudiantes de pregrado de la Dirección de Educación y Doctrina de la Policía Nacional del Perú, las siguientes:\n\nNo haber alcanzado nota aprobatoria mínima de 13 en cualquiera de las asignaturas o en el promedio general de rendimiento académico en un periodo, semestre, ciclo o módulo; incluyendo el factor disciplinario.\n\nNo solicitar reincorporación luego del período de gravidez, conforme al reglamento.\n\nNo aprobar los exámenes de reincorporación.\n\nRetiro voluntario, salvo que se encuentre incurso en proceso de investigación administrativa académica y/o disciplinaria.\n\nIncapacidad psicosomática que limite o impida su continuidad en la Escuela, declarada por la Junta de Sanidad de la Policía Nacional del Perú. Esta causal no comprende la gestación o situación derivada de ella.\n\nOtras determinadas por ley.\n\nLos estudiantes que sean separados de manera definitiva, deben sufragar los gastos irrogados al Estado durante su permanencia en las escuelas, de acuerdo con el procedimiento que se establezca.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "25",
+                  "texto": "Son causales de baja para estudiantes de pregrado de la Dirección de Educación y Doctrina de la Policía Nacional del Perú, las siguientes:\n\n1. La culminación satisfactoria del plan de estudios académico y el factor disciplinario, incluyendo no encontrarse sometido a proceso de investigación o judicial conforme se disponga en el reglamento.\n\n2. Por fallecimiento.",
+                  "enumeraciones": [
+                    {
+                      "id": "enumeracion",
+                      "numero": "1",
+                      "texto": "La culminación satisfactoria del plan de estudios académico y el factor disciplinario..."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "2",
+                      "texto": "Por fallecimiento."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre_tema": "DECRETO LEGISLATIVO QUE REGULA LA FORMACIÓN PROFESIONAL DE LA PNP - DL Nº 1318 (ENFPP y estructura interna)",
+      "texto": "Texto del segundo bloque del mismo documento enfocado en la ENFPP, sus unidades y funciones.",
+      "titulos": [
+        {
+          "id": "titulo",
+          "numero": "I",
+          "nombre": "DE LA ESCUELA NACIONAL DE FORMACIÓN PROFESIONAL POLICIAL",
+          "capitulos": [
+            {
+              "id": "capitulo",
+              "numero": "III",
+              "nombre": "DIRECCIÓN Y SUB DIRECCIÓN",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "9",
+                  "texto": "La Dirección de la ENFPP tiene las siguientes funciones:\n\na. Representar a la ENFPP a nivel nacional e internacional.\n\nb. Dirigir la formación profesional alineada al cumplimiento de la finalidad y funciones de la PNP.\n\nc. Aprobar, desde los enfoques de derechos humanos, género e interculturalidad, los programas académicos conducentes al otorgamiento de títulos profesionales o certificaciones correspondientes a la formación profesional, integración, actualización, especialización y perfeccionamiento policial, en concordancia con la normativa vigente propuestos por el Consejo Superior Académico y Disciplinario, y la normativa nacional e internacional en la materia.\n\n... (resto de funciones enumeradas en el artículo).",
+                  "enumeraciones": [
+                    {
+                      "id": "enumeracion",
+                      "numero": "a",
+                      "texto": "Representar a la ENFPP a nivel nacional e internacional."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "b",
+                      "texto": "Dirigir la formación profesional alineada al cumplimiento de la finalidad y funciones de la PNP."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "c",
+                      "texto": "Aprobar programas académicos desde enfoques de derechos humanos, género e interculturalidad."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "d",
+                      "texto": "Formular, promover y evaluar el documento de prospectiva y desarrollo institucional de la ENFPP."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "e",
+                      "texto": "Aprobar, dirigir y supervisar la formulación y ejecución de Manuales, Reglamentos Internos y documentos académicos, administrativos y de investigación."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "f",
+                      "texto": "Aprobar planes y proyectos de inversión."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "g",
+                      "texto": "Controlar, supervisar y evaluar las actividades académicas, de investigación, administrativas y disciplinarias."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "h",
+                      "texto": "Elevar al Consejo Superior de Formación Profesional Policial propuestas de lineamientos y asuntos de su competencia."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "i",
+                      "texto": "Suscribir los certificados de grados académicos, títulos profesionales y distinciones honoríficas."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "j",
+                      "texto": "Aprobar las solicitudes de revalidación."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "k",
+                      "texto": "Nombrar a los miembros del Consejo Académico y Disciplinario de cada Escuela de la ENFPP."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "l",
+                      "texto": "Dar de alta a los estudiantes ingresantes y de baja a los que culminaron satisfactoriamente su periodo de formación."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "m",
+                      "texto": "Supervisar los procesos de admisión para su mejora constante."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "n",
+                      "texto": "Asesorar al comando institucional en materia de cultura organizacional y doctrina de la PNP."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "o",
+                      "texto": "Proponer al Comandante General la terna de Oficiales y Sub Oficiales para asignación en la ENFPP."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "p",
+                      "texto": "Contratar o encargar cargos a personal civil especializado."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "q",
+                      "texto": "Las demás funciones que le asigne el Comandante General de la PNP."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "capitulo",
+              "numero": "IV",
+              "nombre": "UNIDADES QUE DEPENDEN DE LA DIRECCIÓN",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "14",
+                  "texto": "Unidad de Cultura Organizacional y Doctrina: Encargada de velar por la consolidación de la cultura organizacional, así como investigar, producir, formular, actualizar, evaluar y difundir la doctrina de la PNP. Depende de la Dirección de la ENFPP, y está a cargo de un Oficial Superior de Armas o de Servicios de la PNP en situación de actividad.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "22",
+                  "texto": "Unidad de Admisión e Informes: Encargada de diseñar y realizar los procesos de difusión, inscripción, selección y admisión a los programas de estudio de pregrado, posgrado y formación continua de la ENFPP.\n\nDepende de la Dirección de la ENFPP, y está a cargo de un Oficial Superior de Armas de la PNP, con grado de Coronel, en situación de actividad o personal profesional civil calificado y/o especializado en la materia.",
+                  "enumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "capitulo",
+              "numero": "V",
+              "nombre": "DIVISIONES QUE DEPENDEN DE LA SUBDIRECCIÓN",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "24",
+                  "texto": "División Académica: Encargada de programar, coordinar, controlar, supervisar y evaluar las actividades académicas, incorporando en su desarrollo los enfoques de derechos humanos, género e interculturalidad, así como la gestión de los grados académicos y títulos profesionales con las Escuelas de pregrado, posgrado y formación continua; de mantener el registro y matrícula de los estudiantes, el bienestar de los estudiantes y la gestión de los servicios bibliotecarios de la ENFPP.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "25",
+                  "texto": "Funciones de la División Académica (actual DIREDDOC): a) Gestionar los procesos académicos relacionados con la formación, la enseñanza-aprendizaje, el diseño curricular y la graduación. b) Diseñar, programar, supervisar y evaluar las actividades académicas en pregrado, posgrado y formación continua, así como de otros programas de extensión educativa. c) Aprobar los Planes de Trabajo Académicos de las unidades académicas. d) Cumplir y hacer cumplir las disposiciones de la Dirección y los acuerdos del Consejo Superior de Formación Profesional Policial en materia de su competencia. e) Proponer a la Sub Dirección la elaboración y actualización de manuales vinculados al otorgamiento de becas, a los procesos de convalidación y revalidación académica, y demás en el marco de sus competencias. f) Promover ante el Consejo Superior Académico y Disciplinario de la ENFPP la modificación y creación de los programas académicos sobre la base de las políticas institucionales de la PNP. g) Promover la internacionalización académica de la ENFPP ... (y demás funciones).",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "27",
+                  "texto": "Unidad de Asuntos Académicos: Encargada del proceso de gestión de la formación profesional y de brindar apoyo a los principales procesos académicos relacionados con la formación, la enseñanza-aprendizaje, el diseño curricular y la graduación.\n\nDepende de la División Académica de la ENFPP, y está a cargo de un Oficial Superior de Armas o de Servicios de la PNP en situación de actividad o personal profesional civil calificado y/o especializado en la materia.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "30",
+                  "texto": "Unidad de Registro, Grados y Títulos: Mantener actualizados y clasificados los registros académicos de los estudiantes de la ENFPP; establecer lineamientos, tramitar y emitir títulos, grados académicos, diplomas, certificados, constancias de egresados, sílabos y certificados de estudios; elaborar y proporcionar la información estadística pertinente; brindar apoyo a las escuelas para la realización de encuestas, censos, estudios y otros trabajos relacionados con asuntos académicos de la ENFPP; organizar, dirigir y supervisar el proceso de sustentación de tesis y otros procesos para optar el grado académico o título; elaborar y actualizar padrones de egresados y demás certificaciones.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "31",
+                  "texto": "Unidad de Bienestar del Estudiante: Encargada de cumplir la política de organización de programas y servicios de bienestar de los estudiantes de la ENFPP, promoviendo y apoyando mejores condiciones de desarrollo físico, intelectual y social de sus integrantes de acuerdo a las necesidades y diferencias de cada sexo.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "33",
+                  "texto": "Unidad de Servicios Bibliotecarios y Documentación: Encargada de organizar, administrar y regular los recursos y servicios de las bibliotecas de la ENFPP.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "34",
+                  "texto": "Funciones de la Unidad de Servicios Bibliotecarios y Documentación: a) Gestionar la adquisición de las publicaciones que pasarán a formar parte de la colección bibliográfica de la ENFPP. b) Organizar y realizar el procesamiento técnico del material bibliográfico de las bibliotecas de la ENFPP. c) Coordinar y organizar las capacitaciones sobre el uso y manejo de los recursos y servicios de las bibliotecas. d) Organizar, administrar y mantener el funcionamiento y desarrollo adecuado de los servicios al público en las bibliotecas de la ENFPP. e) Proponer normas en materia de su competencia. f) Las demás funciones que le asigne el Jefe de la División Académica.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "35",
+                  "texto": "División de Investigación: Encargada de promover y difundir las actividades de investigación a nivel pregrado y posgrado en las áreas de conocimiento que forman parte de la oferta académica de la ENFPP, contribuyendo a la mejora y actualización constante de la función policial.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "36",
+                  "texto": "Funciones de la División de Investigación: a) Proponer políticas, normas y procedimientos en materia de investigación, innovación y transferencia de ciencia y tecnología. b) Gestionar los recursos necesarios para potenciar el desarrollo de la investigación en la ENFPP. c) Establecer políticas de investigación multidisciplinaria que incorporen investigadores, sean policías o civiles. d) Promover la incorporación de nuevos conocimientos y la data desagregada por sexo. e) Identificar, sistematizar, analizar y difundir las buenas prácticas en el ejercicio de la función policial. f) Promover y otorgar estímulos a la investigación en las áreas de interés de la ENFPP por lo menos una vez al año. g) Promover el establecimiento de relaciones de cooperación con universidades e institutos nacionales y extranjeros, y escuelas policiales del extranjero, para el desarrollo de investigación conjunta. h) Cumplir y hacer cumplir las órdenes de la Dirección y los acuerdos del Consejo Superior de Formación Profesional Policial en materia de su competencia. i) Participar en la formulación y gestión del Plan Estratégico Educativo. j) Presentar su Plan de Trabajo Anual para la aprobación de la Sub Dirección. k) Las demás funciones que le asigne el Sub Director de la ENFPP.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "37",
+                  "texto": "División Administrativa: Encargada de planificar, dirigir, ejecutar y supervisar los procesos de los sistemas administrativos de presupuesto, abastecimiento, contabilidad, tesorería, control patrimonial y de recursos humanos en la Unidad Ejecutora a cargo de la ENFPP.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "40",
+                  "texto": "Unidad de Presupuesto: Encargada de desarrollar los procesos de programación, formulación, ejecución, seguimiento y evaluación presupuestal de la Unidad Ejecutora a cargo de la ENFPP.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "45",
+                  "texto": "Funciones de la Unidad de Tesorería: a) Consolidar y realizar el registro administrativo de los ingresos por la fuente de financiamiento Recursos Directamente Recaudados (RDR) en el módulo administrativo del SIAF, previa emisión del comprobante de pago correspondiente y su posterior transferencia a la Cuenta Única de Tesoro Público (CUT); b) Formular la programación del calendario de pago mensual, así como supervisar, distribuir y ejecutar los recursos asignados; c) Recibir y custodiar la devolución de los fondos por menores gastos y otros; d) Controlar, preparar y efectuar el pago de obligaciones y compromisos contraídos con proveedores y otros; e) Conducir, registrar y supervisar en el módulo administrativo del SIAF los giros, pagos y rendición de cuentas de fondos; f) Ejecutar las acciones necesarias para la apertura y/o cancelación de cuentas corrientes bancarias; g) Elaborar y proponer el proyecto de Resolución que designa a los responsables titulares y/o suplentes de las cuentas bancarias; h) Realizar el control, registro, custodia y recuperación de Fondos de Garantía, Cartas Fianzas y otros títulos valores; i) Supervisar el manejo adecuado de los Fondos de Caja Chica; j) Realizar la conciliación de los movimientos de fondos de las cuentas bancarias; k) Monitorear e identificar riesgos operativos y financieros; l) Consolidar y efectuar el pago de los tributos ante la SUNAT, AFP, ONP, ESSALUD; m) Elaborar y proponer lineamientos técnicos, resoluciones, directivas; n) Las demás funciones que le asigne el Jefe de la División Administrativa.",
+                  "enumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "capitulo",
+              "numero": "VI",
+              "nombre": "UNIDADES ACADÉMICA DE LA ENFPP",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "52",
+                  "texto": "Estructura de las unidades académicas de Pregrado: Dirección; Área de Asuntos Académicos y de Investigación; Área de Asuntos Administrativos; Consejo Académico y Disciplinario. La Dirección de la ENFPP aprueba el Manual de Organización Interna de las unidades académicas de Pregrado.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "53",
+                  "texto": "Escuela de Posgrado: Encargada de desarrollar los programas de estudio para la formación de posgrado de los Oficiales de la PNP, así como el desarrollo de proyectos de investigación, bajo los lineamientos aprobados por la Dirección de la ENFPP.\n\nEstá a cargo de un Oficial Superior de Armas, con grado de Coronel, en situación de actividad, con grado académico de Maestro y egresado del Programa de Alto Mando en Orden Interno y Desarrollo Nacional (PAMOID), el cual es designado mediante Resolución Ministerial, conforme a la normativa vigente.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "55",
+                  "texto": "Estructura de la Escuela de Formación de Posgrado: Dirección; Área de Asuntos Académicos; Área de Investigación; Área de Asuntos Administrativos; Consejo Académico y Disciplinario. La Dirección de la ENFPP aprueba el Manual de Organización Interna de la Escuela de Posgrado.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "56",
+                  "texto": "Escuela de Formación Continua: Encargada de desarrollar los programas y cursos para la integración, capacitación, especialización y actualización continua del personal de la PNP y público en general, bajo los lineamientos aprobados por la Dirección de la ENFPP.\n\nEstá a cargo de un Oficial Superior de Armas, con grado de Coronel en situación de actividad y con grado académico de Maestro, el cual es designado mediante Resolución Ministerial, conforme a la normatividad vigente.",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "58",
+                  "texto": "Estructura orgánica de la Escuela de Formación Continua: Dirección; Área de Asuntos Académicos e Investigación; Área de Asuntos Administrativos; Consejo Académico y Disciplinario. La Dirección de la ENFPP aprueba el Manual de Organización Interna de la Escuela de Formación Continua.",
+                  "enumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "titulo",
+          "numero": "II",
+          "nombre": "DE LA ORGANIZACIÓN ACADÉMICA (continuación)",
+          "capitulos": [
+            {
+              "id": "capitulo",
+              "numero": "I",
+              "nombre": "FORMACIÓN PROFESIONAL POLICIAL DE PREGRADO",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "61",
+                  "texto": "En el marco de su autonomía académica, la ENFPP desarrolla la formación profesional policial con un currículo flexible, un plan de estudios organizado en semestres, ciclos o módulos y por créditos académicos. El crédito académico equivale a un mínimo de 16 horas lectivas de teoría o el doble de horas de práctica.\n\nLas especialidades funcionales para Oficiales y Sub Oficiales de Armas establecidas en el marco normativo vigente, son organizadas en el programa curricular correspondiente y aprobadas por la Dirección de la ENFPP.",
+                  "enumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "capitulo",
+              "numero": "VI",
+              "nombre": "GRADOS Y TÍTULOS (continuación)",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "69",
+                  "texto": "Complementación académica: proceso de nivelación con la finalidad de regularizar la situación académica del personal policial y procede en los siguientes supuestos:\n\n69.1. Para el personal policial en actividad que -por disposición de la institución- sea dado de baja en la ENFPP y de alta en la PNP antes de haber concluido el Plan de Estudios correspondiente y que realice el programa de complementación dentro de la programación establecida por la ENFPP, cuyos requisitos son: 1. Solicitud. 2. Identificarse con DNI. 3. Pago por derecho de trámite.\n\n69.2. Para el personal en actividad que concluyó un Plan de Estudios que no otorgaba grados y títulos, cuyos requisitos son: 1. Solicitud. 2. Identificarse con DNI. 3. Pago por derecho de trámite.\n\n69.3. Para el personal policial con grado académico de Bachiller o Bachiller Técnico que requiere actualizar sus conocimientos para obtener el título correspondiente, cuyos requisitos son: 1. Solicitud. 2. Contar con grado académico de Bachiller o Bachiller Técnico. 3. Identificarse con DNI. 4. Pago por derecho de trámite.\n\nEl programa de complementación académica posee un currículo, plan de estudios y modalidad normado en el Manual correspondiente aprobado por la Dirección de la ENFPP.",
+                  "enumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "titulo",
+          "numero": "III",
+          "nombre": "ADMISIÓN",
+          "capitulos": [
+            {
+              "id": "capitulo",
+              "numero": "",
+              "nombre": "",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "70-A",
+                  "texto": "Etapas del proceso de admisión a las Escuelas de Pregrado: El proceso se desarrolla por etapas con carácter eliminatorio e inimpugnable: 1) Evaluación de talla, peso y documentaria. 2) Examen de aptitud médica. 3) Exámenes físicos y psicométricos (Examen de Aptitud Física, Examen Psicométrico). 4) Examen de Aptitud Académica y Conocimientos. 5) Prueba de Control y Confianza, y Entrevista personal (Prueba de Control y Confianza a cargo de la Dirección de Inteligencia, uso de polígrafo u otras herramientas). 6) Examen Toxicológico de Drogas Ilícitas. 7) Publicación de resultados (Cuadro Final de Ingresantes aprobado mediante Resolución Directoral y publicado en la página web de la PNP).",
+                  "enumeraciones": [
+                    {
+                      "id": "enumeracion",
+                      "numero": "1",
+                      "texto": "Evaluación de talla, peso y documentaria (requisitos mínimos: ser peruano de nacimiento; edad, estado civil, no tener hijos, no registrar antecedentes; acreditar secundaria; otras condiciones según el tipo de escuela)."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "2",
+                      "texto": "Examen de aptitud médica (a cargo de una Junta de Médicos y Especialistas designados por la Dirección de Sanidad Policial)."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "3",
+                      "texto": "Exámenes físicos y psicométricos (Examen de Aptitud Física y Examen Psicométrico)."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "4",
+                      "texto": "Examen de Aptitud Académica y Conocimientos."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "5",
+                      "texto": "Prueba de Control y Confianza y Entrevista Personal."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "6",
+                      "texto": "Examen Toxicológico de Drogas Ilícitas."
+                    },
+                    {
+                      "id": "enumeracion",
+                      "numero": "7",
+                      "texto": "Publicación de resultados."
+                    }
+                  ]
+                },
+                {
+                  "id": "articulo",
+                  "numero": "72",
+                  "texto": "Admisión a la Escuela de Formación Continua: El ingreso a los programas académicos que se imparten en la Escuela de Formación Continua de la ENFPP se realiza bajo la normativa aprobada por la Dirección de la ENFPP.",
+                  "enumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "titulo",
+          "numero": "IV",
+          "nombre": "DEL PERSONAL DOCENTE",
+          "capitulos": [
+            {
+              "id": "capitulo",
+              "numero": "",
+              "nombre": "",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "79",
+                  "texto": "Sanciones aplicables al personal docente: Los procedimientos dirigidos a la aplicación de sanciones son normados por el Manual de Personal Docente. Son sanciones aplicables, previo proceso disciplinario, al personal docente y de acuerdo a la naturaleza y gravedad de la falta, las siguientes: amonestación y separación.",
+                  "enumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "titulo",
+          "numero": "VI",
+          "nombre": "RÉGIMEN SANCIONADOR",
+          "capitulos": [
+            {
+              "id": "capitulo",
+              "numero": "",
+              "nombre": "",
+              "articulos": [
+                {
+                  "id": "articulo",
+                  "numero": "91",
+                  "texto": "Procedimiento sancionador para infracciones graves: Para las infracciones graves se seguirá el siguiente procedimiento en cada Escuela de Pregrado: 91.1 El superior jerárquico que constate la comisión de una infracción grave debe dar cuenta por escrito al área de disciplina; 91.2 El procedimiento se desarrolla en etapas: 1) Etapa de Investigación (a cargo del área de disciplina; comprende inspecciones, dictámenes, peritajes, informes, requerimiento de medios probatorios; se inicia con la notificación y se otorgan hasta tres (3) días hábiles para la manifestación y descargos; la etapa de investigación comprenderá hasta quince (15) días hábiles, ampliable por cinco (05) días hábiles). 2) Decisión (a cargo del Consejo Académico y Disciplinario; debe emitir resolución dentro de quince (15) días hábiles; la resolución podrá ser apelada en un plazo de cinco (5) días hábiles ante el Consejo Superior Académico y Disciplinario de la ENFPP, que deberá resolver en un plazo no mayor a treinta (30) días hábiles).",
+                  "enumeraciones": []
+                },
+                {
+                  "id": "articulo",
+                  "numero": "93",
+                  "texto": "Obligación económica: Los ingresantes a las Escuelas de Pregrado de la ENFPP para iniciar la etapa de integración institucional, y por única vez, deberán realizar el pago de la obligación económica que comprende vestuario, equipos y materiales necesarios para el proceso de formación profesional policial, para asegurar que los estudiantes terminen el plan de estudios en las escuelas respectivas de la Policía Nacional del Perú.\n\nLos ingresantes provenientes de los Pueblos Indígenas u Originarios conforme lo establecido en el artículo 70, podrán ser exonerados de la obligación económica; dicho concepto económico será asumido por el Ministerio del Interior de acuerdo a su disponibilidad presupuestal.\n\nLa determinación del monto de dicha obligación económica será establecido mediante Resolución Directoral de la ENFPP para cada año académico, debiendo emplear la metodología para la determinación de costos señalada en el Decreto Supremo Nº 064-2010-PCM, o a la norma que la modifique.\n\nEn caso de que el estudiante sea expulsado por medida disciplinaria o separado por insuficiencia académica o a su solicitud, la ENFPP hará efectivo el cobro de la obligación económica de manera proporcional al tiempo de permanencia y los recursos empleados en el proceso de formación profesional policial.",
+                  "enumeraciones": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

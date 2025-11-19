@@ -4,6 +4,7 @@ import { AuthProvider } from './contexts/AuthContext';
 import PrivateRoute from './components/PrivateRoute';
 import Layout from './components/Layout';
 import Preloader from './components/Preloader';
+import UserManagement from './pages/admin/UserManagement';
 
 // Páginas de autenticación
 import Login from './pages/auth/Login';
@@ -11,60 +12,70 @@ import Register from './pages/auth/Register';
 
 // Páginas principales
 import Main from './pages/main/Main';
+import MainTemario from './pages/temario/MainTemario';
+import MainBallot from './pages/balotario/MainBallot';
+import MainExamTemas from './pages/examenes/MainExamTemas';
+import MainSiecopol from './pages/siecopol/MainSiecopol';
+import SiecopolExam from './pages/siecopol/SiecopolExam';
+import MainAudio from './pages/audio/MainAudio';
+
+// Páginas de detalle y exámenes
+import TopicDetail from './pages/balotario/TopicDetail';
+import ExamPage from './pages/examenes/ExamPage';
+import AudioPage from './pages/audio/AudioPage';
+
+// Páginas de resultados
+import ResultPage from './pages/results/ResultPage';
+import CorrectErrors from './pages/results/CorrectErrors';
 
 function App() {
   const [isLoading, setIsLoading] = useState(true);
-  const [resourcesLoaded, setResourcesLoaded] = useState(false);
 
   const handleLoadingComplete = () => {
     setIsLoading(false);
   };
 
-  // Precargar recursos importantes
   useEffect(() => {
-    let loadedImages = 0;
-    const totalImages = 6; // Número de imágenes a precargar
-
-    const imagesToPreload = [
+    // Precargar imágenes importantes
+    const images = [
       '/images/logo.jpg',
       '/images/fondoSolo.png',
       '/images/img-balotario.png',
       '/images/logo_transparente.png',
       '/images/img-siecopol.png',
-      '/images/img_audio.png'
+      '/images/img_audio.png',
+      '/images/img_temario.png'
     ];
 
+    let loadedCount = 0;
+    const totalImages = images.length;
+
     const onImageLoad = () => {
-      loadedImages++;
-      // Si todas las imágenes están cargadas, marcar como listo
-      if (loadedImages === totalImages) {
-        setResourcesLoaded(true);
+      loadedCount++;
+      // Si todas las imágenes están cargadas o ha pasado suficiente tiempo, continuar
+      if (loadedCount === totalImages) {
+        console.log('✅ Todas las imágenes precargadas');
       }
     };
 
-    imagesToPreload.forEach(src => {
+    images.forEach(src => {
       const img = new Image();
       img.src = src;
       img.onload = onImageLoad;
-      img.onerror = onImageLoad; // También contar errores como "cargados"
+      img.onerror = onImageLoad;
     });
 
-    // Timeout de seguridad por si alguna imagen no carga
-    const safetyTimeout = setTimeout(() => {
-      setResourcesLoaded(true);
-    }, 5000); // 5 segundos máximo
+    // Timeout de seguridad
+    const timer = setTimeout(() => {
+      console.log('🔄 Timeout de precarga alcanzado');
+      handleLoadingComplete();
+    }, 3000);
 
-    return () => clearTimeout(safetyTimeout);
+    return () => clearTimeout(timer);
   }, []);
 
-  // Mostrar preloader mientras carga la aplicación
   if (isLoading) {
-    return (
-      <Preloader 
-        onLoadingComplete={handleLoadingComplete}
-        duration={resourcesLoaded ? 1000 : 3000} // Más rápido si los recursos ya cargaron
-      />
-    );
+    return <Preloader onLoadingComplete={handleLoadingComplete} />;
   }
 
   return (
@@ -80,11 +91,31 @@ function App() {
             {/* Rutas protegidas */}
             <Route element={<PrivateRoute />}>
               <Route element={<Layout />}>
+              
+                {/* Páginas principales */}
                 <Route path="/main" element={<Main />} />
-                <Route path="/balotario" element={<div>Balotario - Próximamente</div>} />
-                <Route path="/examen-temas" element={<div>Exámenes por Temas - Próximamente</div>} />
-                <Route path="/siecopol" element={<div>SIECOPOL - Próximamente</div>} />
-                <Route path="/audio" element={<div>Audio - Próximamente</div>} />
+                <Route path="/temario" element={<MainTemario />} />
+                
+                {/* Balotario */}
+                <Route path="/balotario" element={<MainBallot />} />
+                <Route path="/balotario/:topicId" element={<TopicDetail />} />
+                
+                {/* Exámenes por temas */}
+                <Route path="/examen-temas" element={<MainExamTemas />} />
+                <Route path="/examen-temas/:topicId" element={<ExamPage />} />
+                
+                {/* SIECOPOL */}
+                <Route path="/siecopol" element={<MainSiecopol />} />
+                <Route path="/siecopol/examen" element={<SiecopolExam />} />
+                
+                {/* Audio */}
+                <Route path="/audio" element={<MainAudio />} />
+                <Route path="/audio/:topicId" element={<AudioPage />} />
+                
+                {/* Resultados */}
+                <Route path="/resultado" element={<ResultPage />} />
+                <Route path="/corregir-errores" element={<CorrectErrors />} />
+                <Route path="/admin/users" element={<UserManagement />} />
               </Route>
             </Route>
 

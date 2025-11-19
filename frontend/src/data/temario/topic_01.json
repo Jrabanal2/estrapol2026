@@ -1,0 +1,789 @@
+{
+  "nombre_tema": "CONSTITUCIÓN POLÍTICA DEL PERÚ",
+  "texto": "El Congreso Constituyente Democrático, invocando a Dios Todopoderoso, obedeciendo el mandato del pueblo peruano y recordando el sacrificio de todas las generaciones que nos han precedido en nuestra Patria, ha resuelto dar la siguiente Constitución:",
+  "titulos": [
+    {
+      "id": "titulo",
+      "numero": "I",
+      "nombre": "DE LA PERSONA Y DE LA SOCIEDAD",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "I",
+          "nombre": "DERECHOS FUNDAMENTALES DE LA PERSONA",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "1",
+              "texto": "Defensa de la persona humana. La defensa de la persona humana y el respeto de su dignidad son el fin supremo de la sociedad y del Estado.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "2",
+              "texto": "Derechos fundamentales de la persona. Toda persona tiene derecho:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "A la vida, a su identidad, a su integridad moral, psíquica y física y a su libre desarrollo y bienestar. El concebido es sujeto de derecho en todo cuanto le favorece.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "A la igualdad ante la ley. Nadie debe ser discriminado por motivo de origen, raza, sexo, idioma, religión, opinión, condición económica o de cualquiera otra índole.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "A la libertad de conciencia y de religión, en forma individual o asociada. No hay persecución por razón de ideas o creencias. No hay delito de opinión. El ejercicio público de todas las confesiones es libre, siempre que no ofenda la moral ni altere el orden público.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "A las libertades de información, opinión, expresión y difusión del pensamiento mediante la palabra oral o escrita o la imagen, por cualquier medio de comunicación social, sin previa autorización ni censura ni impedimento algunos, bajo las responsabilidades de ley. El Estado promueve el uso de las tecnologías de la información y la comunicación en todo el país. Los delitos cometidos por medio del libro, la prensa y demás medios de comunicación social se tipifican en el Código Penal y se juzgan en el fuero común. Es delito toda acción que suspende o clausura algún órgano de expresión o le impide circular libremente. Los derechos de informar y opinar comprenden los de fundar medios de comunicación.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "A solicitar sin expresión de causa la información que requiera y a recibirla de cualquier entidad pública, en el plazo legal, con el costo que suponga el pedido. Se exceptúan las informaciones que afectan la intimidad personal y las que expresamente se excluyan por ley o por razones de seguridad nacional. Toda persona tiene derecho al secreto bancario y la reserva tributaria. Su levantamiento puede efectuarse a pedido:",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "letra": "a",
+                      "texto": "Del juez."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "letra": "b",
+                      "texto": "Del Fiscal de la Nación."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "letra": "c",
+                      "texto": "De una comisión investigadora de la Cámara de Diputados con arreglo a ley y siempre que se refieran al caso investigado."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "letra": "d",
+                      "texto": "Del Contralor General de la República respecto de funcionarios y servidores públicos que administren o manejen fondos del Estado o de organismos sostenidos por este, en los tres niveles de gobierno, en el marco de una acción de control."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "letra": "e",
+                      "texto": "Del Superintendente de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones para los fines específicos de la inteligencia financiera."
+                    }
+                  ]
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "A que los servicios informáticos, computarizados o no, públicos o privados, no suministren informaciones que afecten la intimidad personal y familiar.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "7",
+                  "texto": "Al honor y a la buena reputación, a la intimidad personal y familiar, así como a la voz y a la imagen propias. Toda persona afectada por afirmaciones inexactas o agraviada en cualquier medio de comunicación social tiene derecho a que éste se rectifique en forma gratuita, inmediata y proporcional, sin perjuicio de las responsabilidades de ley.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "8",
+                  "texto": "A la libertad de creación intelectual, artística, técnica y científica, así como a la propiedad sobre dichas creaciones y a su producto. El Estado propicia el acceso a la cultura y fomenta su desarrollo y difusión.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "9",
+                  "texto": "A la inviolabilidad del domicilio. Nadie puede ingresar en él ni efectuar investigaciones o registros sin autorización de la persona que lo habita o sin mandato judicial, salvo flagrante delito o muy grave peligro de su perpetración. Las excepciones por motivos de sanidad o de grave riesgo son reguladas por la ley.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "10",
+                  "texto": "Al secreto y a la inviolabilidad de sus comunicaciones y documentos privados. Las comunicaciones, telecomunicaciones o sus instrumentos sólo pueden ser abiertos, incautados, interceptados o intervenidos por mandamiento motivado del juez, con las garantías previstas en la ley. Se guarda secreto de los asuntos ajenos al hecho que motiva su examen. Los documentos privados obtenidos con violación de este precepto no tienen efecto legal. Los libros, comprobantes y documentos contables y administrativos están sujetos a inspección o fiscalización de la autoridad competente, de conformidad con la ley. Las acciones que al respecto se tomen no pueden incluir su sustracción o incautación, salvo por orden judicial.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "11",
+                  "texto": "A elegir su lugar de residencia, a transitar por el territorio nacional y a salir de él y entrar en él, salvo limitaciones por razones de sanidad o por mandato judicial o por aplicación de la ley de extranjería.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "12",
+                  "texto": "A reunirse pacíficamente sin armas. Las reuniones en locales privados o abiertos al público no requieren aviso previo. Las que se convocan en plazas y vías públicas exigen anuncio anticipado a la autoridad, la que puede prohibirlas solamente por motivos probados de seguridad o de sanidad públicas.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "13",
+                  "texto": "A asociarse y a constituir fundaciones y diversas formas de organización jurídica sin fines de lucro, sin autorización previa y con arreglo a ley. No pueden ser disueltas por resolución administrativa.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "14",
+                  "texto": "A contratar con fines lícitos, siempre que no se contravengan leyes de orden público.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "15",
+                  "texto": "A trabajar libremente, con sujeción a ley.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "16",
+                  "texto": "A la propiedad y a la herencia.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "17",
+                  "texto": "A participar, en forma individual o asociada, en la vida política, económica, social y cultural de la Nación. Los ciudadanos tienen, conforme a ley, los derechos de elección, de remoción o revocación de autoridades, de iniciativa legislativa y de referéndum.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "18",
+                  "texto": "A mantener reserva sobre sus convicciones políticas, filosóficas, religiosas o de cualquiera otra índole, así como a guardar el secreto profesional.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "19",
+                  "texto": "A su identidad étnica y cultural. El Estado reconoce y protege la pluralidad étnica y cultural de la Nación. Todo peruano tiene derecho a usar su propio idioma ante cualquier autoridad mediante un intérprete. Los extranjeros tienen este mismo derecho cuando son citados por cualquier autoridad.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "20",
+                  "texto": "A formular peticiones, individual o colectivamente, por escrito ante la autoridad competente, la que está obligada a dar al interesado una respuesta también por escrito dentro del plazo legal, bajo responsabilidad. Los miembros de las Fuerzas Armadas y de la Policía Nacional sólo pueden ejercer individualmente el derecho de petición.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "21",
+                  "texto": "A su nacionalidad. Nadie puede ser despojado de ella. Tampoco puede ser privado del derecho de obtener o de renovar su pasaporte dentro o fuera del territorio de la República.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "22",
+                  "texto": "A la paz, a la tranquilidad, al disfrute del tiempo libre y al descanso, así como a gozar de un ambiente equilibrado y adecuado al desarrollo de su vida.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "23",
+                  "texto": "A la legítima defensa.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "24",
+                  "texto": "A la libertad y a la seguridad personales. En consecuencia:",
+                  "subenumeraciones": [
+                    {
+                      "id": "subenumeracion",
+                      "letra": "a",
+                      "texto": "Nadie está obligado a hacer lo que la ley no manda, ni impedido de hacer lo que ella no prohíbe."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "letra": "b",
+                      "texto": "No se permite forma alguna de restricción de la libertad personal, salvo en los casos previstos por la ley. Están prohibidas la esclavitud, la servidumbre y la trata de seres humanos en cualquiera de sus formas."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "letra": "c",
+                      "texto": "No hay prisión por deudas. Este principio no limita el mandato judicial por incumplimiento de deberes alimentarios."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "letra": "d",
+                      "texto": "Nadie será procesado ni condenado por acto u omisión que al tiempo de cometerse no esté previamente calificado en la ley, de manera expresa e inequívoca, como infracción punible; ni sancionado con pena no prevista en la ley."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "letra": "e",
+                      "texto": "Toda persona es considerada inocente mientras no se haya declarado judicialmente su responsabilidad."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "letra": "f",
+                      "texto": "Nadie puede ser detenido sino por mandamiento escrito y motivado del juez o por las autoridades policiales en caso de flagrante delito. La detención no durará más del tiempo estrictamente necesario para la realización de las investigaciones y, en todo caso, el detenido debe ser puesto a disposición del juzgado correspondiente, dentro del plazo máximo de cuarenta y ocho horas o en el término de la distancia. Estos plazos no se aplican a los casos de terrorismo, espionaje, tráfico ilícito de drogas y a los delitos cometidos por organizaciones criminales. En tales casos, las autoridades policiales pueden efectuar la detención preventiva de los presuntos implicados por un término no mayor de quince días naturales. Deben dar cuenta al Ministerio Público y al juez, quien puede asumir jurisdicción antes de vencido dicho término."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "letra": "g",
+                      "texto": "Nadie puede ser incomunicado sino en caso indispensable para el esclarecimiento de un delito, y en la forma y por el tiempo previstos por la ley. La autoridad está obligada bajo responsabilidad a señalar, sin dilación y por escrito, el lugar donde se halla la persona detenida."
+                    },
+                    {
+                      "id": "subenumeracion",
+                      "letra": "h",
+                      "texto": "Nadie debe ser víctima de violencia moral, psíquica o física, ni sometido a tortura o a tratos inhumanos o humillantes. Cualquiera puede pedir de inmediato el examen médico de la persona agraviada o de aquélla imposibilitada de recurrir por sí misma a la autoridad. Carecen de valor las declaraciones obtenidas por la violencia. Quien la emplea incurre en responsabilidad."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "II",
+          "nombre": "DE LOS DERECHOS SOCIALES Y ECONÓMICOS",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "4",
+              "texto": "Protección a la familia. Promoción del matrimonio. La comunidad y el Estado protegen especialmente al niño, al adolescente, a la madre y al anciano en situación de abandono. También protegen a la familia y promueven el matrimonio. Reconocen a estos últimos como institutos naturales y fundamentales de la sociedad. La forma del matrimonio y las causas de separación y de disolución son reguladas por la ley.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "5",
+              "texto": "Concubinato. La unión estable de un varón y una mujer, libres de impedimento matrimonial, que forman un hogar de hecho, da lugar a una comunidad de bienes sujeta al régimen de la sociedad de gananciales en cuanto sea aplicable.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "6",
+              "texto": "Política Nacional de población. Paternidad y maternidad responsables. Igualdad de los hijos. La política nacional de población tiene como objetivo difundir y promover la paternidad y maternidad responsables. Reconoce el derecho de las familias y de las personas a decidir. En tal sentido, el Estado asegura los programas de educación y la información adecuados y el acceso a los medios, que no afecten la vida o la salud. Es deber y derecho de los padres alimentar, educar y dar seguridad a sus hijos. Los hijos tienen el deber de respetar y asistir a sus padres. Todos los hijos tienen iguales derechos y deberes. Está prohibida toda mención sobre el estado civil de los padres y sobre la naturaleza de la filiación en los registros civiles y en cualquier otro documento de identidad.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "7",
+              "texto": "Derecho a la salud. Protección al discapacitado. Todos tienen derecho a la protección de su salud, la del medio familiar y la de la comunidad, así como el deber de contribuir a su promoción y defensa. La persona con discapacidad tiene derecho al respeto de su dignidad y a un régimen legal de protección, atención, readaptación y seguridad.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "7-A",
+              "texto": "El Estado reconoce el derecho de toda persona a acceder de forma progresiva y universal al agua potable. El Estado garantiza este derecho priorizando el consumo humano sobre otros usos. El Estado promueve el manejo sostenible del agua, el cual se reconoce como un recurso natural esencial y como tal, constituye un bien público y patrimonio de la Nación. Su dominio es inalienable e imprescriptible.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "9",
+              "texto": "Política Nacional de Salud. El Estado determina la política nacional de salud. El Poder Ejecutivo normas y supervisa su aplicación. Es responsable de diseñarla y conducirla en forma plural y descentralizadora para facilitar a todos el acceso equitativo a los servicios de salud.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "10",
+              "texto": "Derecho a la Seguridad Social. El Estado reconoce el derecho universal y progresivo de toda persona a la seguridad social, para su protección frente a las contingencias que precise la ley y para la elevación de su calidad de vida.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "12",
+              "texto": "Fondos de la Seguridad Social. Los fondos y las reservas de la seguridad social son intangibles. Los recursos se aplican en la forma y bajo la responsabilidad que señala la ley.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "14",
+              "texto": "Educación para la vida y el trabajo. Los medios de comunicación social. La educación promueve el conocimiento, el aprendizaje y la práctica de las humanidades, la ciencia, la técnica, las artes, la educación física y el deporte. Prepara para la vida y el trabajo y fomenta la solidaridad. Es deber del Estado promover el desarrollo científico y tecnológico del país. La formación ética y cívica y la enseñanza de la Constitución y de los derechos humanos son obligatorias en todo el proceso educativo civil o militar. La educación religiosa se imparte con respeto a la libertad de las conciencias. La enseñanza se imparte, en todos sus niveles, con sujeción a los principios constitucionales y a los fines de la correspondiente institución educativa. Los medios de comunicación social deben colaborar con el Estado en la educación y en la formación moral y cultural.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "14-A",
+              "texto": "El Estado garantiza, a través de la inversión pública o privada, el acceso a internet libre en todo el territorio nacional, con especial énfasis en las zonas rurales, comunidades campesinas y nativas.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "15",
+              "texto": "Profesorado, carrera pública. El profesorado en la enseñanza oficial es carrera pública. La ley establece los requisitos para desempeñarse como director o profesor de un centro educativo, así como sus derechos y obligaciones. El Estado y la sociedad procuran su evaluación, capacitación, profesionalización y promoción permanentes. El educando tiene derecho a una formación que respete su identidad, así como al buen trato psicológico y físico. Toda persona, natural o jurídica, tiene el derecho de promover y conducir instituciones educativas y el de transferir la propiedad de éstas, conforme a ley.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "16",
+              "texto": "Descentralización del sistema educativo. Tanto el sistema como el régimen educativo son descentralizados. El Estado coordina la política educativa. Formula los lineamientos generales de los planes de estudios, así como los requisitos mínimos de la organización de los centros educativos. Supervisa su cumplimiento y la calidad de la educación. Es deber del Estado asegurar que nadie se vea impedido de recibir educación adecuada por razón de su situación económica o de limitaciones mentales o físicas. La educación es un derecho humano fundamental que garantiza el desarrollo de la persona y la sociedad, por lo que el Estado invierte anualmente no menos del 6 % del PBI.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "17",
+              "texto": "Obligatoriedad de la educación inicial, primaria y secundaria. La educación inicial, primaria y secundaria son obligatorias. En las instituciones del Estado, la educación es gratuita. En las universidades públicas el Estado garantiza el derecho a educarse gratuitamente a los alumnos que mantengan un rendimiento satisfactorio y no cuenten con los recursos económicos necesarios para cubrir los costos de educación. Con el fin de garantizar la mayor pluralidad de la oferta educativa, y en favor de quienes no puedan sufragar su educación, la ley fija el modo de subvencionar la educación privada en cualquiera de sus modalidades, incluyendo la comunal y la cooperativa. El Estado promueve la creación de centros de educación donde la población los requiera. El Estado garantiza la erradicación del analfabetismo. Asimismo, fomenta la educación bilingüe e intercultural, según las características de cada zona. Preserva las diversas manifestaciones culturales y lingüísticas del país. Promueve la integración nacional.",
+              "enumeraciones": []
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "III",
+          "nombre": "DE LOS DERECHOS POLÍTICOS Y DE LOS DEBERES",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "30",
+              "texto": "Requisitos para la ciudadanía. Son ciudadanos los peruanos mayores de dieciocho años. Para el ejercicio de la ciudadanía se requiere la inscripción electoral.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "31",
+              "texto": "Participación ciudadana en asuntos públicos. Los ciudadanos tienen derecho a participar en los asuntos públicos mediante referéndum; iniciativa legislativa; remoción o revocación de autoridades y demanda de rendición de cuentas. Tienen también el derecho de ser elegidos y de elegir libremente a sus representantes, de acuerdo con las condiciones y procedimientos determinados por ley orgánica. Derecho y deber de los vecinos participar en el gobierno municipal de su jurisdicción. La ley norma y promueve los mecanismos directos e indirectos de su participación. Tienen derecho al voto los ciudadanos en goce de su capacidad civil. Para el ejercicio de este derecho se requiere estar inscrito en el registro correspondiente. El voto es personal, igual, libre, secreto y obligatorio hasta los setenta años. Es facultativo después de esa edad. La ley establece los mecanismos para garantizar la neutralidad estatal durante los procesos electorales y de participación ciudadana. Es nulo y punible todo acto que prohíba o limite al ciudadano el ejercicio de sus derechos.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "32",
+              "texto": "Consulta popular por referéndum. Excepciones. Pueden ser sometidas a referéndum:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "La reforma total o parcial de la Constitución;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "La aprobación de normas con rango de ley;",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Las ordenanzas municipales; y",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "Las materias relativas al proceso de descentralización.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "33",
+              "texto": "Suspensión del ejercicio de la ciudadanía. El ejercicio de la ciudadanía se suspende:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Por resolución judicial de interdicción.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Por sentencia con pena privativa de la libertad.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "Por sentencia con inhabilitación de los derechos políticos.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "34",
+              "texto": "Fuerzas Armadas y Fuerzas Policiales. Los miembros de las Fuerzas Armadas y de la Policía Nacional tienen derecho al voto y a la participación ciudadana, regulados por ley. No pueden postular a cargos de elección popular, participar en actividades partidarias o manifestaciones ni realizar actos de proselitismo, mientras no hayan pasado a la situación de retiro, de acuerdo a ley.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "35",
+              "texto": "Organizaciones Políticas. Los ciudadanos pueden ejercer sus derechos individualmente o a través de organizaciones políticas como partidos, movimientos o alianzas, conforme a ley. Tales organizaciones concurren a la formación y manifestación de la voluntad popular. Su inscripción en el registro correspondiente les concede personalidad jurídica. Mediante ley se establecen disposiciones orientadas a asegurar el funcionamiento democrático de las organizaciones políticas y la transparencia sobre el origen de sus recursos económicos, así como su verificación, fiscalización, control y sanción. El financiamiento de las organizaciones políticas puede ser público y privado. Se rige por ley conforme a criterios de transparencia y rendición de cuentas. El financiamiento público promueve la participación y fortalecimiento de las organizaciones políticas bajo criterios de igualdad y proporcionalidad. El financiamiento privado se realiza a través del sistema financiero con las excepciones, topes y restricciones correspondientes. El financiamiento ilegal genera la sanción administrativa, civil y penal respectiva. Solo se autoriza la difusión de propaganda electoral en medios de comunicación radiales y televisivos mediante financiamiento público indirecto.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "36",
+              "texto": "Asilo político. El Estado reconoce el asilo político. Acepta la calificación del asilado que otorga el gobierno asilante. En caso de expulsión, no se entrega al asilado al país cuyo gobierno lo persigue.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "37",
+              "texto": "Extradición. La extradición sólo se concede por el Poder Ejecutivo previo informe de la Corte Suprema, en cumplimiento de la ley y de los tratados, y según el principio de reciprocidad. No se concede extradición si se considera que ha sido solicitada con el fin de perseguir o castigar por motivo de religión, nacionalidad, opinión o raza. Quedan excluidos de la extradición los perseguidos por delitos políticos o por hechos conexos con ellos. No se consideran tales el genocidio ni el magnicidio ni el terrorismo.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "38",
+              "texto": "Deberes para con la patria. Todos los peruanos tienen el deber de honrar al Perú y de proteger los intereses nacionales, así como de respetar, cumplir y defender la Constitución y el ordenamiento jurídico de la Nación.",
+              "enumeraciones": []
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "IV",
+          "nombre": "DE LA FUNCIÓN PUBLICA",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "39",
+              "texto": "Funcionarios y trabajadores públicos. Todos los funcionarios y trabajadores públicos están al servicio de la Nación. El Presidente de la República tiene la más alta jerarquía en el servicio a la Nación y, en ese orden, los representantes al Congreso, ministros de Estado, miembros del Tribunal Constitucional y del Consejo de la Magistratura, los magistrados supremos, el Fiscal de la Nación y el Defensor del Pueblo, en igual categoría; y los representantes de organismos descentralizados y alcaldes, de acuerdo a ley.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "39-A",
+              "texto": "Están impedidas de ejercer la función pública, mediante designación en cargos de confianza, las personas sobre quienes recaiga una sentencia condenatoria emitida en primera instancia, en calidad de autoras o cómplices, por la comisión de delito doloso.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "40",
+              "texto": "Carrera Administrativa. La ley regula el ingreso a la carrera administrativa, y los derechos, deberes y responsabilidades de los servidores públicos. No están comprendidos en dicha carrera los funcionarios que desempeñan cargos políticos o de confianza. Ningún funcionario o servidor público puede desempeñar más de un empleo o cargo público remunerado, con excepción de uno más por función docente o en servicios de salud como personal médico y profesionales de la salud con especialidad, conforme a ley. No están comprendidos en la función pública los trabajadores de las empresas del Estado o de sociedades de economía mixta. Es obligatoria la publicación periódica en el diario oficial de los ingresos que, por todo concepto, perciben los altos funcionarios, y otros servidores públicos que señala la ley, en razón de sus cargos.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "41",
+              "texto": "Declaración Jurada de bienes y rentas. Los funcionarios y servidores públicos que señala la ley o que administran o manejan fondos del Estado o de organismos sostenidos por éste deben hacer declaración jurada de bienes y rentas al tomar posesión de sus cargos, durante su ejercicio y al cesar en los mismos. La respectiva publicación se realiza en el diario oficial en la forma y condiciones que señala la ley. Cuando se presume enriquecimiento ilícito, el Fiscal de la Nación, por denuncia de terceros o de oficio, formula cargos ante el Poder Judicial. La ley establece la responsabilidad de los funcionarios y servidores públicos, así como el plazo de su inhabilitación para la función pública. El plazo de prescripción de la acción penal se duplica en caso de los delitos cometidos contra la Administración Pública o el patrimonio del Estado, tanto para los funcionarios o servidores públicos como para los particulares. La acción penal es imprescriptible en los supuestos más graves, conforme al principio de legalidad.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "42",
+              "texto": "Derechos de sindicación y huelga de los servidores públicos. Se reconocen los derechos de sindicación y huelga de los servidores públicos. No están comprendidos los funcionarios del Estado con poder de decisión y los que desempeñan cargos de confianza o de dirección, así como los miembros de las Fuerzas Armadas y de la Policía Nacional.",
+              "enumeraciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "numero": "II",
+      "nombre": "DEL ESTADO Y LA NACIÓN",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "I",
+          "nombre": "DEL ESTADO, LA NACIÓN Y EL TERRITORIO",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "43",
+              "texto": "Estado democrático de derecho. Forma de Gobierno. La República del Perú es democrática, social, independiente y soberana. El Estado es uno e indivisible. Su gobierno es unitario, representativo y descentralizado, y se organiza según el principio de la separación de poderes.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "44",
+              "texto": "Deberes del Estado. Son deberes primordiales del Estado: defender la soberanía nacional; garantizar la plena vigencia de los derechos humanos; proteger a la población de las amenazas contra su seguridad; y promover el bienestar general que se fundamenta en la justicia y en el desarrollo integral y equilibrado de la Nación. Asimismo, es deber del Estado establecer y ejecutar la política de fronteras y promover la integración, particularmente latinoamericana, así como el desarrollo y la cohesión de las zonas fronterizas, en concordancia con la política exterior.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "45",
+              "texto": "Ejercicio del poder del Estado. El poder del Estado emana del pueblo. Quienes lo ejercen lo hacen con las limitaciones y responsabilidades que la Constitución y las leyes establecen. Ninguna persona, organización, Fuerza Armada, Policía Nacional o sector de la población puede arrogarse el ejercicio de ese poder. Hacerlo constituye rebelión o sedición.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "46",
+              "texto": "Gobierno usurpador. Derecho de insurgencia. Nadie debe obediencia a un gobierno usurpador, ni a quienes asumen funciones públicas en violación de la Constitución y de las leyes. La población civil tiene el derecho de insurgencia en defensa del orden constitucional. Son nulos los actos de quienes usurpan funciones públicas.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "47",
+              "texto": "Defensa Judicial del Estado. La defensa de los intereses del Estado está a cargo de los Procuradores Públicos conforme a ley. El Estado está exonerado del pago de gastos judiciales.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "49",
+              "texto": "Capital de la República del Perú y símbolos de la Patria. La capital de la República del Perú es la ciudad de Lima. Su capital histórica es la ciudad del Cusco. Son símbolos de la Patria la bandera de tres franjas verticales con los colores rojo, blanco y rojo, y el escudo y el himno nacional establecidos por ley.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "51",
+              "texto": "Supremacía de la Constitución. La Constitución prevalece sobre toda norma legal; la ley, sobre las normas de inferior jerarquía, y así sucesivamente. La publicidad es esencial para la vigencia de toda norma del Estado.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "52",
+              "texto": "Nacionalidad. Son peruanos por nacimiento los nacidos en el territorio de la República. También lo son los nacidos en el exterior de padre o madre peruanos, inscritos en el registro correspondiente, conforme a ley. Son asimismo peruanos los que adquieren la nacionalidad por naturalización o por opción, siempre que tengan residencia en el Perú.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "53",
+              "texto": "Adquisición y renuncia de la nacionalidad. La ley regula las formas en que se adquiere o recupera la nacionalidad. La nacionalidad peruana no se pierde, salvo por renuncia expresa ante autoridad peruana.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "54",
+              "texto": "Territorio, soberanía y jurisdicción. El territorio del Estado es inalienable e inviolable. Comprende el suelo, el subsuelo, el dominio marítimo, y el espacio aéreo que los cubre. El dominio marítimo del Estado comprende el mar adyacente a sus costas, así como su lecho y subsuelo, hasta la distancia de doscientas millas marinas medidas desde las líneas de base que establece la ley. En su dominio marítimo, el Estado ejerce soberanía y jurisdicción, sin perjuicio de las libertades de comunicación internacional, de acuerdo con la ley y con los tratados ratificados por el Estado. El Estado ejerce soberanía y jurisdicción sobre el espacio aéreo que cubre su territorio y el mar adyacente hasta el límite de las doscientas millas, sin perjuicio de las libertades de comunicación internacional, de conformidad con la ley y con los tratados ratificados por el Estado.",
+              "enumeraciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "numero": "III",
+      "nombre": "DEL RÉGIMEN ECONÓMICO",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "V",
+          "nombre": "DE LA MONEDA Y LA BANCA",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "86",
+              "texto": "Directorio del Banco Central de Reserva. El Banco Central de Reserva es gobernado por un Directorio de siete miembros. El Poder Ejecutivo designa a cuatro, entre ellos al presidente. El Senado ratifica a éste y elige a los tres restantes con la mayoría absoluta del número legal de sus miembros. Todos los directores del Banco Central de Reserva son nombrados por el período constitucional que corresponde al presidente de la República. No representan a entidad ni interés particular algunos. El Senado puede removerlos por falta grave con igual votación. En caso de remoción, los nuevos directores completan el correspondiente período constitucional.",
+              "enumeraciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "numero": "IV",
+      "nombre": "DE LA ESTRUCTURA DEL ESTADO",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "VII",
+          "nombre": "RÉGIMEN DE EXCEPCIÓN",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "137",
+              "texto": "Estados de excepción. Estado de Emergencia y Estado de Sitio. El presidente de la República, con acuerdo del Consejo de Ministros, puede decretar, por plazo determinado, en todo el territorio nacional, o en parte de él, y dando cuenta al Senado o a la Comisión Permanente para su control. Los estados de excepción que en este artículo se contemplan, son:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "Estado de emergencia, en caso de perturbación de la paz o del orden interno, de catástrofe o de graves circunstancias que afecten la vida de la Nación. En esta eventualidad, puede restringirse o suspenderse el ejercicio de los derechos constitucionales relativos a la libertad y la seguridad personales, la inviolabilidad del domicilio, y la libertad de reunión y de tránsito en el territorio comprendidos en los incisos 9, 11 y 12 del artículo 2 y en el inciso 24, apartado f del mismo artículo. En ninguna circunstancia se puede desterrar a nadie. El plazo del estado de emergencia no excede de sesenta días. Su prórroga requiere aprobación del Senado. En estado de emergencia las Fuerzas Armadas asumen el control del orden interno si así lo dispone el presidente de la República.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "Estado de sitio, en caso de invasión, guerra exterior, guerra civil, o peligro inminente de que se produzcan, con mención de los derechos fundamentales cuyo ejercicio no se restringe o suspende. El plazo correspondiente no excede de cuarenta y cinco días. Al decretarse el estado de sitio, ambas cámaras se reúnen de pleno derecho; el estado de sitio decretado no afecta el funcionamiento del Congreso. La prórroga requiere aprobación del Senado.",
+                  "subenumeraciones": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "capitulo",
+          "numero": "XII",
+          "nombre": "DE LA SEGURIDAD Y DE LA DEFENSA NACIONAL",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "163",
+              "texto": "El Sistema de Defensa Nacional. El Estado garantiza la seguridad de la Nación mediante el Sistema de Defensa Nacional. La Defensa Nacional es integral y permanente. Se desarrolla en los ámbitos interno y externo. Toda persona, natural o jurídica, está obligada a participar en la Defensa Nacional, de conformidad con la ley.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "164",
+              "texto": "Dirección, preparación y ejercicio del Sistema de Defensa Nacional. La dirección, la preparación y el ejercicio de la Defensa Nacional se realizan a través de un sistema cuya organización y cuyas funciones determinina la ley. El Presidente de la República dirige el Sistema de Defensa Nacional. La ley determina los alcances y procedimientos de la movilización para los efectos de la defensa nacional.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "165",
+              "texto": "Finalidad de las Fuerzas Armadas. Las Fuerzas Armadas están constituidas por el Ejército, la Marina de Guerra y la Fuerza Aérea. Tienen como finalidad primordial garantizar la independencia, la soberanía y la integridad territorial de la República. Asumen el control del orden interno de conformidad con el artículo 137 de la Constitución.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "166",
+              "texto": "Finalidad de la Policía Nacional. La Policía Nacional tiene por finalidad fundamental garantizar, mantener y restablecer el orden interno. Presta protección y ayuda a las personas y a la comunidad. Garantiza el cumplimiento de las leyes y la seguridad del patrimonio público y del privado. Previene, investiga y combate la delincuencia. Vigila y controla las fronteras.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "167",
+              "texto": "Jefe Supremo de las Fuerzas Armadas y Policía Nacional. El Presidente de la República es el Jefe Supremo de las Fuerzas Armadas y de la Policía Nacional.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "169",
+              "texto": "Carácter no deliberante de las Fuerzas Armadas y Policía Nacional. Las Fuerzas Armadas y la Policía Nacional no son deliberantes. Están subordinadas al poder constitucional.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "170",
+              "texto": "Requerimiento logístico de las Fuerzas Armadas y Policía Nacional. La ley asigna los fondos destinados a satisfacer los requerimientos logísticos de las Fuerzas Armadas y la Policía Nacional. Tales fondos deben ser dedicados exclusivamente a fines institucionales, bajo el control de la autoridad señalada por la ley.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "171",
+              "texto": "Fuerzas Armadas, Policía Nacional y el desarrollo del país. Las Fuerzas Armadas y la Policía Nacional participan en el desarrollo económico y social del país, y en la defensa civil de acuerdo a ley.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "172",
+              "texto": "Efectivos de las Fuerzas Armadas y Policía Nacional. Ascensos. El número de efectivos de las Fuerzas Armadas y de la Policía Nacional se fija anualmente por el Poder Ejecutivo. Los recursos correspondientes son aprobados en la Ley de Presupuesto. Los ascensos se confieren de conformidad con la ley. El Presidente de la República otorga los ascensos de los generales y almirantes de las Fuerzas Armadas y de los generales de la Policía Nacional, según propuesta del instituto correspondiente.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "173",
+              "texto": "Competencia del Fuero Privativo Militar. En caso de delito de función, los miembros de las Fuerzas Armadas y de la Policía Nacional están sometidos al fuero respectivo y al Código de Justicia Militar. Las disposiciones de éste no son aplicables a los civiles, salvo en el caso de los delitos de traición a la patria y de terrorismo que la ley determina. La casación a que se refiere el artículo 141 sólo es aplicable cuando se imponga la pena de muerte. Quienes infringen las normas del Servicio Militar Obligatorio están asimismo sometidos al Código de Justicia Militar.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "174",
+              "texto": "Equivalencia de derechos de oficiales de las Fuerzas Armadas y Policía Nacional. Los grados y honores, las remuneraciones y las pensiones inherentes a la jerarquía de oficiales de las Fuerzas Armadas y de la Policía Nacional son equivalentes. La ley establece las equivalencias correspondientes al personal militar o policial de carrera que no tiene grado o jerarquía de oficial. En ambos casos, los derechos indicados sólo pueden retirarse a sus titulares por sentencia judicial.",
+              "enumeraciones": []
+            },
+            {
+              "id": "articulo",
+              "numero": "175",
+              "texto": "Uso y posesión de armas de guerra. Sólo las Fuerzas Armadas y la Policía Nacional pueden poseer y usar armas de guerra. Todas las que existen, así como las que se fabriquen o se introduzcan en el país pasan a ser propiedad del Estado sin proceso ni indemnización. Se exceptúa la fabricación de armas de guerra por la industria privada en los casos que la ley señale. La ley reglamenta la fabricación, el comercio, la posesión y el uso, por los particulares, de armas distintas de las de guerra.",
+              "enumeraciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "numero": "V",
+      "nombre": "DE LAS GARANTÍAS CONSTITUCIONALES",
+      "capitulos": [
+        {
+          "id": "capitulo",
+          "numero": "I",
+          "nombre": "DISPOSICIONES GENERALES",
+          "articulos": [
+            {
+              "id": "articulo",
+              "numero": "200",
+              "texto": "Acciones de Garantía Constitucional. Son garantías constitucionales:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "La Acción de Hábeas Corpus, que procede ante el hecho u omisión, por parte de cualquier autoridad, funcionario o persona, que vulnera o amenaza la libertad individual o los derechos constitucionales conexos.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "La Acción de Amparo, que procede contra el hecho u omisión, por parte de cualquier autoridad, funcionario o persona, que vulnera o amenaza los demás derechos reconocidos por la Constitución, con excepción de los señalados en el inciso siguiente. No procede contra normas legales ni contra Resoluciones Judiciales emanadas de procedimiento regular.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "La Acción de Hábeas Data, que procede contra el hecho u omisión, por parte de cualquier autoridad, funcionario o persona, que vulnera o amenaza los derechos a que se refiere el artículo 2, incisos 5 y 6 de la Constitución.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "La Acción de Inconstitucionalidad, que procede contra las normas que tienen rango de ley: leyes, decretos legislativos, decretos de urgencia, tratados, reglamentos del Congreso, normas regionales de carácter general y ordenanzas municipales que contravengan la Constitución en la forma o en el fondo.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "La Acción Popular, que procede, por infracción de la Constitución y de la ley, contra los reglamentos, normas administrativas y resoluciones y decretos de carácter general, cualquiera sea la autoridad de la que emanen.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "La Acción de Cumplimiento, que procede contra cualquier autoridad o funcionario renuente a acatar una norma legal o un acto administrativo, sin perjuicio de las responsabilidades de ley.",
+                  "subenumeraciones": []
+                }
+              ]
+            },
+            {
+              "id": "articulo",
+              "numero": "203",
+              "texto": "Personas facultadas para interponer Acción de Inconstitucionalidad. Están facultados para interponer acción de inconstitucionalidad:",
+              "enumeraciones": [
+                {
+                  "id": "enumeracion",
+                  "numero": "1",
+                  "texto": "El Presidente de la República.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "2",
+                  "texto": "El Fiscal de la Nación.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "3",
+                  "texto": "El Presidente del Poder Judicial, con acuerdo de la Sala Plena de la Corte Suprema de Justicia.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "4",
+                  "texto": "El Defensor del Pueblo.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "5",
+                  "texto": "El veinticinco por ciento del número legal de miembros de la Cámara de Diputados o del Senado.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "6",
+                  "texto": "Cinco mil ciudadanos con firmas comprobadas por el Jurado Nacional de Elecciones. Si la norma es una ordenanza municipal, está facultado para impugnarla el uno por ciento de los ciudadanos del respectivo ámbito territorial, siempre que este porcentaje no exceda del número de firmas anteriormente señalado.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "7",
+                  "texto": "Los Gobernadores Regionales con acuerdo del Consejo Regional, o los alcaldes provinciales con acuerdo de su Concejo, en materias de su competencia.",
+                  "subenumeraciones": []
+                },
+                {
+                  "id": "enumeracion",
+                  "numero": "8",
+                  "texto": "Los colegios profesionales, en materias de su especialidad.",
+                  "subenumeraciones": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

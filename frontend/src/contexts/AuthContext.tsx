@@ -24,19 +24,23 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
 
       if (token && savedUser) {
         try {
-          // Verificar si el token es válido
+          // Verificar si el token es válido en el backend
           const response = await authService.getProfile();
           if (response.success && response.data) {
             setUser(response.data);
+            console.log('✅ Sesión restaurada automáticamente');
           } else {
             // Token inválido, limpiar localStorage
+            console.log('❌ Token inválido, limpiando sesión');
             localStorage.removeItem('token');
             localStorage.removeItem('user');
           }
         } catch (error) {
           console.error('Error checking auth:', error);
-          localStorage.removeItem('token');
-          localStorage.removeItem('user');
+          // En caso de error de conexión, mantener la sesión local
+          const userData = JSON.parse(savedUser);
+          setUser(userData);
+          console.log('⚠️ Usando sesión local (sin verificar servidor)');
         }
       }
       setIsLoading(false);
@@ -44,6 +48,31 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
 
     checkLoggedIn();
   }, []);
+
+  // Verificar token periódicamente (cada 30 minutos)
+  useEffect(() => {
+    if (!user) return;
+
+    const interval = setInterval(async () => {
+      try {
+        const response = await authService.getProfile();
+        if (!response.success) {
+          // Token inválido, cerrar sesión
+          console.log('❌ Token expirado, cerrando sesión');
+          localStorage.removeItem('token');
+          localStorage.removeItem('user');
+          setUser(null);
+          window.location.href = '/login';
+        } else {
+          console.log('✅ Token verificado correctamente');
+        }
+      } catch (error) {
+        console.error('Error verificando token:', error);
+      }
+    }, 30 * 60 * 1000); // 30 minutos
+
+    return () => clearInterval(interval);
+  }, [user]);
 
   const login = async (credentials: LoginForm): Promise<ApiResponse<AuthResponse>> => {
     const response = await authService.login({
@@ -55,6 +84,9 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
       setUser(response.data.user);
       localStorage.setItem('token', response.data.token);
       localStorage.setItem('user', JSON.stringify(response.data.user));
+      // Guardar timestamp de login para expiración personalizada
+      localStorage.setItem('loginTime', new Date().getTime().toString());
+      console.log('✅ Sesión iniciada y guardada en localStorage');
     }
     
     return response;
@@ -72,6 +104,9 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
       setUser(response.data.user);
       localStorage.setItem('token', response.data.token);
       localStorage.setItem('user', JSON.stringify(response.data.user));
+      // Guardar timestamp de login para expiración personalizada
+      localStorage.setItem('loginTime', new Date().getTime().toString());
+      console.log('✅ Usuario registrado y sesión guardada en localStorage');
     }
     
     return response;
@@ -86,6 +121,8 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
       setUser(null);
       localStorage.removeItem('token');
       localStorage.removeItem('user');
+      localStorage.removeItem('loginTime');
+      console.log('✅ Sesión cerrada y datos limpiados de localStorage');
     }
   };
 
@@ -110,6 +147,25 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
     return true;
   };
 
+  // Función para verificar expiración de sesión (7 días)
+  const checkSessionExpiry = (): boolean => {
+    const loginTime = localStorage.getItem('loginTime');
+    if (!loginTime) return true;
+    
+    const now = new Date().getTime();
+    const loginTimestamp = parseInt(loginTime);
+    const sessionDuration = 7 * 24 * 60 * 60 * 1000; // 7 días en milisegundos
+    
+    const isExpired = (now - loginTimestamp) > sessionDuration;
+    
+    if (isExpired) {
+      console.log('❌ Sesión expirada por tiempo');
+      logout();
+    }
+    
+    return isExpired;
+  };
+
   const value: AuthContextType = {
     user,
     login,
@@ -117,6 +173,7 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
     register,
     isLoading,
     checkPermission,
+    checkSessionExpiry,
   };
 
   return (

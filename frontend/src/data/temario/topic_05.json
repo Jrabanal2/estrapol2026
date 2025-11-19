@@ -1,0 +1,785 @@
+[
+  {
+    "nombre_tema": "LUCHA CONTRA LA CORRUPCIÓN EN EL SECTOR INTERIOR",
+    "texto": "Decreto Legislativo que aprueba herramientas para la lucha contra la corrupción en el Sector Interior",
+    "titulos": [
+      {
+        "id": "titulo",
+        "numero": "I",
+        "nombre": "OBJETO DE LA NORMA",
+        "capitulos": [
+          {
+            "id": "capitulo",
+            "numero": "01",
+            "nombre": "Disposiciones Generales",
+            "articulos": [
+              {
+                "id": "articulo",
+                "numero": "1",
+                "texto": "La presente ley tiene por objeto crear herramientas efectivas para la lucha contra la corrupción en el Sector Interior, con la finalidad de lograr una gestión transparente y confiable para la ciudadanía.",
+                "enumeraciones": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "titulo",
+        "numero": "II",
+        "nombre": "DECLARACIONES JURADAS DEL PERSONAL POLICIAL DE LA POLICÍA NACIONAL DEL PERÚ",
+        "capitulos": [
+          {
+            "id": "capitulo",
+            "numero": "01",
+            "nombre": "Declaraciones Juradas",
+            "articulos": [
+              {
+                "id": "articulo",
+                "numero": "2",
+                "texto": "Los Oficiales y Suboficiales de la Policía Nacional del Perú están obligados a presentar declaración jurada de ingresos, bienes y rentas. El cumplimiento de esta obligación se hace efectiva, sin perjuicio de lo dispuesto en la Ley 30521.",
+                "enumeraciones": []
+              },
+              {
+                "id": "articulo",
+                "numero": "3",
+                "texto": "Créase el \"Sistema de Declaraciones Juradas de Ingresos, Bienes y Rentas del Personal de la Policía Nacional del Perú\", instrumento mediante el cual se realiza el registro y procesamiento de las declaraciones juradas que presenta el personal policial a nivel nacional. La Administración del sistema estará a cargo del Ministerio del Interior.",
+                "enumeraciones": []
+              },
+              {
+                "id": "articulo",
+                "numero": "4",
+                "texto": "La Inspectoría General de la PNP es responsable de garantizar que el personal policial a nivel nacional realice el registro de sus declaraciones juradas de ingresos, bienes y rentas, para lo cual adoptará las medidas administrativas que correspondan, debiendo informar de tal hecho a la Oficina General de Integridad Institucional. La Dirección Ejecutiva de Tecnologías de la Información y Comunicaciones de la Policía Nacional del Perú, y la Dirección General de Gestión en Tecnologías de la Información y Comunicaciones del Ministerio del Interior, o los que hagan sus veces, prestarán el apoyo necesario para el adecuado funcionamiento del \"Sistema de Declaraciones Juradas de Ingresos, Bienes y Rentas del Personal de la Policía Nacional del Perú\".",
+                "enumeraciones": []
+              },
+              {
+                "id": "articulo",
+                "numero": "6",
+                "texto": "La Oficina General de Integridad Institucional verificará la información contenida en las Declaraciones Juradas de Bienes y Rentas adoptando las acciones administrativas, civiles o penales que correspondan.",
+                "enumeraciones": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "titulo",
+        "numero": "III",
+        "nombre": "PRUEBAS DE CONTROL Y CONFIANZA",
+        "capitulos": [
+          {
+            "id": "capitulo",
+            "numero": "01",
+            "nombre": "Pruebas de Control y Confianza",
+            "articulos": [
+              {
+                "id": "articulo",
+                "numero": "7",
+                "texto": "La Prueba de Control y Confianza se efectúa mediante la utilización del polígrafo u otros medios tecnológicos y tiene por finalidad evaluar el comportamiento laboral del personal del Sector Interior, el cual debe ser profesional, ético y moral contribuyendo con el cumplimiento óptimo de las funciones que le son asignadas. El sometimiento a la Prueba de Control y Confianza es voluntario y deberá contar con la autorización expresa del personal seleccionado para pasar la misma.",
+                "enumeraciones": []
+              },
+              {
+                "id": "articulo",
+                "numero": "8",
+                "texto": "Para la aplicación de la prueba de Control y Confianza se considera lo siguiente:",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "a",
+                    "texto": "El Ministro del Interior determinará la política para la aplicación de la Prueba de Control y Confianza a los funcionarios, servidores civiles o policiales del Sector Interior.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "b",
+                    "texto": "El Director General de la Oficina General de Integridad Institucional determinará la política para la aplicación de la Prueba de Control y Confianza a los funcionarios y/o servidores civiles de las oficinas a su cargo y la Inspectoría General de la Policía Nacional del Perú.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "c",
+                    "texto": "El Director General de la PNP determinará la política para la aplicación de la Prueba de Control y Confianza al personal policial a su cargo, determinando cuáles son las unidades policiales, niveles de comando y personal policial que deberá someterse a esta prueba.",
+                    "subenumeraciones": []
+                  }
+                ]
+              },
+              {
+                "id": "articulo",
+                "numero": "9",
+                "texto": "La Prueba de Control y Confianza tiene las siguientes características:",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "1",
+                    "texto": "El sometimiento a la prueba es voluntario.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "2",
+                    "texto": "No se afecta la intimidad personal.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "3",
+                    "texto": "El resultado de la prueba tiene carácter de información confidencial.",
+                    "subenumeraciones": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "titulo",
+        "numero": "IV",
+        "nombre": "RENDICIÓN DE CUENTAS AL CIUDADANO Y PRUEBA DE INTEGRIDAD",
+        "capitulos": [
+          {
+            "id": "capitulo",
+            "numero": "01",
+            "nombre": "Rendición de Cuentas",
+            "articulos": [
+              {
+                "id": "articulo",
+                "numero": "10",
+                "texto": "Las autoridades policiales dentro de su jurisdicción están obligadas a rendir cuenta ante su comunidad, respecto la gestión realizada, considerando la problemática policial de la jurisdicción, los objetivos propuestos y las metas alcanzadas. La medida se hará efectiva mediante audiencias públicas con la participación de autoridades y sociedad civil. La rendición de cuentas se realiza trimestralmente. Es responsabilidad del Jefe de Región Policial, Frentes Policiales o Direcciones Especializadas supervisar el cumplimiento de las rendiciones de cuentas. La Dirección General de la Policía Nacional adopta las acciones administrativas necesarias para la ejecución de las audiencias públicas a nivel nacional.",
+                "enumeraciones": []
+              }
+            ]
+          },
+          {
+            "id": "capitulo",
+            "numero": "02",
+            "nombre": "Prueba de Integridad",
+            "articulos": [
+              {
+                "id": "articulo",
+                "numero": "11",
+                "texto": "La Prueba de Integridad es la evaluación realizada al personal policial en situación de actividad y al personal civil del Sector Interior que permite verificar su disposición al cumplimiento de estándares mínimos de ética, integridad y honestidad. Consiste en plantear situaciones similares a las que un efectivo policial o servidor civil podrá enfrentar como parte de las actividades propias de su función.",
+                "enumeraciones": []
+              },
+              {
+                "id": "articulo",
+                "numero": "12",
+                "texto": "La Prueba de Integridad busca determinar si el personal policial en actividad o servidor civil del Sector Interior tiene una conducta íntegra, proba, honrada, incorruptible e insobornable en sus acciones cotidianas, de manera libre y espontánea.",
+                "enumeraciones": []
+              },
+              {
+                "id": "articulo",
+                "numero": "13",
+                "texto": "El Comisionado de Integridad es la persona seleccionada e instruida para plantear una situación simulada que permita evaluar la conducta íntegra, proba, honrada, incorruptible e insobornable del personal policial o civil del Sector Interior en el cumplimiento de sus funciones, dejando que los funcionarios y/o servidores decidan actuar conforme a la normatividad que lo regula o contraria a su normal cumplimiento.",
+                "enumeraciones": []
+              },
+              {
+                "id": "articulo",
+                "numero": "14",
+                "texto": "La Oficina General de Integridad Institucional efectuará la prueba de integridad al personal que forma parte del Sistema Disciplinario Policial, y al personal policial o civil de otras áreas del Sector Interior.",
+                "enumeraciones": []
+              },
+              {
+                "id": "articulo",
+                "numero": "15",
+                "texto": "El personal que no responda satisfactoriamente a la prueba de integridad, será reasignado a un nuevo cargo por no responder al perfil de la función específica a desarrollar u otra acción administrativa que se establezca por Ley. Los resultados de la prueba serán registrados en su legajo personal y perfil estadístico de la Dirección de Recursos Humanos o la que haga sus veces, para la evaluación de la asignación a nuevos cargos.",
+                "enumeraciones": []
+              },
+              {
+                "id": "articulo",
+                "numero": "16",
+                "texto": "La Prueba de Integridad tiene las siguientes características:",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "1",
+                    "texto": "La prueba se realizará por uno o varios de un comisionado de integridad.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "2",
+                    "texto": "Tiene carácter aleatorio y de aplicación a nivel nacional.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "3",
+                    "texto": "La aplicación de la prueba por sí misma no constituye sanción disciplinaria.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "4",
+                    "texto": "Si como resultado de la prueba se presenta una conducta tipificada como infracción disciplinaria o ilícito penal, se procederá de acuerdo a lo establecido en la normatividad vigente.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "5",
+                    "texto": "El comisionado de integridad actuará sin provocar situaciones comprometedoras que induzcan a la comisión de actos contrarios a la ley.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "6",
+                    "texto": "Las situaciones que se plantean en la prueba de integridad no serán invasivas a la privacidad.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "7",
+                    "texto": "Se guardará reserva del personal que se desempeña como comisionado de integridad.",
+                    "subenumeraciones": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "titulo",
+        "numero": "V",
+        "nombre": "IMPLEMENTACIÓN DE LA ESPECIALIDAD DE CONTROL ADMINISTRATIVO DISCIPLINARIO",
+        "capitulos": [
+          {
+            "id": "capitulo",
+            "numero": "01",
+            "nombre": "Especialidad de Control Administrativo Disciplinario",
+            "articulos": [
+              {
+                "id": "articulo",
+                "numero": "17",
+                "texto": "Adicionalmente a las especialidades señaladas en la Ley de la Policía Nacional del Perú créase como segunda especialidad la \"Especialidad de Control Administrativo Disciplinario\", la misma que se implementa dentro de la carrera de la Policía Nacional del Perú.",
+                "enumeraciones": []
+              },
+              {
+                "id": "articulo",
+                "numero": "18",
+                "texto": "La Especialidad de Control Administrativo Disciplinario tiene por objetivo que los órganos y unidades orgánicas del Sistema Disciplinario policial cuenten con personal policial altamente calificado y con el perfil idóneo que permita realizar una labor profesional y efectiva para el control del buen uso de los recursos asignados por el Estado, así como la preservación de los bienes jurídicos que sustentan la función policial. El personal policial previamente seleccionado formará parte de los órganos y unidades orgánicas del Sistema Disciplinario Policial Inspectoría General de la PNP y accede en la jerarquía de oficial superior en el grado de mayor y en caso de suboficiales, a partir de la jerarquía de suboficiales técnicos. El personal policial que accede a esta especialidad permanecerá en ésta hasta el término de su carrera.",
+                "enumeraciones": []
+              },
+              {
+                "id": "articulo",
+                "numero": "19",
+                "texto": "El personal policial que ejerza la Especialidad de Control Administrativo Disciplinario tiene los siguientes incentivos:",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "a",
+                    "texto": "Bonificación por función administrativa y de apoyo operativo efectivo en el marco del Decreto Legislativo 1132.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "b",
+                    "texto": "Vacantes exclusivas en los procesos de ascenso para cubrir las necesidades de la especialidad.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "c",
+                    "texto": "Capacitación permanente en el país y en extranjero por cada grado.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "d",
+                    "texto": "Permanencia en la especialidad hasta el término de la carrera policial.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "e",
+                    "texto": "El personal seleccionado no podrá pasar al retiro por causal de renovación de cuadros.",
+                    "subenumeraciones": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombre_tema": "REGLAMENTO DEL DECRETO LEGISLATIVO Nº 1291",
+    "texto": "Decreto Supremo que aprueba el Reglamento del Decreto Legislativo Nº 1291, Decreto Legislativo que aprueba herramientas para la lucha contra la corrupción en el Sector Interior",
+    "titulos": [
+      {
+        "id": "titulo",
+        "numero": "I",
+        "nombre": "DISPOSICIONES GENERALES",
+        "capitulos": [
+          {
+            "id": "capitulo",
+            "numero": "01",
+            "nombre": "Disposiciones Preliminares",
+            "articulos": [
+              {
+                "id": "articulo",
+                "numero": "1",
+                "texto": "Apruébese el Reglamento del Decreto Legislativo Nº 1291, Decreto Legislativo que aprueba herramientas para la lucha contra la corrupción en el Sector Interior, y que consta de tres (3) títulos, cuatro (4) capítulos, treinta y dos (32) artículos, una (1) disposición complementaria final y dos (2) disposiciones complementarias transitorias; el mismo que forma parte integrante del presente Decreto Supremo.",
+                "enumeraciones": []
+              },
+              {
+                "id": "articulo",
+                "numero": "2",
+                "texto": "Cuando en el presente Decreto Supremo se mencione, sin especificar:",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "a",
+                    "texto": "Decreto Legislativo: se entiende el Decreto Legislativo Nº 1291, Decreto Legislativo que aprueba herramientas para la lucha contra la corrupción en el Sector Interior.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "b",
+                    "texto": "Sector: se entiende el Sector Interior",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "c",
+                    "texto": "Ministerio: se entiende el Ministerio del Interior",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "d",
+                    "texto": "PNP: se entiende la Policía Nacional del Perú",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "e",
+                    "texto": "Sistema: se entiende el Sistema de Declaraciones Juradas de Ingresos, Bienes y Rentas del Personal de la Policía Nacional del Perú",
+                    "subenumeraciones": []
+                  }
+                ]
+              },
+              {
+                "id": "articulo",
+                "numero": "3",
+                "texto": "El personal de los diferentes órganos y unidades orgánicas del Sector Interior, incluyendo a la Policía Nacional del Perú que tenga como función la aplicación de las herramientas para la lucha contra la corrupción establecidas en el Decreto Legislativo Nº 1291, está obligado a mantener estricta reserva y confidencialidad de toda la información obtenida como resultado de la aplicación de dichas herramientas. El uso de la información obtenida se limita única y exclusivamente para fines institucionales.",
+                "enumeraciones": []
+              },
+              {
+                "id": "articulo",
+                "numero": "4",
+                "texto": "Registro de los resultados de la aplicación de las Herramientas para la Lucha contra la Corrupción",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "4.1",
+                    "texto": "Los resultados obtenidos como consecuencia de la aplicación de las Herramientas para la Lucha contra la Corrupción, son registrados en los legajos personales del personal civil o policial, según corresponda.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "4.2",
+                    "texto": "En el caso de la prueba del polígrafo, se incorporan adicionalmente las autorizaciones de sometimiento a dichas pruebas o su negativa de ser el caso.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "4.3",
+                    "texto": "Para efectos de la administración de los resultados señalados precedentemente, se toma en cuenta lo dispuesto por la Ley Nº 29733, Ley de Protección de Datos Personales.",
+                    "subenumeraciones": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "titulo",
+        "numero": "II",
+        "nombre": "HERRAMIENTAS PARA LA LUCHA CONTRA LA CORRUPCIÓN EN EL SECTOR INTERIOR",
+        "capitulos": [
+          {
+            "id": "capitulo",
+            "numero": "01",
+            "nombre": "DECLARACIÓN JURADA DE INGRESOS, BIENES Y RENTAS DEL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ",
+            "articulos": [
+              {
+                "id": "articulo",
+                "numero": "5",
+                "texto": "La presentación de la Declaración Jurada de Ingresos, Bienes y Rentas tiene como objetivo fomentar la cultura de transparencia en todo el personal de la Policía Nacional del Perú, evidenciando su situación patrimonial y financiera, verificando si existe concordancia entre sus ingresos, bienes y gastos o desbalance patrimonial.",
+                "enumeraciones": []
+              },
+              {
+                "id": "articulo",
+                "numero": "9",
+                "texto": "La Declaración Jurada de Ingresos, Bienes y Rentas, no obliga a la presentación de documentos que sustenten su contenido. Estos pueden ser requeridos únicamente cuando se evidencien inconsistencias en la información presentada.",
+                "enumeraciones": []
+              },
+              {
+                "id": "articulo",
+                "numero": "10",
+                "texto": "La Oficina de Control, Cumplimiento y Confianza de la Oficina General de Integridad Institucional, respecto a las declaraciones juradas de ingresos, bienes y rentas del personal policial tiene las siguientes funciones:",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "a",
+                    "texto": "Administrar la plataforma denominada \"Sistema de Declaraciones Juradas de Ingresos, Bienes y Rentas\", así como de toda la información que se obtenga de ésta y de la verificación de la misma.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "b",
+                    "texto": "Realizar el análisis, verificación y seguimiento de manera aleatoria de la información contenida en las declaraciones juradas correspondientes previamente registradas en el \"Sistema de Declaraciones Juradas de Ingresos, Bienes y Rentas del Personal de la Policía Nacional del Perú\"",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "c",
+                    "texto": "Poner en conocimiento de la autoridad correspondiente para las acciones de su competencia, aquellos casos, en que del contenido de lo declarado, se evidencien hechos que hagan presumir o constituyan infracción disciplinaria o presunta comisión de un ilícito penal.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "d",
+                    "texto": "Requerir documentación que considere necesaria a los declarantes cuando existan inconsistencias en la información registrada en el Sistema.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "e",
+                    "texto": "Gestionar a través de la Oficina General de Integridad Institucional del Ministerio del Interior- la obtención de información de otros organismos o entidades públicas o privadas, para la verificación y contraste del contenido de las declaraciones juradas.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "f",
+                    "texto": "Dictar los lineamientos para garantizar la confidencialidad y reserva de la información a las Declaraciones Juradas de ingresos bienes y rentas registradas en el Sistema.",
+                    "subenumeraciones": []
+                  }
+                ]
+              },
+              {
+                "id": "articulo",
+                "numero": "11",
+                "texto": "La Inspectoría General de la PNP, respecto de las declaraciones juradas de ingresos, bienes y rentas del personal policial tiene las siguientes funciones:",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "a",
+                    "texto": "Garantizar el cumplimiento de la presentación de las declaraciones juradas de ingresos, bienes y rentas del personal policial a nivel nacional, de manera oportuna.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "b",
+                    "texto": "Dictar los lineamientos necesarios para garantizar el cumplimiento de la presentación de las declaraciones juradas de ingresos, bienes y rentas del personal policial a nivel nacional.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "c",
+                    "texto": "Disponer que los órganos competentes adopten las acciones administrativas disciplinarias que correspondan, en caso se acredite el incumplimiento de la presentación de la Declaración Jurada de Ingresos, Bienes y Rentas por parte del personal policial.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "d",
+                    "texto": "Informar mensualmente a la Oficina General de Integridad Institucional sobre el cumplimiento de la presentación de las declaraciones juradas de ingresos, bienes y rentas del personal policial.",
+                    "subenumeraciones": []
+                  }
+                ]
+              },
+              {
+                "id": "articulo",
+                "numero": "12",
+                "texto": "Funcionamiento, mantenimiento y acceso al \"Sistema de Declaraciones Juradas de Ingresos, Bienes y Rentas del Personal de la Policía Nacional del Perú\"",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "12.1",
+                    "texto": "La Oficina General de Tecnologías de la Información y Comunicaciones del Ministerio del Interior y la Policía Nacional del Perú, a través de la Dirección Ejecutiva de Tecnologías de la Información y Comunicaciones de la PNP, o la que haga sus veces, son responsables del funcionamiento y mantenimiento de la plataforma informática \"Sistema de Declaraciones Juradas de Ingresos, Bienes y Rentas del Personal de la Policía Nacional del Perú\", así como de su actualización permanente.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "12.2",
+                    "texto": "De acuerdo a los lineamientos emitidos por la Oficina General de Integridad Institucional, la Oficina General de Tecnologías de la Información y Comunicaciones del Ministerio del Interior asigna los perfiles de acceso y usuarios al sistema.",
+                    "subenumeraciones": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "capitulo",
+            "numero": "02",
+            "nombre": "PRUEBA DE CONTROL Y CONFIANZA",
+            "articulos": [
+              {
+                "id": "articulo",
+                "numero": "13",
+                "texto": "Objetivo de la prueba de control y confianza",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "13.1",
+                    "texto": "La prueba de control y confianza se aplica al personal civil y policial del Sector Interior y tiene como objetivo fortalecer los niveles de confiabilidad y seguridad, mediante la identificación de personal cuyas conductas, principios y valores sean acordes a los institucionales, así como prevenir riesgos que dañen la operación, seguridad y cumplimiento de los objetivos institucionales.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "13.2",
+                    "texto": "La aplicación de la prueba de control y confianza se realiza con la utilización de soportes tecnológicos.",
+                    "subenumeraciones": []
+                  }
+                ]
+              },
+              {
+                "id": "articulo",
+                "numero": "14",
+                "texto": "Tipos de Prueba de control y confianza",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "14.1",
+                    "texto": "La prueba de control y confianza se realiza mediante la aplicación de evaluaciones de confiabilidad, entorno social y situación patrimonial, evaluación psicométrica, uso de polígrafo u otros medios tecnológicos.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "14.2",
+                    "texto": "Las evaluaciones indicadas precedentemente no constituyen una lista cerrada, pudiendo incorporarse, por disposición de la Oficina General de Integridad Institucional, todas aquellas pruebas de control y confianza que puedan generarse como consecuencia del avance tecnológico.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "14.3",
+                    "texto": "La ejecución de la prueba de control y confianza es independiente de las pruebas de descarte toxicológico o de alcoholemia que la Oficina de Control, Cumplimiento y Confianza de la Oficina General de Integridad Institucional o la Inspectoría General de la PNP pueden realizar como parte de sus actividades propias o de cualquier otra dispuesta legalmente.",
+                    "subenumeraciones": []
+                  }
+                ]
+              },
+              {
+                "id": "articulo",
+                "numero": "15",
+                "texto": "La evaluación de confiabilidad es aquella que permite verificar el nivel de confianza, disciplina, ética, integridad, tendencia a comportamientos negativos y juicio del personal evaluado, con relación al respeto y cumplimiento de las normas y condiciones que rigen su función.",
+                "enumeraciones": []
+              },
+              {
+                "id": "articulo",
+                "numero": "16",
+                "texto": "La prueba de entorno social y situación patrimonial es aquella mediante la cual se verifica la congruencia entre la información patrimonial proporcionada por personal civil o policial y el entorno social, económico y laboral en el que se desarrolla.",
+                "enumeraciones": []
+              },
+              {
+                "id": "articulo",
+                "numero": "17",
+                "texto": "Evaluación mediante uso de polígrafo o instrumentos similares",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "17.1",
+                    "texto": "La evaluación mediante la utilización de polígrafo o instrumentos similares, es aquella mediante la cual se verifica la reacción psicofisiológica del evaluado ante la aplicación de un cuestionario a fin de establecer la veracidad de la información proporcionada.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "17.2",
+                    "texto": "El personal seleccionado para ser sometido a la prueba, debe expresar de manera indubitable su voluntad de ser sometido a la misma, caso contrario deja constancia de su negativa.",
+                    "subenumeraciones": []
+                  }
+                ]
+              },
+              {
+                "id": "articulo",
+                "numero": "20",
+                "texto": "Aplicación de las pruebas de control y confianza",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "20.1",
+                    "texto": "La aplicación de las pruebas se realiza a través de personal especializado del Sector o consultores externos.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "20.2",
+                    "texto": "Corresponde a la Oficina de Control, Cumplimiento y Confianza elaborar las directivas que establezcan los protocolos, procedimientos, metas, objetivos y plazos para la aplicación de las pruebas, asimismo es la encargada de disponer y supervisar su ejecución, salvo en aquellos casos en que la prueba se encuentre determinada por directivas o normas internas de la PNP, en cuyo caso la prueba es supervisada y ejecutada por la PNP conforme a sus propios procedimientos.",
+                    "subenumeraciones": []
+                  }
+                ]
+              },
+              {
+                "id": "articulo",
+                "numero": "21",
+                "texto": "Contenido de la prueba",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "21.1",
+                    "texto": "El contenido de la prueba de control y confianza se elabora en base a la actividad funcional del órgano, unidad o dependencia en la cual el servidor civil o policial labora o presta servicios.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "21.2",
+                    "texto": "En ningún caso la prueba puede estar referida a la vida personal o privada del personal o su familia, ni atentar contra su honor, dignidad, derechos humanos o principios constitucionales. Tampoco puede versar sobre la condición actual de salud de la persona evaluada, salvo autorización expresa de esta.",
+                    "subenumeraciones": []
+                  }
+                ]
+              },
+              {
+                "id": "articulo",
+                "numero": "22",
+                "texto": "Restricciones y reservas",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "22.1",
+                    "texto": "La Prueba de Control y Confianza no puede ser aplicada dentro de un procedimiento administrativo disciplinario sancionador.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "22.2",
+                    "texto": "La Oficina de Control, Cumplimiento y Confianza, así como el personal policial, pericial o técnico que participe en la prueba, se encuentra obligado a mantener estricta confidencialidad respecto de la información obtenida con las pruebas de control y confianza.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "22.3",
+                    "texto": "La información obtenida de las pruebas de control y confianza se codifica bajo responsabilidad de la Oficina de Control, Cumplimiento y Confianza.",
+                    "subenumeraciones": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "capitulo",
+            "numero": "03",
+            "nombre": "RENDICIÓN DE CUENTAS AL CIUDADANO POR EL EJERCICIO DE FUNCIÓN POLICIAL",
+            "articulos": [
+              {
+                "id": "articulo",
+                "numero": "24",
+                "texto": "Obligados a rendir cuentas, oportunidad de rendición y contenido",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "24.1",
+                    "texto": "La Dirección General de la PNP establece cuáles son las autoridades policiales obligadas a rendir cuentas dentro de su respectiva jurisdicción conforme al artículo 10 del Decreto Legislativo. Corresponde al Jefe de la respectiva Región Policial, Frente Policial o Dirección Especializada, establecer el rol de rendición de cuentas al ciudadano y supervisar su cumplimiento.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "24.2",
+                    "texto": "La rendición de cuentas estará referida al incremento o disminución de la criminalidad dentro de la jurisdicción, así como a las dificultades con que pueda haberse encontrado la Policía Nacional del Perú en la ejecución de sus actividades, y a los logros y metas planteados y alcanzados o en desarrollo.",
+                    "subenumeraciones": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "capitulo",
+            "numero": "04",
+            "nombre": "PRUEBA DE INTEGRIDAD",
+            "articulos": [
+              {
+                "id": "articulo",
+                "numero": "27",
+                "texto": "Oficina responsable de la aplicación de la prueba de integridad",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "27.1",
+                    "texto": "La aplicación de la prueba de integridad está a cargo de la Oficina General de Integridad Institucional del Ministerio del Interior por intermedio de la Oficina de Control, Cumplimiento y Confianza. La Oficina General de Integridad Institucional coordina la ejecución de las pruebas de integridad con las autoridades de los diferentes órganos del Estado que fuere necesario.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "27.2",
+                    "texto": "Su aplicación es aleatoria y se realiza a través de uno o más comisionados de integridad.",
+                    "subenumeraciones": []
+                  }
+                ]
+              },
+              {
+                "id": "articulo",
+                "numero": "29",
+                "texto": "Consecuencias de la aplicación de la prueba",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "a",
+                    "texto": "El personal que no responda satisfactoriamente a la prueba de integridad, es reasignado a un nuevo cargo. La formalización de la acción administrativa está a cargo del jefe inmediato superior del efectivo policial o personal civil sometido a la prueba, registrándose tal hecho en su legajo personal.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "b",
+                    "texto": "Cuando de la aplicación de la prueba se identifiquen deficiencias en los procesos de atención al ciudadano u otros que no constituyan infracción administrativa o penal, la Oficina de Control, Cumplimiento y Confianza tiene en cuenta dichos resultados para la mejora de protocolos y procedimientos que satisfagan las necesidades ciudadanas, lo cual es puesto en conocimiento del órgano u unidad donde presta servicios el personal que sea sometido a la prueba.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "c",
+                    "texto": "En caso de evidenciarse la comisión de infracciones administrativas, los registros de las pruebas constituyen indicios para el inicio de acciones disciplinarias. Si los hechos constituyen ilícito penal, se hacen de conocimiento de la autoridad competente poniendo a su disposición los recaudos obtenidos.",
+                    "subenumeraciones": []
+                  }
+                ]
+              },
+              {
+                "id": "articulo",
+                "numero": "30",
+                "texto": "Las acciones simuladas no podrán constituir actos manifiestamente provocadores que signifiquen hechos inductivos o instigadores para la comisión de una conducta funcional irregular. La Oficina General de Integridad Institucional dictará las pautas que deben seguirse para la ejecución de las pruebas de integridad.",
+                "enumeraciones": []
+              },
+              {
+                "id": "articulo",
+                "numero": "31",
+                "texto": "Comisionados de integridad",
+                "enumeraciones": [
+                  {
+                    "id": "enumeracion",
+                    "numero": "31.1",
+                    "texto": "Los comisionados de integridad son seleccionados por la Oficina General de Integridad Institucional por intermedio de la Oficina de Control, Cumplimiento y Confianza. Pueden ser seleccionadas como comisionados de integridad, personas pertenecientes al Sector o ajenas a él, que acepten colaborar como tales.",
+                    "subenumeraciones": []
+                  },
+                  {
+                    "id": "enumeracion",
+                    "numero": "31.2",
+                    "texto": "La identidad de los comisionados de Integridad, se mantiene en reserva hasta el término de la ejecución de la prueba. Su acreditación como comisionado de integridad es otorgada por la Oficina de Control, Cumplimiento y Confianza, debiendo registrar su identidad para asegurar su amparo en caso sea necesario.",
+                    "subenumeraciones": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "titulo",
+        "numero": "III",
+        "nombre": "DISPOSICIÓN COMPLEMENTARIA FINAL",
+        "capitulos": [
+          {
+            "id": "capitulo",
+            "numero": "01",
+            "nombre": "Disposición Final",
+            "articulos": [
+              {
+                "id": "articulo",
+                "numero": "Única",
+                "texto": "Delegación de la aplicación de las pruebas. La Oficina General de Integridad Institucional del Ministerio del Interior, cuando considere conveniente, puede delegar en la Inspectoría General de la Policía Nacional del Perú la ejecución de pruebas a su cargo. En este caso la Inspectoría General de la PNP informa documentadamente el resultado de las pruebas a la autoridad delegante dentro de los quince días calendario posteriores a su ejecución.",
+                "enumeraciones": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

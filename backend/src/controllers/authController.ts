@@ -3,7 +3,9 @@ import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
 import { validationResult } from 'express-validator';
 import User from '../models/User';
+import UserSession from '../models/UserSession';
 import { IUser } from '../types';
+import { AuthRequest } from '../middleware/auth';
 
 interface RegisterData {
   username: string;
@@ -11,6 +13,13 @@ interface RegisterData {
   password: string;
   phone?: string;
 }
+
+// Función para generar un ID único de dispositivo
+const generateDeviceId = (req: Request): string => {
+  const userAgent = req.get('User-Agent') || '';
+  const ip = req.ip || req.connection.remoteAddress || '';
+  return Buffer.from(`${userAgent}-${ip}`).toString('base64').slice(0, 32);
+};
 
 // Versión actualizada con validaciones mejoradas
 export const register = async (req: Request, res: Response): Promise<void> => {
@@ -124,7 +133,6 @@ export const register = async (req: Request, res: Response): Promise<void> => {
   }
 };
 
-// El resto del código de login, logout y getProfile se mantiene igual...
 export const login = async (req: Request, res: Response): Promise<void> => {
   try {
     const errors = validationResult(req);
@@ -175,7 +183,56 @@ export const login = async (req: Request, res: Response): Promise<void> => {
       { expiresIn: '7d' }
     );
 
-    // Actualizar último login
+    // Generar deviceId único
+    const deviceId = generateDeviceId(req);
+
+    // Verificar si ya existe una sesión activa para este dispositivo
+    const existingSession = await UserSession.findOne({
+      userId: user._id,
+      deviceId: deviceId,
+      isActive: true
+    });
+
+    if (existingSession) {
+      // Actualizar token y última actividad de la sesión existente
+      existingSession.token = token;
+      existingSession.lastActivity = new Date();
+      await existingSession.save();
+    } else {
+      // Verificar si el usuario ya tiene una sesión activa en otro dispositivo
+      const activeSessions = await UserSession.find({
+        userId: user._id,
+        isActive: true
+      });
+
+      // Si ya tiene una sesión activa, cerrarla (solo permite una sesión por usuario)
+      if (activeSessions.length > 0) {
+        await UserSession.updateMany(
+          { userId: user._id, isActive: true },
+          { 
+            isActive: false, 
+            logoutTime: new Date(),
+            forcedLogout: true 
+          }
+        );
+      }
+
+      // Crear nueva sesión
+      const userSession = new UserSession({
+        userId: user._id,
+        deviceId: deviceId,
+        token: token,
+        userAgent: req.get('User-Agent') || '',
+        ipAddress: req.ip || req.connection.remoteAddress || '',
+        loginTime: new Date(),
+        lastActivity: new Date(),
+        isActive: true
+      });
+
+      await userSession.save();
+    }
+
+    // Actualizar último login del usuario
     user.lastLogin = new Date();
     await user.save();
 
@@ -206,8 +263,21 @@ export const login = async (req: Request, res: Response): Promise<void> => {
   }
 };
 
-export const logout = async (req: Request, res: Response): Promise<void> => {
+export const logout = async (req: AuthRequest, res: Response): Promise<void> => {
   try {
+    const token = req.header('Authorization')?.replace('Bearer ', '');
+    
+    if (token) {
+      // Cerrar la sesión específica
+      await UserSession.findOneAndUpdate(
+        { token: token, isActive: true },
+        { 
+          isActive: false, 
+          logoutTime: new Date() 
+        }
+      );
+    }
+
     console.log('✅ Logout exitoso');
     res.json({ 
       success: true, 
@@ -223,10 +293,9 @@ export const logout = async (req: Request, res: Response): Promise<void> => {
   }
 };
 
-export const getProfile = async (req: Request, res: Response): Promise<void> => {
+export const getProfile = async (req: AuthRequest, res: Response): Promise<void> => {
   try {
-    const authReq = req as any;
-    const user = await User.findById(authReq.user._id).select('-password');
+    const user = await User.findById(req.user._id).select('-password');
     
     if (!user) {
       res.status(404).json({ 
